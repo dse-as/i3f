@@ -35,7 +35,7 @@ mf_label = "{some title/label of document}"
 [mf_data]
 "{mf_id}_nnn" = "https://{iiif-server}/{path}/{identifier}/info.json"
 ```
-Note that double quotes are not allowed within values (use single quotes instead).
+Note that double quotes are not allowed within values (use [other quotes[(https://docs.annemarie-schwarzenbach.ch/arbeitsschritte/IIIF-manifest-anlegen#erforderliche-angaben-fur-die-input-dateien) instead).
 
 ## Contributing manifests
 
