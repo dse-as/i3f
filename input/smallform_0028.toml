@@ -1,0 +1,6 @@
+mf_id = "smallform_0028.json"
+mf_lang = "en"
+mf_label = "Brief von der Côte d'Azur"
+
+[mf_data]
+"smallform_0028_001" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/smallform_0028_001.png/info.json"
