@@ -1,0 +1,8 @@
+mf_id = "smallform_0373.json"
+mf_lang = "en"
+mf_label = "Die Grenzen Afghanistans"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_smallform_0373_001" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/smallform_0373_001.png/info.json"
