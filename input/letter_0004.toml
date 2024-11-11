@@ -5,8 +5,8 @@ mf_label = "Lettre d'Annemarie Schwarzenbach à Claude Bourdet"
 # IIIF image links as a sequence of key/value pairs under `[mf_data]`
 
 [mf_data]
-"letter_0004_001" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0001.jpg"
-"letter_0004_002" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0002.jpg"
-"letter_0004_003" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0003.jpg"
-"letter_0004_004" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0004.jpg"
-"letter_0004_005" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0005.jpg"
+"letter_0004_001" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0001.jpg/info.json"
+"letter_0004_002" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0002.jpg/info.json"
+"letter_0004_003" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0003.jpg/info.json"
+"letter_0004_004" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0004.jpg/info.json"
+"letter_0004_005" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587679-BCUL-PREVIEW-426357_0005.jpg/info.json"
