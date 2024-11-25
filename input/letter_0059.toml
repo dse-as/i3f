@@ -6,10 +6,10 @@ mf_label = "Schwarzenbach, Annemarie an Boveri, Margret"
 # IIIF image links as a sequence of key/value pairs under `[mf_data]`
 
 [mf_data]
-"https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_001.tif/info.json"
-"https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_002.tif/info.json"
-"https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_003.tif/info.json"
-"https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_004.tif/info.json"
-"https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_005.tif/info.json"
-"https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_006.tif/info.json"
-"https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_007.tif/info.json"
+"letter_0059_001" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_001.tif/info.json"
+"letter_0059_002" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_002.tif/info.json"
+"letter_0059_003" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_003.tif/info.json"
+"letter_0059_004" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_004.tif/info.json"
+"letter_0059_005" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_005.tif/info.json"
+"letter_0059_006" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_006.tif/info.json"
+"letter_0059_007" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/letter_0059_007.tif/info.json"
