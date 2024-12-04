@@ -1,0 +1,11 @@
+mf_id = "smallform_0044.json"
+mf_lang = "en"
+mf_label = "Ruth"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0044_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0044_001.tif/info.json"
+"smallform_0044_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0044_002.tif/info.json"
+"smallform_0044_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0044_003.tif/info.json"
+"smallform_0044_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0044_004.tif/info.json"
