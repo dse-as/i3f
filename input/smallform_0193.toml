@@ -1,0 +1,12 @@
+mf_id = "smallform_0193.json"
+mf_lang = "en"
+mf_label = "Schrecken der orientalischen Landstraßen"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0193_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0193_001.tif/info.json"
+"smallform_0193_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0193_002.tif/info.json"
+"smallform_0193_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0193_003.tif/info.json"
+"smallform_0193_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0193_004.tif/info.json"
+"smallform_0193_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0193_005.tif/info.json"
