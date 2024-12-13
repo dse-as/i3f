@@ -1,0 +1,8 @@
+mf_id = "smallform_0365.json"
+mf_lang = "en"
+mf_label = "Der Brand des 'Orazio'"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0365_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0365_001.tif/info.json"
