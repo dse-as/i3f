@@ -1,0 +1,8 @@
+mf_id = "smallform_0199.json"
+mf_lang = "en"
+mf_label = "Jenseits von New York"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0199_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0199_001.tif/info.json"
