@@ -1,0 +1,25 @@
+mf_id = "smallform_0429.json"
+mf_lang = "en"
+mf_label = "Afghanistan in Transition"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0429_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_001.tif/info.json"
+"smallform_0429_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_002.tif/info.json"
+"smallform_0429_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_003.tif/info.json"
+"smallform_0429_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_004.tif/info.json"
+"smallform_0429_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_005.tif/info.json"
+"smallform_0429_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_006.tif/info.json"
+"smallform_0429_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_007.tif/info.json"
+"smallform_0429_008" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_008.tif/info.json"
+"smallform_0429_009" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_009.tif/info.json"
+"smallform_0429_010" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_010.tif/info.json"
+"smallform_0429_011" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_011.tif/info.json"
+"smallform_0429_012" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_012.tif/info.json"
+"smallform_0429_013" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_013.tif/info.json"
+"smallform_0429_014" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_014.tif/info.json"
+"smallform_0429_015" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_015.tif/info.json"
+"smallform_0429_016" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_016.tif/info.json"
+"smallform_0429_017" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_017.tif/info.json"
+"smallform_0429_018" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0429_018.tif/info.json"
