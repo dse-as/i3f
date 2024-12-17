@@ -1,0 +1,8 @@
+mf_id = "smallform_0240.json"
+mf_lang = "en"
+mf_label = "Am gleichen Meer. Die Hafenstädte des 'Imperium Maris Baltici'"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0240_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1937_013!zui-001_1937_013_1162.jpg/info.json"
