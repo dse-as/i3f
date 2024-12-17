@@ -1,0 +1,8 @@
+mf_id = "smallform_0039.json"
+mf_lang = "en"
+mf_label = "Aufruhr in Andorra"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0039_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1933_009!zui-001_1933_009_1063.jpg/info.json "

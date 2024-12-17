@@ -1,0 +1,8 @@
+mf_id = "smallform_0043.json"
+mf_lang = "en"
+mf_label = "Loyola, das verlassene Kloster."
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0043_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1933_009!zui-001_1933_009_1100.jpg/info.json"
