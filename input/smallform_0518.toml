@@ -1,0 +1,9 @@
+mf_id = "smallform_0518.json"
+mf_lang = "en"
+mf_label = "Aequator"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0518_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0518_001.tif/info.json"
+"smallform_0518_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0518_002.tif/info.json"
