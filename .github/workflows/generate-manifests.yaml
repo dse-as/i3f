@@ -29,7 +29,7 @@ jobs:
 # directory listing
     # - run: pwd
     - run: mkdir debug && mv ${{ RUNNER.temp }}/nb-runner/* debug
-    - run: mkdir presentation && mv ${{ RUNNER.temp }}/nb-runner/presentation/* presentation
+    - run: mv debug/presentation .
     # - run: ls -l
     - name: Generate Directory Listings
       uses: jayanta525/github-pages-directory-listing@v4.0.0
