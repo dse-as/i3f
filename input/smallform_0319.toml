@@ -5,5 +5,5 @@ mf_label = "Quer durch Kleinasien III: Bayazid: Türkisch-iranische Grenze"
 # IIIF image links as a sequence of key/value pairs under `[mf_data]`
 
 [mf_data]
-"smallform_0319_001" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/smallform_0319_001.png/info.json"
-"smallform_0319_002" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/smallform_0319_002.png/info.json"
+"smallform_0319_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0319_001.png/info.json"
+"smallform_0319_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0319_002.png/info.json"

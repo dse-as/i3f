@@ -5,4 +5,4 @@ mf_label = "Afghanisch-Turkestan"
 # IIIF image links as a sequence of key/value pairs under `[mf_data]`
 
 [mf_data]
-"smallform_0427_001" = "https://iiif.ub.unibe.ch/image/v3/dsl_dev/smallform_0427_001.png/info.json"
+"smallform_0427_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0427_001.png/info.json"
