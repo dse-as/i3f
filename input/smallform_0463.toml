@@ -1,0 +1,9 @@
+mf_id = "smallform_0463.json"
+mf_lang = "en"
+mf_label = "Der Schweizer Paul Briol photographiert das Leben ... auf den Raddampfern der großen amerikanischen Ströme"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0463_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1941_017!zui-001_1941_017_0140.jpg/info.json"
+"smallform_0463_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1941_017!zui-001_1941_017_0141.jpg/info.json"
