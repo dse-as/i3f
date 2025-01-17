@@ -1,0 +1,9 @@
+mf_id = "letter_0289.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach und Klaus Mann an Claude Bourdet, 1933-05-04"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"letter_0298_001" = "https://www.monacensia-digital.de/i3f/v20/144728/info.json"
+
