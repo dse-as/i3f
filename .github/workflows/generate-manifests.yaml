@@ -27,10 +27,12 @@ jobs:
         isReport: False
         poll: True
     
+# commit nb-runnter/_generated to repo
+
 # directory listing
     # - run: pwd
     - run: mkdir debug && mv ${{ RUNNER.temp }}/nb-runner/* debug
-    - run: mv debug/_generated .
+    - run: mv debug/_generated/presentation .
     # - run: ls -l
     - name: Generate Directory Listings
       uses: jayanta525/github-pages-directory-listing@v4.0.0
