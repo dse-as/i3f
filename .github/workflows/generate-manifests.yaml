@@ -29,7 +29,7 @@ jobs:
     - run: mkdir -p _generated && cp -r ${{ RUNNER.temp }}/nb-runner/_generated/** _generated
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: ${{ github.event.issue.title }}
+        commit_message: ${{ github.event.head_commit.message }}
         file_pattern: '_generated/**'
         skip_fetch: true
 
