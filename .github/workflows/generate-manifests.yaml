@@ -28,11 +28,12 @@ jobs:
         params: "./generate-manifests-params.json"
         isReport: False
         poll: True
+    - run: mkdir -p input-done && cp -r input/* input-done
     - run: mkdir -p _generated && cp -r ${{ RUNNER.temp }}/nb-runner/_generated/** _generated
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: ${{ github.event.head_commit.message }}
-        file_pattern: '_generated/**'
+        file_pattern: '_generated/** input-done input'
         skip_fetch: true
 
 # directory listing
