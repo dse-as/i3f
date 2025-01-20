@@ -26,15 +26,16 @@ jobs:
         params: "./generate-manifests-params.json"
         isReport: False
         poll: True
+    
 # directory listing
     # - run: pwd
     - run: mkdir debug && mv ${{ RUNNER.temp }}/nb-runner/* debug
-    - run: mv debug/presentation .
+    - run: mv debug/_generated .
     # - run: ls -l
     - name: Generate Directory Listings
       uses: jayanta525/github-pages-directory-listing@v4.0.0
       with:
-        FOLDER: presentation #directory to generate index    
+        FOLDER: _generated/presentation #directory to generate index    
     - uses: actions/upload-pages-artifact@v3
       if: always()
       with:
