@@ -37,7 +37,7 @@ jobs:
     - name: Generate Directory Listings
       uses: jayanta525/github-pages-directory-listing@v4.0.0
       with:
-        FOLDER: _generated/presentation #directory to generate index    
+        FOLDER: presentation #directory to generate index    
     - uses: actions/upload-pages-artifact@v3
       if: always()
       with:
