@@ -1,9 +1,0 @@
-mf_id = "smallform_0469.json"
-mf_lang = "en"
-mf_label = "Eine amerikanische Persönlichkeit: Dorothy Thompson"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0469_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!sfb!1941_023!sfb-001_1941_023_0033.jpg/info.json"
-"smallform_0469_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!sfb!1941_023!sfb-001_1941_023_0034.jpg/info.json"

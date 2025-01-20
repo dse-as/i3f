@@ -1,8 +1,0 @@
-mf_id = "smallform_0278.json"
-mf_lang = "en"
-mf_label = "'Giunfra Clementina'. Zum 80. Geburtstag der Engadiner Dichterin Clementina Gilli aus Zuoz"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0278_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1938_014!zui-001_1938_014_0601.jpg/info.json"

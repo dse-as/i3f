@@ -1,7 +1,0 @@
-mf_id = "smallform_0096.json"
-mf_lang = "en"
-mf_label = "Uruk-Warka"
-
-[mf_data]
-"smallform_0096_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0096_001.png/info.json"
-"smallform_0096_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0096_002.png/info.json"

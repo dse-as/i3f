@@ -1,9 +1,0 @@
-mf_id = "smallform_0192.json"
-mf_lang = "en"
-mf_label = "Das Transitvisum"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0192_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1936_012!zui-001_1936_012_1474.jpg/info.json"
-"smallform_0192_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1936_012!zui-001_1936_012_1475.jpg/info.json"

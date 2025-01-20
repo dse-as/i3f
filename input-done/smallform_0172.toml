@@ -1,8 +1,0 @@
-mf_id = "smallform_0172.json"
-mf_lang = "en"
-mf_label = "Von Teheran zum Kaspischen Meer. Eine moderne Paßstraße in Iran"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0172_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1936_012!zui-001_1936_012_0632.jpg/info.json"

@@ -1,9 +1,0 @@
-mf_id = "mf_id = "smallform_0233.json"
-mf_lang = "en"
-mf_label = "'Unglaubliches Schweden!'"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0233_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0233_001.tif/info.json"
-"smallform_0233_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0233_002.tif/info.json"

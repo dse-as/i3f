@@ -1,8 +1,0 @@
-mf_id = "smallform_0586.json"
-mf_lang = "en"
-mf_label = "La jeunesse portugaise"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0586_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0586_001.tif/info.json"

@@ -1,9 +1,0 @@
-mf_id = "smallform_0290.json"
-mf_lang = "en"
-mf_label = "«Hitler oder Masaryk»"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0290_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0290_001.tif/info.json"
-"smallform_0290_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0290_002.tif/info.json"

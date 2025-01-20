@@ -1,8 +1,0 @@
-mf_id = "smallform_0279.json"
-mf_lang = "en"
-mf_label = "Die Wiederentdeckung Amerikas I: Das Ende des amerikanischen Optimismus"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0279_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0279_001.tif/info.json"

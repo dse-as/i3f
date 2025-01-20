@@ -1,7 +1,0 @@
-mf_id = "smallform_0021.json"
-mf_lang = "en"
-mf_label = "Stellung der Jugend"
-
-[mf_data]
-"smallform_0021_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0021_001.png/info.json"
-"smallform_0021_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0021_002.png/info.json"

@@ -1,9 +1,0 @@
-mf_id = "smallform_0535.json"
-mf_lang = "en"
-mf_label = "Begegnung mit dem Dschungel"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0535_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0535_001.tif/info.json"
-"smallform_0535_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0535_002.tif/info.json"

@@ -1,8 +1,0 @@
-mf_id = "smallform_0146.json"
-mf_lang = "en"
-mf_label = "Das Rösslitram in der Wüste. Von Kufah nach der Begräbnisstadt Nejaf in Irak"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0146_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1935_011!zui-001_1935_011_0009.jpg/info.json"

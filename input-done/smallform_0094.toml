@@ -1,9 +1,0 @@
-mf_id = "smallform_0094.json"
-mf_lang = "en"
-mf_label = "Der Weg nach Teheran"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0094_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0094_001.tif/info.json"
-"smallform_0094_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0094_002.tif/info.json"
