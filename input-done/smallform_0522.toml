@@ -1,0 +1,9 @@
+mf_id = "smallform_0522.json"
+mf_lang = "en"
+mf_label = "Kommt nun die Reihe an Afghanistan?"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0522_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1242-24-10-1941_FR2.tif/info.json"
+"smallform_0522_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1243-24-10-1941_FR1.tif/info.json"

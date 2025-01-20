@@ -1,0 +1,12 @@
+mf_id = "smallform_0180.json"
+mf_lang = "en"
+mf_label = "Alexanders Eroberung von Persien (mit Fotografien der Autorin)"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0180_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_001.tif/info.json"
+"smallform_0180_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_002.tif/info.json"
+"smallform_0180_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_003.tif/info.json"
+"smallform_0180_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_004.tif/info.json"
+"smallform_0180_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0180_005.tif/info.json"

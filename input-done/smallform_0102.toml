@@ -1,0 +1,9 @@
+mf_id = "smallform_0102.json"
+mf_lang = "en"
+mf_label = "Das Tal der zwanzigtausend Pyramiden"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0102_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1934_010!zui-001_1934_010_0672.jpg/info.json"
+

@@ -1,0 +1,8 @@
+mf_id = "smallform_0505.json"
+mf_lang = "en"
+mf_label = "Rückkehr nach Lissabon"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0505_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0505_001.tif/info.json"

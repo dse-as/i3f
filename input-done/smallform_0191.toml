@@ -1,0 +1,9 @@
+mf_id = "smallform_0191.json"
+mf_lang = "en"
+mf_label = "Die Wüste ... wächst in U.S.A.? Das Schicksal Arabiens, Griechenlands und Spaniens als warnendes Beispiel."
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0191_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1936_012!zui-001_1936_012_1374.jpg/info.json"
+"smallform_0191_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1936_012!zui-001_1936_012_1375.jpg/info.json"

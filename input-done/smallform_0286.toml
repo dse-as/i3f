@@ -1,0 +1,19 @@
+mf_id = "smallform_0286.json"
+mf_lang = "en"
+mf_label = "Lorenz Saladin's Last Journey. The ascent of Khan Tengri in the Tien Shan"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0286_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_001.tif/info.json"
+"smallform_0286_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_002.tif/info.json"
+"smallform_0286_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_003.tif/info.json"
+"smallform_0286_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_004.tif/info.json"
+"smallform_0286_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_005.tif/info.json"
+"smallform_0286_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_006.tif/info.json"
+"smallform_0286_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_007.tif/info.json"
+"smallform_0286_008" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_008.tif/info.json"
+"smallform_0286_009" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_009.tif/info.json"
+"smallform_0286_010" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_010.tif/info.json"
+"smallform_0286_011" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_011.tif/info.json"
+"smallform_0286_012" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0286_012.tif/info.json"

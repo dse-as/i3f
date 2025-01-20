@@ -1,0 +1,9 @@
+mf_id = "smallform_0177.json"
+mf_lang = "en"
+mf_label = "Amerikanische Landstraße"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0177_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0177_001.tif/info.json"
+"smallform_0177_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0177_002.tif/info.json"

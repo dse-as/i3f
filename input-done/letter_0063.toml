@@ -1,0 +1,13 @@
+
+mf_id = "letter_0063.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Boveri, Margret"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"letter_0063_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0063_001.tif/info.json"
+"letter_0063_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0063_002.tif/info.json"
+"letter_0063_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0063_003.tif/info.json"
+
+

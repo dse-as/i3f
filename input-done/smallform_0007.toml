@@ -1,0 +1,6 @@
+mf_id = "smallform_0007.json"
+mf_lang = "en"
+mf_label = "Erik. Novelle"
+
+[mf_data]
+"smallform_0007_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0007_001.png/info.json"

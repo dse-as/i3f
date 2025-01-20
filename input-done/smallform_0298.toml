@@ -1,0 +1,10 @@
+mf_id = "smallform_0298.json"
+mf_lang = "en"
+mf_label = "Eine Schweizerin reitet durch verbotenes Land. Zu dem Reisebericht von Ella K. Maillart"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0298_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0298_001.tif/info.json"
+"smallform_0298_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0298_002.tif/info.json"
+"smallform_0298_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0298_003.tif/info.json"

@@ -1,0 +1,8 @@
+mf_id = "smallform_0545.json"
+mf_lang = "en"
+mf_label = "Kleines Kongo-Tagebuch III: Das Leben 'en brousse'"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0545_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0545_001.tif/info.json"
