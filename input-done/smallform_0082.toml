@@ -1,9 +1,0 @@
-mf_id = "smallform_0082.json"
-mf_lang = "en"
-mf_label = "Eine Fahrt nach Damaskus"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0082_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0082_001.tif/info.json"
-"smallform_0082_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0082_002.tif/info.json"

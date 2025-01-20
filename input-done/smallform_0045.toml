@@ -1,9 +1,0 @@
-mf_id = "smallform_0045.json"
-mf_lang = "en"
-mf_label = "Kinder in den Pyrenäen. Aufnahmen von einer Autoreise unserer Mitarbeiterin Annemarie Schwarzenbach"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0045_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1933_009!zui-001_1933_009_1177.jpg/info.json"
-"smallform_0045_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1933_009!zui-001_1933_009_1178.jpg/info.json"

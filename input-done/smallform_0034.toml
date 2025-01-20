@@ -1,7 +1,0 @@
-mf_id = "smallform_0034.json"
-mf_lang = "en"
-mf_label = "Filmregie und Filmmanuskript"
-
-[mf_data]
-"smallform_0034_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0034_001.png/info.json"
-"smallform_0034_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0034_002.png/info.json"

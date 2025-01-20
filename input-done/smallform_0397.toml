@@ -1,9 +1,0 @@
-mf_id = "smallform_0397.json"
-mf_lang = "en"
-mf_label = "Nomaden als Achtstunden-Arbeiter"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0397_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1940_016!zui-001_1940_016_0361.jpg/info.json"
-"smallform_0397_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1940_016!zui-001_1940_016_0362.jpg/info.json"

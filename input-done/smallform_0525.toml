@@ -1,8 +1,0 @@
-mf_id = "smallform_0525.json"
-mf_lang = "en"
-mf_label = "Schiffs-Tagebuch III"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0525_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0525_001.tif/info.json"

@@ -1,9 +1,0 @@
-mf_id = "letter_0180.json"
-mf_lang = "en"
-mf_label = "Brief von Annemarie Schwarzenbach an Erika Mann, 1930 [Herbst]"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-[mf_data]
-"letter_0180_001" = "https://www.monacensia-digital.de/i3f/v20/415772/info.json"
-"letter_0180_002" = "https://www.monacensia-digital.de/i3f/v20/415773/info.json"
-"letter_0180_003" = "https://www.monacensia-digital.de/i3f/v20/415774/info.json"

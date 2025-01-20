@@ -1,8 +1,0 @@
-mf_id = "smallform_0098.json"
-mf_lang = "en"
-mf_label = "Die Tempel von Baalbek"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-
-[mf_data]
-"smallform_0098_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1934_010!zui-001_1934_010_0450.jpg/info.json"
