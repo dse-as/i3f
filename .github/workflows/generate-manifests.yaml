@@ -28,7 +28,7 @@ jobs:
         params: "./generate-manifests-params.json"
         isReport: False
         poll: True
-    - run: mkdir -p input-done && cp -r input-test/* input-done
+    - run: mkdir -p input-done && mv input-test/* input-done
     - run: mkdir -p _generated && cp -r ${{ RUNNER.temp }}/nb-runner/_generated/** _generated
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
