@@ -1,0 +1,9 @@
+mf_id = "smallform_0090.json"
+mf_lang = "en"
+mf_label = "Ukheidir"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0090_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0090_001.tif/info.json"
+"smallform_0090_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0090_002.tif/info.json"

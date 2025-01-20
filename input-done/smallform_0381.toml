@@ -1,0 +1,9 @@
+mf_id = "smallform_0381.json"
+mf_lang = "en"
+mf_label = "Afghanistan und England - Rückblick, Ausblick"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0381_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0381_001.tif/info.json"
+"smallform_0381_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0381_002.tif/info.json"

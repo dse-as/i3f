@@ -1,0 +1,17 @@
+mf_id = "smallform_0285.json"
+mf_lang = "en"
+mf_label = "Saladin - ein Schweizer Bergsteiger-Schicksal in Zentralasien. Bezwingung des Khan-Tengri-Gipfels und Tod im Innültschek-Tal"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0285_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_001.tif/info.json"
+"smallform_0285_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_002.tif/info.json"
+"smallform_0285_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_003.tif/info.json"
+"smallform_0285_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_004.tif/info.json"
+"smallform_0285_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_005.tif/info.json"
+"smallform_0285_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_006.tif/info.json"
+"smallform_0285_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_007.tif/info.json"
+"smallform_0285_008" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_008.tif/info.json"
+"smallform_0285_009" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_009.tif/info.json"
+"smallform_0285_010" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0285_010.tif/info.json"

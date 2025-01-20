@@ -1,0 +1,9 @@
+mf_id = "smallform_0148.json"
+mf_lang = "en"
+mf_label = "Die Beduinen"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0148_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0148_001.tif/info.json"
+"smallform_0148_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0148_002.tif/info.json"

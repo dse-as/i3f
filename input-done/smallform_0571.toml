@@ -1,0 +1,9 @@
+mf_id = "smallform_0571.json"
+mf_lang = "en"
+mf_label = "Diplomaten-Austausch in Lissabon"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0571_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0571_001.png/info.json"
+"smallform_0571_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0571_002.png/info.json"

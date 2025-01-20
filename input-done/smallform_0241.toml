@@ -1,0 +1,10 @@
+mf_id = "smallform_0241.json"
+mf_lang = "en"
+mf_label = "Der Schweizer Bergsteiger Lorenz Saladin ... bezwingt den Khan Tengri im Tien Schan-Gebirge ... und kehrt nicht mehr zurück."
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0241_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1937_013!zui-001_1937_013_1223.jpg/info.json"
+"smallform_0241_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1937_013!zui-001_1937_013_1224.jpg/info.json"
+"smallform_0241_003" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1937_013!zui-001_1937_013_1225.jpg/info.json"

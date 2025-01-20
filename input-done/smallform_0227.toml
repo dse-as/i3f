@@ -1,0 +1,9 @@
+mf_id = "smallform_0227.json"
+mf_lang = "en"
+mf_label = "Baltisches Tagebuch I: Kaunas, die Hauptstadt einer 'ersten Generation'."
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0227_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_001.tif/info.json"
+"smallform_0227_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0227_002.tif/info.json"

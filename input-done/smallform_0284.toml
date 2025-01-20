@@ -1,0 +1,10 @@
+mf_id = "smallform_0284.json"
+mf_lang = "en"
+mf_label = "Das Drama im amerikanischen Plantagen-Gürtel. Glanz, Sturz und neues Leben ... in den Südstaaten von U.S.A."
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0284_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1938_014!zui-001_1938_014_0634.jpg/info.json"
+"smallform_0284_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1938_014!zui-001_1938_014_0635.jpg/info.json"
+"smallform_0284_003" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1938_014!zui-001_1938_014_0636.jpg/info.json"

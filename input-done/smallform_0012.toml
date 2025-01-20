@@ -1,0 +1,6 @@
+mf_id = "smallform_0012.json"
+mf_lang = "en"
+mf_label = "Musche. Novellen von Karl Ludwig Skutsch"
+
+[mf_data]
+"smallform_0012_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0012_001.png/info.json"

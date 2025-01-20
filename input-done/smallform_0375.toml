@@ -1,0 +1,9 @@
+mf_id = "smallform_0375.json"
+mf_lang = "en"
+mf_label = "Die Reise nach Ghazni"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0375_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0375_001.tif/info.json"
+"smallform_0375_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0375_002.tif/info.json"

@@ -1,0 +1,8 @@
+mf_id = "smallform_0167.json"
+mf_lang = "en"
+mf_label = "'... der Libanon steht schändlich und zerhauen'. Prophezeiung des Jesaia 33,9"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0167_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1936_012!zui-001_1936_012_0134.jpg/info.json"

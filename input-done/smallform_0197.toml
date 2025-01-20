@@ -1,0 +1,9 @@
+mf_id = "smallform_0197.json"
+mf_lang = "en"
+mf_label = "Princeton - oder: ,die Verbannung ins Paradies'"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0197_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0197_001.tif/info.json"
+"smallform_0197_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0197_002.tif/info.json"

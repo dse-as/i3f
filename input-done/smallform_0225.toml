@@ -1,0 +1,9 @@
+mf_id = "smallform_0225.json"
+mf_lang = "en"
+mf_label = "Baltisches Tagebuch: Suomi - Land zwischen Ost und West"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0225_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0225_001.tif/info.json"
+"smallform_0225_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0225_002.tif/info.json"

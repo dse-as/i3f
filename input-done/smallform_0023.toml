@@ -1,0 +1,6 @@
+mf_id = "smallform_0023.json"
+mf_lang = "en"
+mf_label = "Klaus und Erika Mann in Zürich"
+
+[mf_data]
+"smallform_0023_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0023_001.png/info.json"

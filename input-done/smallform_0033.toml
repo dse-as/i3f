@@ -1,0 +1,7 @@
+mf_id = "smallform_0033.json"
+mf_lang = "en"
+mf_label = "Ein Film von Jean Cocteau"
+
+[mf_data]
+"smallform_0033_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0033_001.png/info.json"
+"smallform_0033_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0033_002.png/info.json"

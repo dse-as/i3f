@@ -1,0 +1,11 @@
+
+mf_id = "letter_0012.json"
+mf_lang = "en"
+mf_label = "Lettre dactylographiée d'Annemarie Schwarzenbach à Claude Bourdet"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"letter_0012_001" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587687-BCUL-PREVIEW-426365_0001.jpg/info.json"
+"letter_0012_002" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587687-BCUL-PREVIEW-426365_0002.jpg/info.json"
+"letter_0012_003" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587687-BCUL-PREVIEW-426365_0003.jpg/info.json"

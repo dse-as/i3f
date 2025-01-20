@@ -1,0 +1,6 @@
+mf_id = "smallform_0085.json"
+mf_lang = "en"
+mf_label = "Winterfahrt durch den Taurus"
+
+[mf_data]
+"smallform_0085_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0085_001.png/info.json"

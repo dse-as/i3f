@@ -1,0 +1,10 @@
+mf_id = "letter_0191.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Erika Mann, 25.01.1931"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+[mf_data]
+"letter_0191_001" = "https://www.monacensia-digital.de/i3f/v20/415622/info.json"
+"letter_0191_002" = "https://www.monacensia-digital.de/i3f/v20/415623/info.json"
+"letter_0191_003" = "https://www.monacensia-digital.de/i3f/v20/415624/info.json"
+"letter_0191_004" = "https://www.monacensia-digital.de/i3f/v20/415625/info.json"

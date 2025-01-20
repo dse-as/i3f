@@ -1,0 +1,12 @@
+mf_id = "letter_0112.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Burckhardt, Carl Jacob"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"letter_0112_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0112_001.tif/info.json"
+"letter_0112_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0112_002.tif/info.json"
+"letter_0112_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0112_003.tif/info.json"
+"letter_0112_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0112_004.tif/info.json"
+
