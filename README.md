@@ -60,6 +60,10 @@ Manifests may be tested using
 * https://uv-v4.netlify.app/#?manifest= + manifest URL [visually]
 * or other viewers (Mirador is known to be fickly at times)
 
+## Generation workflow ([`generate-manifests.yaml`](https://github.com/dse-as/i3f/blob/main/.github/workflows/generate-manifests.yaml))
+
+All files in the directory `input` are processed in a Jupyter notebook that creates a IIIF manifest for each input file. After processing the files are moved to the directory `input-done` and the manifests moved to `_generated/presentation`. All three directories are then pushed to the repository (`input` (now empty), `input-done`, `_generated/presentation`). The last step is the publication of `_generated/presentation` as a directory listing at https://iiif.annemarie-schwarzenbach.ch/presentation/.
+
 ## Development
 
 `ipynb` outputs may be accessed under `debug` (`debug/generate-manifests.html`, `debug/generate-manifests.ipynb`).
