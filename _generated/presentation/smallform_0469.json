@@ -1,0 +1,93 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/smallform_0469.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Eine amerikanische Persönlichkeit: Dorothy Thompson"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "smallform_0469_001"
+        ]
+      },
+      "height": 5800,
+      "width": 3800,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0033.jpg/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5800,
+                "width": 3800,
+                "service": [
+                  {
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0033.jpg/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "smallform_0469_002"
+        ]
+      },
+      "height": 5831,
+      "width": 3800,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0034.jpg/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5831,
+                "width": 3800,
+                "service": [
+                  {
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0034.jpg/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

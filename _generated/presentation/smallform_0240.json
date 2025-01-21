@@ -1,0 +1,54 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/smallform_0240.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Am gleichen Meer. Die Hafenstädte des 'Imperium Maris Baltici'"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "smallform_0240_001"
+        ]
+      },
+      "height": 6340,
+      "width": 9500,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_1162.jpg/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6340,
+                "width": 9500,
+                "service": [
+                  {
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211937_013%21zui-001_1937_013_1162.jpg/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

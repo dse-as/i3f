@@ -1,0 +1,93 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/smallform_0192.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Das Transitvisum"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "smallform_0192_001"
+        ]
+      },
+      "height": 6320,
+      "width": 4775,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211936_012%21zui-001_1936_012_1474.jpg/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6320,
+                "width": 4775,
+                "service": [
+                  {
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211936_012%21zui-001_1936_012_1474.jpg/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "smallform_0192_002"
+        ]
+      },
+      "height": 6320,
+      "width": 4775,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211936_012%21zui-001_1936_012_1475.jpg/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6320,
+                "width": 4775,
+                "service": [
+                  {
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211936_012%21zui-001_1936_012_1475.jpg/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
