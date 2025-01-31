@@ -1,0 +1,171 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/letter_0211.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Brief von Annemarie Schwarzenbach an Erika Mann"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0211_001"
+        ]
+      },
+      "height": 5492,
+      "width": 4363,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.monacensia-digital.de/i3f/v20/415644/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5492,
+                "width": 4363,
+                "service": [
+                  {
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415644/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0211_002"
+        ]
+      },
+      "height": 5492,
+      "width": 4363,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.monacensia-digital.de/i3f/v20/415645/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5492,
+                "width": 4363,
+                "service": [
+                  {
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415645/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0211_003"
+        ]
+      },
+      "height": 5492,
+      "width": 4363,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0003-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.monacensia-digital.de/i3f/v20/415646/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5492,
+                "width": 4363,
+                "service": [
+                  {
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415646/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0211_004"
+        ]
+      },
+      "height": 5492,
+      "width": 4363,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0004-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.monacensia-digital.de/i3f/v20/415647/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5492,
+                "width": 4363,
+                "service": [
+                  {
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415647/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
