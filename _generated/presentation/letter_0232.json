@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/letter_0240.json",
+  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/letter_0232.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -16,10 +16,10 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "letter_0240_001"
+          "letter_0232_001"
         ]
       },
-      "height": 7299,
+      "height": 4833,
       "width": 5195,
       "items": [
         {
@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415775/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415720/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 7299,
+                "height": 4833,
                 "width": 5195,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415775/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415720/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -55,10 +55,10 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "letter_0240_002"
+          "letter_0232_002"
         ]
       },
-      "height": 7299,
+      "height": 4833,
       "width": 5195,
       "items": [
         {
@@ -70,59 +70,20 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415776/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415721/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 7299,
+                "height": 4833,
                 "width": 5195,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415776/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415721/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
                 ]
               },
               "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p3",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "letter_0240_003"
-        ]
-      },
-      "height": 7299,
-      "width": 5195,
-      "items": [
-        {
-          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p3/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0003-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415777/info.json",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 7299,
-                "width": 5195,
-                "service": [
-                  {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415777/info.json",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
-              },
-              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p3"
             }
           ]
         }
