@@ -1,0 +1,8 @@
+mf_id = "smallform_0106.json"
+mf_lang = "en"
+mf_label = "In Persien"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0106_001" = "https://iiif.library.ethz.ch/iiif/3/e-periodica!zui!1934_010!zui-001_1934_010_0896.jpg/info.json"
