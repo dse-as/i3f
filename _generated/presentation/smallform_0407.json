@@ -214,8 +214,8 @@
           "smallform_0407_006"
         ]
       },
-      "height": 99999,
-      "width": 99999,
+      "height": 5669,
+      "width": 3921,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p6/1",
@@ -229,8 +229,8 @@
                 "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0407_006.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 99999,
-                "width": 99999,
+                "height": 5669,
+                "width": 3921,
                 "service": [
                   {
                     "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0407_006.tif/info.json",
