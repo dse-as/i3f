@@ -1,0 +1,9 @@
+mf_id = "smallform_0494.json"
+mf_lang = "en"
+mf_label = "Flüchtlinge. Berühmte Europäer in den Vereinigten Staaten"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0494_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0494_001.tif/info.json"
+"smallform_0494_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0494_002.tif/info.json"
