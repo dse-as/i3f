@@ -58,8 +58,8 @@
           "smallform_0568_002"
         ]
       },
-      "height": 99999,
-      "width": 99999,
+      "height": 4611,
+      "width": 3569,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
@@ -73,8 +73,8 @@
                 "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0568_002.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 99999,
-                "width": 99999,
+                "height": 4611,
+                "width": 3569,
                 "service": [
                   {
                     "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0568_002.tif/info.json",
