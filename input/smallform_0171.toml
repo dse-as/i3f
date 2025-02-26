@@ -1,0 +1,9 @@
+mf_id = "smallform_0171.json"
+mf_lang = "en"
+mf_label = "Die Entführung"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0171_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0171_001.tif/info.json"
+"smallform_0171_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0171-002.tif/info.json" 
