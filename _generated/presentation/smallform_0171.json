@@ -19,8 +19,8 @@
           "smallform_0171_001"
         ]
       },
-      "height": 99999,
-      "width": 99999,
+      "height": 7296,
+      "width": 4202,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/ssmallform_0171_001.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0171_001.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 99999,
-                "width": 99999,
+                "height": 7296,
+                "width": 4202,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/ssmallform_0171_001.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0171_001.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -58,8 +58,8 @@
           "smallform_0171_002"
         ]
       },
-      "height": 99999,
-      "width": 99999,
+      "height": 7296,
+      "width": 4202,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/ssmallform_0171-002.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0171-002.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 99999,
-                "width": 99999,
+                "height": 7296,
+                "width": 4202,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/ssmallform_0171-002.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0171-002.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
