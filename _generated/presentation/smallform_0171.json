@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/ssmallform_0171_002.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/ssmallform_0171-002.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 99999,
                 "width": 99999,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/ssmallform_0171_002.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/ssmallform_0171-002.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
