@@ -5,4 +5,4 @@ mf_label = "Kleine Weltreise unter der Flagge Portugals. San Thome und Madeira, 
 # IIIF image links as a sequence of key/value pairs under `[mf_data]`
 
 [mf_data]
-"smallform_0589_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0589_001.png/info.json"
+"smallform_0589_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0589_001.tif/info.json"
