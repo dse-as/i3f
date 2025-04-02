@@ -1,0 +1,16 @@
+mf_id = "smallform_0598.json"
+mf_lang = "en"
+mf_label = "Herr! wie sich mich nähren, deine Himmelsvögel"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_598_001" = "https://www.monacensia-digital.de/i3f/v20/415208/info.json"
+"smallform_598_002" = "https://www.monacensia-digital.de/i3f/v20/415209/info.json"
+"smallform_598_003" = "https://www.monacensia-digital.de/i3f/v20/415210/info.json"
+"smallform_598_004" = "https://www.monacensia-digital.de/i3f/v20/415211/info.json"
+"smallform_598_005" = "https://www.monacensia-digital.de/i3f/v20/415212/info.json"
+"smallform_598_006" = "https://www.monacensia-digital.de/i3f/v20/415213/info.json"
+"smallform_598_007" = "https://www.monacensia-digital.de/i3f/v20/415214/info.json"
+"smallform_598_008" = "https://www.monacensia-digital.de/i3f/v20/415215/info.json"
+"smallform_598_009" = "https://www.monacensia-digital.de/i3f/v20/415216/info.json"
