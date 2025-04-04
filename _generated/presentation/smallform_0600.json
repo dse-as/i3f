@@ -644,7 +644,7 @@
         ]
       },
       "height": 5669,
-      "width": 3860,
+      "width": 4008,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p17/1",
@@ -655,14 +655,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_018.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_017.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3860,
+                "width": 4008,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_018.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_017.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -679,11 +679,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_019"
+          "smallform_0600_018"
         ]
       },
       "height": 5669,
-      "width": 4041,
+      "width": 3860,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p18/1",
@@ -694,14 +694,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_019.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_018.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 4041,
+                "width": 3860,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_019.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_018.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -718,11 +718,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_020"
+          "smallform_0600_019"
         ]
       },
       "height": 5669,
-      "width": 3812,
+      "width": 4041,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p19/1",
@@ -733,14 +733,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_020.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_019.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3812,
+                "width": 4041,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_020.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_019.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -757,11 +757,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_021"
+          "smallform_0600_020"
         ]
       },
       "height": 5669,
-      "width": 3972,
+      "width": 3812,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p20/1",
@@ -772,14 +772,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_021.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_020.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3972,
+                "width": 3812,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_021.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_020.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -796,11 +796,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_022"
+          "smallform_0600_021"
         ]
       },
       "height": 5669,
-      "width": 3828,
+      "width": 3972,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p21/1",
@@ -811,14 +811,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_022.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_021.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3828,
+                "width": 3972,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_022.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_021.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -835,11 +835,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_023"
+          "smallform_0600_022"
         ]
       },
       "height": 5669,
-      "width": 4066,
+      "width": 3828,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p22/1",
@@ -850,14 +850,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_023.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_022.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 4066,
+                "width": 3828,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_023.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_022.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -874,11 +874,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_024"
+          "smallform_0600_023"
         ]
       },
       "height": 5669,
-      "width": 3849,
+      "width": 4066,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p23/1",
@@ -889,14 +889,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_024.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_023.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3849,
+                "width": 4066,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_024.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_023.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -913,11 +913,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_025"
+          "smallform_0600_024"
         ]
       },
       "height": 5669,
-      "width": 4009,
+      "width": 3849,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p24/1",
@@ -928,14 +928,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_025.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_024.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 4009,
+                "width": 3849,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_025.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_024.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -952,11 +952,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_026"
+          "smallform_0600_025"
         ]
       },
       "height": 5669,
-      "width": 3850,
+      "width": 4009,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p25/1",
@@ -967,14 +967,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_026.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_025.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3850,
+                "width": 4009,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_026.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_025.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -991,7 +991,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_027"
+          "smallform_0600_026"
         ]
       },
       "height": 5669,
@@ -1006,14 +1006,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_027.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_026.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
                 "width": 3850,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_027.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_026.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1030,11 +1030,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_028"
+          "smallform_0600_027"
         ]
       },
       "height": 5669,
-      "width": 3861,
+      "width": 3850,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p27/1",
@@ -1045,14 +1045,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_028.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_027.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3861,
+                "width": 3850,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_028.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_027.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1069,11 +1069,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_030"
+          "smallform_0600_028"
         ]
       },
       "height": 5669,
-      "width": 3867,
+      "width": 3861,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p28/1",
@@ -1084,14 +1084,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_030.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_028.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3867,
+                "width": 3861,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_030.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_028.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1108,11 +1108,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_031"
+          "smallform_0600_029"
         ]
       },
       "height": 5669,
-      "width": 3853,
+      "width": 3829,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p29/1",
@@ -1123,14 +1123,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_031.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_029.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3853,
+                "width": 3829,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_031.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_029.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1147,11 +1147,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_032"
+          "smallform_0600_030"
         ]
       },
       "height": 5669,
-      "width": 3838,
+      "width": 3867,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p30/1",
@@ -1162,14 +1162,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_032.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_030.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3838,
+                "width": 3867,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_032.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_030.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1186,11 +1186,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_033"
+          "smallform_0600_031"
         ]
       },
       "height": 5669,
-      "width": 3827,
+      "width": 3853,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p31/1",
@@ -1201,14 +1201,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_033.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_031.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3827,
+                "width": 3853,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_033.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_031.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1225,11 +1225,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_034"
+          "smallform_0600_032"
         ]
       },
       "height": 5669,
-      "width": 3940,
+      "width": 3838,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p32/1",
@@ -1240,14 +1240,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_034.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_032.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3940,
+                "width": 3838,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_034.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_032.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1264,11 +1264,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_035"
+          "smallform_0600_033"
         ]
       },
       "height": 5669,
-      "width": 3843,
+      "width": 3827,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p33/1",
@@ -1279,14 +1279,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_035.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_033.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3843,
+                "width": 3827,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_035.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_033.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1303,11 +1303,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_036"
+          "smallform_0600_034"
         ]
       },
       "height": 5669,
-      "width": 3876,
+      "width": 3940,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p34/1",
@@ -1318,14 +1318,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_036.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_034.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3876,
+                "width": 3940,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_036.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_034.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1342,11 +1342,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_037"
+          "smallform_0600_035"
         ]
       },
       "height": 5669,
-      "width": 3862,
+      "width": 3843,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p35/1",
@@ -1357,14 +1357,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_037.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_035.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3862,
+                "width": 3843,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_037.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_035.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1381,11 +1381,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_038"
+          "smallform_0600_036"
         ]
       },
       "height": 5669,
-      "width": 3898,
+      "width": 3876,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p36/1",
@@ -1396,14 +1396,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_038.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_036.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3898,
+                "width": 3876,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_038.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_036.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1420,11 +1420,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_039"
+          "smallform_0600_037"
         ]
       },
       "height": 5669,
-      "width": 3902,
+      "width": 3862,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p37/1",
@@ -1435,14 +1435,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_039.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_037.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3902,
+                "width": 3862,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_039.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_037.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1459,11 +1459,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_040"
+          "smallform_0600_038"
         ]
       },
       "height": 5669,
-      "width": 3897,
+      "width": 3898,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p38/1",
@@ -1474,14 +1474,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_040.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_038.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3897,
+                "width": 3898,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_040.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_038.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1498,11 +1498,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_041"
+          "smallform_0600_039"
         ]
       },
       "height": 5669,
-      "width": 3962,
+      "width": 3902,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p39/1",
@@ -1513,14 +1513,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_041.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_039.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3962,
+                "width": 3902,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_041.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_039.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1537,11 +1537,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_042"
+          "smallform_0600_040"
         ]
       },
       "height": 5669,
-      "width": 3855,
+      "width": 3897,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p40/1",
@@ -1552,14 +1552,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_042.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_040.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3855,
+                "width": 3897,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_042.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_040.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1576,11 +1576,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_043"
+          "smallform_0600_041"
         ]
       },
       "height": 5669,
-      "width": 3890,
+      "width": 3962,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p41/1",
@@ -1591,14 +1591,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_043.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_041.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3890,
+                "width": 3962,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_043.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_041.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1615,11 +1615,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_044"
+          "smallform_0600_042"
         ]
       },
       "height": 5669,
-      "width": 3844,
+      "width": 3855,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p42/1",
@@ -1630,14 +1630,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_044.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_042.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3844,
+                "width": 3855,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_044.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_042.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1654,11 +1654,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_045"
+          "smallform_0600_043"
         ]
       },
       "height": 5669,
-      "width": 3891,
+      "width": 3890,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p43/1",
@@ -1669,14 +1669,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_045.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_043.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3891,
+                "width": 3890,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_045.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_043.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1693,11 +1693,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_046"
+          "smallform_0600_044"
         ]
       },
       "height": 5669,
-      "width": 3919,
+      "width": 3844,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p44/1",
@@ -1708,14 +1708,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_046.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_044.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3919,
+                "width": 3844,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_046.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_044.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1732,11 +1732,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_047"
+          "smallform_0600_045"
         ]
       },
       "height": 5669,
-      "width": 3887,
+      "width": 3891,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p45/1",
@@ -1747,14 +1747,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_047.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_045.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3887,
+                "width": 3891,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_047.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_045.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1771,11 +1771,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_048"
+          "smallform_0600_046"
         ]
       },
       "height": 5669,
-      "width": 3881,
+      "width": 3919,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p46/1",
@@ -1786,14 +1786,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_048.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_046.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3881,
+                "width": 3919,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_048.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_046.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1810,11 +1810,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_049"
+          "smallform_0600_047"
         ]
       },
       "height": 5669,
-      "width": 3903,
+      "width": 3887,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p47/1",
@@ -1825,14 +1825,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_049.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_047.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3903,
+                "width": 3887,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_049.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_047.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1849,11 +1849,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_050"
+          "smallform_0600_048"
         ]
       },
       "height": 5669,
-      "width": 3956,
+      "width": 3881,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p48/1",
@@ -1864,14 +1864,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_050.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_048.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3956,
+                "width": 3881,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_050.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_048.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1888,11 +1888,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_051"
+          "smallform_0600_049"
         ]
       },
       "height": 5669,
-      "width": 3864,
+      "width": 3903,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p49/1",
@@ -1903,14 +1903,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_051.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_049.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3864,
+                "width": 3903,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_051.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_049.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1927,11 +1927,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_052"
+          "smallform_0600_050"
         ]
       },
       "height": 5669,
-      "width": 3893,
+      "width": 3956,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p50/1",
@@ -1942,14 +1942,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_052.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_050.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3893,
+                "width": 3956,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_052.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_050.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1966,11 +1966,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_053"
+          "smallform_0600_051"
         ]
       },
       "height": 5669,
-      "width": 3853,
+      "width": 3864,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p51/1",
@@ -1981,14 +1981,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_053.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_051.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3853,
+                "width": 3864,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_053.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_051.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2005,11 +2005,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_054"
+          "smallform_0600_052"
         ]
       },
       "height": 5669,
-      "width": 3918,
+      "width": 3893,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p52/1",
@@ -2020,14 +2020,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_054.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_052.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3918,
+                "width": 3893,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_054.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_052.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2044,11 +2044,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_055"
+          "smallform_0600_053"
         ]
       },
       "height": 5669,
-      "width": 3858,
+      "width": 3853,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p53/1",
@@ -2059,14 +2059,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_055.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_053.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3858,
+                "width": 3853,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_055.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_053.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2083,11 +2083,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_056"
+          "smallform_0600_054"
         ]
       },
       "height": 5669,
-      "width": 3922,
+      "width": 3918,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p54/1",
@@ -2098,14 +2098,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_056.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_054.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3922,
+                "width": 3918,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_056.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_054.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2122,11 +2122,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_057"
+          "smallform_0600_055"
         ]
       },
       "height": 5669,
-      "width": 3853,
+      "width": 3858,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p55/1",
@@ -2137,14 +2137,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_057.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_055.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3853,
+                "width": 3858,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_057.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_055.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2161,11 +2161,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_058"
+          "smallform_0600_056"
         ]
       },
       "height": 5669,
-      "width": 3956,
+      "width": 3922,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p56/1",
@@ -2176,14 +2176,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_058.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_056.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3956,
+                "width": 3922,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_058.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_056.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2200,11 +2200,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_059"
+          "smallform_0600_057"
         ]
       },
       "height": 5669,
-      "width": 3885,
+      "width": 3853,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p57/1",
@@ -2215,14 +2215,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_059.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_057.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3885,
+                "width": 3853,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_059.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_057.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2239,11 +2239,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_060"
+          "smallform_0600_058"
         ]
       },
       "height": 5669,
-      "width": 3872,
+      "width": 3956,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p58/1",
@@ -2254,14 +2254,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_060.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_058.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3872,
+                "width": 3956,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_060.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_058.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2278,11 +2278,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_061"
+          "smallform_0600_059"
         ]
       },
       "height": 5669,
-      "width": 3842,
+      "width": 3885,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p59/1",
@@ -2293,14 +2293,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_061.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_059.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3842,
+                "width": 3885,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_061.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_059.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2317,11 +2317,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_062"
+          "smallform_0600_060"
         ]
       },
       "height": 5669,
-      "width": 3720,
+      "width": 3872,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p60/1",
@@ -2332,14 +2332,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_062.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_060.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3720,
+                "width": 3872,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_062.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_060.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2356,11 +2356,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_063"
+          "smallform_0600_061"
         ]
       },
       "height": 5669,
-      "width": 3826,
+      "width": 3842,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p61/1",
@@ -2371,14 +2371,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_063.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_061.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3826,
+                "width": 3842,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_063.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_061.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2395,11 +2395,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_064"
+          "smallform_0600_062"
         ]
       },
       "height": 5669,
-      "width": 3713,
+      "width": 3720,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p62/1",
@@ -2410,14 +2410,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_064.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_062.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3713,
+                "width": 3720,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_064.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_062.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2434,11 +2434,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_065"
+          "smallform_0600_063"
         ]
       },
       "height": 5669,
-      "width": 3907,
+      "width": 3826,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p63/1",
@@ -2449,14 +2449,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_065.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_063.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3907,
+                "width": 3826,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_065.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_063.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2473,11 +2473,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_066"
+          "smallform_0600_064"
         ]
       },
       "height": 5669,
-      "width": 3723,
+      "width": 3713,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p64/1",
@@ -2488,14 +2488,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_066.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_064.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3723,
+                "width": 3713,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_066.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_064.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2512,11 +2512,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_067"
+          "smallform_0600_065"
         ]
       },
       "height": 5669,
-      "width": 3853,
+      "width": 3907,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p65/1",
@@ -2527,14 +2527,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_067.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_065.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3853,
+                "width": 3907,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_067.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_065.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2551,11 +2551,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_068"
+          "smallform_0600_066"
         ]
       },
       "height": 5669,
-      "width": 3714,
+      "width": 3723,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p66/1",
@@ -2566,14 +2566,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_068.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_066.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3714,
+                "width": 3723,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_068.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_066.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2590,11 +2590,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_069"
+          "smallform_0600_067"
         ]
       },
       "height": 5669,
-      "width": 3831,
+      "width": 3853,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p67/1",
@@ -2605,14 +2605,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_069.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_067.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3831,
+                "width": 3853,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_069.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_067.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2629,11 +2629,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_070"
+          "smallform_0600_068"
         ]
       },
       "height": 5669,
-      "width": 3880,
+      "width": 3714,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p68/1",
@@ -2644,14 +2644,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_070.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_068.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3880,
+                "width": 3714,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_070.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_068.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2668,11 +2668,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_071"
+          "smallform_0600_069"
         ]
       },
       "height": 5669,
-      "width": 3964,
+      "width": 3831,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p69/1",
@@ -2683,14 +2683,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_071.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_069.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3964,
+                "width": 3831,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_071.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_069.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2707,11 +2707,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_072"
+          "smallform_0600_070"
         ]
       },
       "height": 5669,
-      "width": 3818,
+      "width": 3880,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p70/1",
@@ -2722,14 +2722,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_072.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_070.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3818,
+                "width": 3880,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_072.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_070.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2746,11 +2746,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_073"
+          "smallform_0600_071"
         ]
       },
       "height": 5669,
-      "width": 4003,
+      "width": 3964,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p71/1",
@@ -2761,14 +2761,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_073.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_071.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 4003,
+                "width": 3964,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_073.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_071.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2785,11 +2785,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_074"
+          "smallform_0600_072"
         ]
       },
       "height": 5669,
-      "width": 3824,
+      "width": 3818,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p72/1",
@@ -2800,14 +2800,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_074.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_072.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3824,
+                "width": 3818,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_074.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_072.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2824,11 +2824,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_075"
+          "smallform_0600_073"
         ]
       },
       "height": 5669,
-      "width": 3998,
+      "width": 4003,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p73/1",
@@ -2839,14 +2839,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_075.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_073.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3998,
+                "width": 4003,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_075.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_073.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2863,11 +2863,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_076"
+          "smallform_0600_074"
         ]
       },
       "height": 5669,
-      "width": 3828,
+      "width": 3824,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p74/1",
@@ -2878,14 +2878,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_076.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_074.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3828,
+                "width": 3824,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_076.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_074.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2902,11 +2902,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_077"
+          "smallform_0600_075"
         ]
       },
       "height": 5669,
-      "width": 3888,
+      "width": 3998,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p75/1",
@@ -2917,14 +2917,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_077.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_075.tif/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
-                "width": 3888,
+                "width": 3998,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_077.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_075.tif/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2941,11 +2941,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "smallform_0600_078"
+          "smallform_0600_076"
         ]
       },
       "height": 5669,
-      "width": 3776,
+      "width": 3828,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p76/1",
@@ -2953,6 +2953,84 @@
           "items": [
             {
               "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0076-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_076.tif/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5669,
+                "width": 3828,
+                "service": [
+                  {
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_076.tif/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p76"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p77",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "smallform_0600_077"
+        ]
+      },
+      "height": 5669,
+      "width": 3888,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p77/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0077-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_077.tif/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5669,
+                "width": 3888,
+                "service": [
+                  {
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_077.tif/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p77"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p78",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "smallform_0600_078"
+        ]
+      },
+      "height": 5669,
+      "width": 3776,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p78/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0078-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -2969,7 +3047,7 @@
                   }
                 ]
               },
-              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p76"
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p78"
             }
           ]
         }
