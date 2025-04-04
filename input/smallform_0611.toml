@@ -1,0 +1,12 @@
+mf_id = "smallform_0611.json"
+mf_lang = "en"
+mf_label = "Von Automobilen, Pferden und Rennen"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0611_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_001.tif/info.json"
+"smallform_0611_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_002.tif/info.json"
+"smallform_0611_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_003.tif/info.json"
+"smallform_0611_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_004.tif/info.json"
+"smallform_0611_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_005.tif/info.json"

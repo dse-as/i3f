@@ -1,0 +1,11 @@
+mf_id = "smallform_0614.json"
+mf_lang = "en"
+mf_label = "Die Mythen und der Flecken Schwyz"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0614_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_016.tif/info.json"
+"smallform_0614_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_017.tif/info.json"
+"smallform_0614_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_018.tif/info.json"
+"smallform_0614_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_019.tif/info.json"

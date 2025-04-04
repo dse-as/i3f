@@ -1,0 +1,13 @@
+mf_id = "smallform_0618.json"
+mf_lang = "en"
+mf_label = "Locarno und Ascona"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0618_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_060.tif/info.json"
+"smallform_0618_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_061.tif/info.json"
+"smallform_0618_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_062.tif/info.json"
+"smallform_0618_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_063.tif/info.json"
+"smallform_0618_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_064.tif/info.json"
+"smallform_0618_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_065.tif/info.json"

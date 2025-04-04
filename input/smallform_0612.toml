@@ -1,0 +1,11 @@
+mf_id = "smallform_0612.json"
+mf_lang = "en"
+mf_label = "Kirschblüte am Zugersee"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0612_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_006.tif/info.json"
+"smallform_0612_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_007.tif/info.json"
+"smallform_0612_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_008.tif/info.json"
+"smallform_0612_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_009.tif/info.json"

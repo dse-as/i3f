@@ -1,0 +1,13 @@
+mf_id = "smallform_0613.json"
+mf_lang = "en"
+mf_label = "Der Rigi"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0613_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_010.tif/info.json"
+"smallform_0613_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_011.tif/info.json"
+"smallform_0613_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_012.tif/info.json"
+"smallform_0613_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_013.tif/info.json"
+"smallform_0613_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_014.tif/info.json"
+"smallform_0613_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_015.tif/info.json"

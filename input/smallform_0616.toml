@@ -1,0 +1,14 @@
+mf_id = "smallform_0616.json"
+mf_lang = "en"
+mf_label = "Lugano"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0616_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_046.tif/info.json"
+"smallform_0616_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_047.tif/info.json"
+"smallform_0616_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_048.tif/info.json"
+"smallform_0616_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_049.tif/info.json"
+"smallform_0616_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_050.tif/info.json"
+"smallform_0616_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_051.tif/info.json"
+"smallform_0616_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_052.tif/info.json"

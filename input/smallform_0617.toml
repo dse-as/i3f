@@ -1,0 +1,14 @@
+mf_id = "smallform_0617.json"
+mf_lang = "en"
+mf_label = "Fahrt an den Comersee"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0617_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_053.tif/info.json"
+"smallform_0617_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_054.tif/info.json"
+"smallform_0617_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_055.tif/info.json"
+"smallform_0617_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_056.tif/info.json"
+"smallform_0617_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_057.tif/info.json"
+"smallform_0617_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_058.tif/info.json"
+"smallform_0617_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0599_059.tif/info.json"
