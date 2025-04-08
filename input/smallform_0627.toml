@@ -1,0 +1,11 @@
+mf_id = "smallform_0600.json"
+mf_lang = "en"
+mf_label = "Neuenburg"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0627_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_070.tif/info.json"
+"smallform_0627_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_071.tif/info.json"
+"smallform_0627_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_072.tif/info.json"
+"smallform_0627_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_073.tif/info.json"

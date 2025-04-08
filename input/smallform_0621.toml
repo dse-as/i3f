@@ -1,0 +1,20 @@
+mf_id = "smallform_0621.json"
+mf_lang = "en"
+mf_label = "Städte im Wallis"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+
+"smallform_0621_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_026.tif/info.json"
+"smallform_0621_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_027.tif/info.json"
+"smallform_0621_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_028.tif/info.json"
+"smallform_0621_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_029.tif/info.json"
+"smallform_0621_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_030.tif/info.json"
+"smallform_0621_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_031.tif/info.json"
+"smallform_0621_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_032.tif/info.json"
+"smallform_0621_008" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_033.tif/info.json"
+"smallform_0621_009" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_034.tif/info.json"
+"smallform_0621_010" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_035.tif/info.json"
+"smallform_0621_011" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_036.tif/info.json"
+"smallform_0621_012" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_037.tif/info.json"

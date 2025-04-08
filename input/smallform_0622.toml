@@ -1,0 +1,11 @@
+mf_id = "smallform_0622.json"
+mf_lang = "en"
+mf_label = "Montana-Vermala und Crans"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0622_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_037.tif/info.json"
+"smallform_0622_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_038.tif/info.json"
+"smallform_0622_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_039.tif/info.json"
+"smallform_0622_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_040.tif/info.json"

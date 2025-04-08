@@ -1,0 +1,17 @@
+mf_id = "smallform_0623.json"
+mf_lang = "en"
+mf_label = "Fahrt nach Zermatt"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0623_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_040.tif/info.json"
+"smallform_0623_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_041.tif/info.json"
+"smallform_0623_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_042.tif/info.json"
+"smallform_0623_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_043.tif/info.json"
+"smallform_0623_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_044.tif/info.json"
+"smallform_0623_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_045.tif/info.json"
+"smallform_0623_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_046.tif/info.json"
+"smallform_0623_008" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_046.tif/info.json"
+"smallform_0623_009" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_047.tif/info.json"
+"smallform_0623_010" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_048.tif/info.json"

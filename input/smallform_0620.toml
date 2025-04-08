@@ -1,0 +1,19 @@
+mf_id = "smallform_0620.json"
+mf_lang = "en"
+mf_label = "Wallis im Automobil"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0620_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_015.tif/info.json"
+"smallform_0620_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_016.tif/info.json"
+"smallform_0620_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_017.tif/info.json"
+"smallform_0620_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_018.tif/info.json"
+"smallform_0620_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_019.tif/info.json"
+"smallform_0620_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_020.tif/info.json"
+"smallform_0620_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_021.tif/info.json"
+"smallform_0620_008" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_022.tif/info.json"
+"smallform_0620_009" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_023.tif/info.json"
+"smallform_0620_010" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_024.tif/info.json"
+"smallform_0620_011" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_025.tif/info.json"
+"smallform_0620_012" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_026.tif/info.json"

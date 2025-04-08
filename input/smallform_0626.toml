@@ -1,0 +1,18 @@
+mf_id = "smallform_0626.json"
+mf_lang = "en"
+mf_label = "Genf"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0626_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_059.tif/info.json"
+"smallform_0626_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_060.tif/info.json"
+"smallform_0626_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_061.tif/info.json"
+"smallform_0626_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_062.tif/info.json"
+"smallform_0626_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_063.tif/info.json"
+"smallform_0626_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_064.tif/info.json"
+"smallform_0626_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_065.tif/info.json"
+"smallform_0626_008" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_066.tif/info.json"
+"smallform_0626_009" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_067.tif/info.json"
+"smallform_0626_010" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_068.tif/info.json"
+"smallform_0626_011" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_069.tif/info.json"

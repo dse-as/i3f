@@ -1,0 +1,15 @@
+mf_id = "smallform_0625.json"
+mf_lang = "en"
+mf_label = "La Côte am Genfersee"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0625_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_052.tif/info.json"
+"smallform_0625_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_053.tif/info.json"
+"smallform_0625_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_054.tif/info.json"
+"smallform_0625_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_055.tif/info.json"
+"smallform_0625_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_056.tif/info.json"
+"smallform_0625_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_057.tif/info.json"
+"smallform_0625_007" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_058.tif/info.json"
+"smallform_0625_008" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_059.tif/info.json"

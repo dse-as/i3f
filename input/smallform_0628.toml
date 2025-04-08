@@ -1,0 +1,13 @@
+mf_id = "smallform_0628.json"
+mf_lang = "en"
+mf_label = "Neuenburger Landschaften"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0628_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_073.tif/info.json"
+"smallform_0628_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_074.tif/info.json"
+"smallform_0628_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_075.tif/info.json"
+"smallform_0628_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_076.tif/info.json"
+"smallform_0628_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_077.tif/info.json"
+"smallform_0628_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0600_078.tif/info.json"
