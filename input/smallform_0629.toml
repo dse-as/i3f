@@ -1,0 +1,10 @@
+mf_id = "smallform_0629.json"
+mf_lang = "en"
+mf_label = "Sechs im Ruhestand"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0629_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1937_013!zui-001_1937_013_0866.jpg/info.json"
+"smallform_0629_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1937_013!zui-001_1937_013_0867.jpg/info.json"
+"smallform_0629_003" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1937_013!zui-001_1937_013_0868.jpg/info.json"
