@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211934_010%21zui-001_1934_010_1534.jpg/info.json",
+                "id": "https://iiif.library.ethz.ch/iiif/3/e-periodica%21zui%211934_010%21zui-001_1934_010_1534.jpg/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6320,
                 "width": 4775,
                 "service": [
                   {
-                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211934_010%21zui-001_1934_010_1534.jpg/info.json",
+                    "id": "https://iiif.library.ethz.ch/iiif/3/e-periodica%21zui%211934_010%21zui-001_1934_010_1534.jpg/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
