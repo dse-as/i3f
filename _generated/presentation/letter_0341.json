@@ -1,0 +1,93 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/letter_0341.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Reinhart, Georg, an Schwarzenbach, Annemarie, o.O., 3.11.1925"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0341_001"
+        ]
+      },
+      "height": 3390,
+      "width": 2712,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0341_001.tif/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3390,
+                "width": 2712,
+                "service": [
+                  {
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0341_001.tif/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0341_002"
+        ]
+      },
+      "height": 3385,
+      "width": 2708,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0341_002.tif/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3385,
+                "width": 2708,
+                "service": [
+                  {
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0341_002.tif/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
