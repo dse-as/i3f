@@ -1,0 +1,8 @@
+mf_id = "letter_0346.json"
+mf_lang = "en"
+mf_label = "Reinhart, Georg, an Schwarzenbach, Annemarie, o.O., 29.9.1932"
+
+[mf_data]
+"letter_0346_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0346_001.tif/info.json"
+"letter_0346_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0346_002.tif/info.json"
+"letter_0346_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0346_003.tif/info.json"
