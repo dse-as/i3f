@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "Reinhart, Georg, an Schwarzenbach, Annemarie, o.O., 14.3.1928"
 
 [mf_data]
-letter_0342_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0342_001.tif/info.json"
-letter_0342_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0342_002.tif/info.json"
+"letter_0342_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0342_001.tif/info.json"
+"letter_0342_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0342_002.tif/info.json"
