@@ -1,0 +1,8 @@
+mf_id = "letter_0330.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Reinhart, Georg, Bocken, 13.3.[1928]"
+
+[mf_data]
+"letter_0330_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0330_001.tif/info.json"
+"letter_0330_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0330_002.tif/info.json"
+"letter_0330_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0330_003.tif/info.json"

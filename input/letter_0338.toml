@@ -1,0 +1,8 @@
+mf_id = "letter_0338.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Reinhart, Georg, Berlin-Charlottenburg, 15.6."
+
+[mf_data]
+"letter_0338_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0338_001.tif/info.json"
+"letter_0338_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0338_002.tif/info.json"
+"letter_0338_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0338_003.tif/info.json"

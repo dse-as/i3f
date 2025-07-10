@@ -1,0 +1,9 @@
+mf_id = "letter_0336.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Reinhart, Georg, Pamplona, 23.5.[1933]"
+
+[mf_data]
+"letter_0336_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_001.tif/info.json"
+"letter_0336_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_002.tif/info.json"
+"letter_0336_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_003.tif/info.json"
+"letter_0336_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_004.tif/info.json"

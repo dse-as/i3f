@@ -1,0 +1,8 @@
+mf_id = "letter_0331.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Reinhart, Georg, Reichenau, 2.8.1930"
+
+[mf_data]
+"letter_0331_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0331_001.tif/info.json"
+"letter_0331_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0331_002.tif/info.json"
+"letter_0331_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0331_003.tif/info.json"

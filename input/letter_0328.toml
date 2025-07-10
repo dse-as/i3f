@@ -1,0 +1,7 @@
+mf_id = "letter_0328.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Reinhart, Georg, o.O., o.D."
+
+[mf_data]
+"letter_0328_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0328_001.tif/info.json"
+"letter_0328_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0328_002.tif/info.json"

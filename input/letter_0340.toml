@@ -1,0 +1,7 @@
+mf_id = "letter_0340.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Reinhart, Georg, Gut Pekkala/Ruhala (Finnland), 27.7.[1932 oder 1937]"
+
+[mf_data]
+"letter_0340_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0340_001.tif/info.json"
+"letter_0340_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0340_002.tif/info.json"

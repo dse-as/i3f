@@ -1,0 +1,8 @@
+mf_id = "letter_0339.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Reinhart, Georg, Sils Baselgia, 19.2.1940"
+
+[mf_data]
+"letter_0339_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0339_001.tif/info.json"
+"letter_0339_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0339_002.tif/info.json"
+"letter_0339_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0339_003.tif/info.json"
