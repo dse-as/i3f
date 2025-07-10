@@ -1,0 +1,171 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/letter_0336.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Schwarzenbach, Annemarie an Reinhart, Georg, Pamplona, 23.5.[1933]"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0336_001"
+        ]
+      },
+      "height": 2604,
+      "width": 1730,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_001.tif/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2604,
+                "width": 1730,
+                "service": [
+                  {
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_001.tif/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0336_002"
+        ]
+      },
+      "height": 2596,
+      "width": 1702,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_002.tif/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2596,
+                "width": 1702,
+                "service": [
+                  {
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_002.tif/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0336_003"
+        ]
+      },
+      "height": 2590,
+      "width": 1688,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0003-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_003.tif/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2590,
+                "width": 1688,
+                "service": [
+                  {
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_003.tif/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0336_004"
+        ]
+      },
+      "height": 2594,
+      "width": 1702,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0004-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_004.tif/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2594,
+                "width": 1702,
+                "service": [
+                  {
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0336_004.tif/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
