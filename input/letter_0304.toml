@@ -1,0 +1,7 @@
+mf_id = "letter_0304.json"
+mf_lang = "en"
+mf_label = "Brief von Unbekannt an Unbekannt, aus Remarque-Archiv"
+
+[mf_data]
+"letter_0304_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0304_001.tif/info.json"
+"letter_0304_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0304_002.tif/info.json"
