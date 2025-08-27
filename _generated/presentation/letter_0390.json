@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/letter_0286.json",
+  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/letter_0390.json",
   "type": "Manifest",
   "label": {
     "en": [
-      "Brief von Annemarie Schwarzenbach an Klaus Mann, [1934-05]-7"
+      "Brief von Annemarie Schwarzenbach an Klaus Mann, [1935]-09-27"
     ]
   },
   "behavior": [
@@ -16,11 +16,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "letter_0286_001"
+          "letter_0390_001"
         ]
       },
-      "height": 7336,
-      "width": 5240,
+      "height": 6975,
+      "width": 5474,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415345/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415347/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 7336,
-                "width": 5240,
+                "height": 6975,
+                "width": 5474,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415345/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415347/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -55,11 +55,11 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "letter_0286_002"
+          "letter_0390_002"
         ]
       },
-      "height": 7336,
-      "width": 5240,
+      "height": 6975,
+      "width": 5474,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415346/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415348/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 7336,
-                "width": 5240,
+                "height": 6975,
+                "width": 5474,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415346/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415348/info.json",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
