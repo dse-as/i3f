@@ -1,0 +1,249 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/letter_0460.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Brief von Max Rascher an Annemarie Schwarzenbach"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0460_001"
+        ]
+      },
+      "height": 4576,
+      "width": 3639,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5346216/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4576,
+                "width": 3639,
+                "service": [
+                  {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5346216/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0460_002"
+        ]
+      },
+      "height": 4576,
+      "width": 3639,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5346217/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4576,
+                "width": 3639,
+                "service": [
+                  {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5346217/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0460_003"
+        ]
+      },
+      "height": 4837,
+      "width": 3479,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0003-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5346218/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4837,
+                "width": 3479,
+                "service": [
+                  {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5346218/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0460_004"
+        ]
+      },
+      "height": 4837,
+      "width": 3470,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0004-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5346219/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4837,
+                "width": 3470,
+                "service": [
+                  {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5346219/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0460_005"
+        ]
+      },
+      "height": 4109,
+      "width": 3001,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p5/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0005-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5346220/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4109,
+                "width": 3001,
+                "service": [
+                  {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5346220/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "letter_0460_006"
+        ]
+      },
+      "height": 4108,
+      "width": 2990,
+      "items": [
+        {
+          "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p6/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/annotation/p0006-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5346221/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4108,
+                "width": 2990,
+                "service": [
+                  {
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5346221/info.json",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.annemarie-schwarzenbach.ch/presentation/canvas/p6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
