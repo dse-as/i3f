@@ -1,0 +1,9 @@
+mf_id = "letter_0396.json"
+mf_lang = "en"
+mf_label = "Vermählungsanzeige von Annemarie Schwarzenbach und Claude Clarac"
+
+[mf_data]
+letter_0396_001 = "https://www.e-manuscripta.ch/i3f/v20/5219324/info.json"
+letter_0396_002 = "https://www.e-manuscripta.ch/i3f/v20/5219325/info.json"
+letter_0396_003 = "https://www.e-manuscripta.ch/i3f/v20/5219326/info.json"
+letter_0396_004 = "https://www.e-manuscripta.ch/i3f/v20/5219327/info.json"

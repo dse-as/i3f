@@ -1,0 +1,9 @@
+mf_id = "letter_0395.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Ella Picard"
+
+[mf_data]
+letter_0395_001 = "https://www.e-manuscripta.ch/i3f/v20/5219227/info.json"
+letter_0395_002 = "https://www.e-manuscripta.ch/i3f/v20/5219228/info.json"
+letter_0395_003 = "https://www.e-manuscripta.ch/i3f/v20/5219229/info.json"
+letter_0395_004 = "https://www.e-manuscripta.ch/i3f/v20/5219230/info.json"

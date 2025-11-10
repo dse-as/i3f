@@ -1,0 +1,13 @@
+mf_id = "letter_0430.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Hans Schwarzenbach"
+
+[mf_data]
+letter_0430_001 = "https://www.e-manuscripta.ch/i3f/v20/5289963/info.json"
+letter_0430_002 = "https://www.e-manuscripta.ch/i3f/v20/5289964/info.json"
+letter_0430_003 = "https://www.e-manuscripta.ch/i3f/v20/5289965/info.json"
+letter_0430_004 = "https://www.e-manuscripta.ch/i3f/v20/5289966/info.json"
+letter_0430_005 = "https://www.e-manuscripta.ch/i3f/v20/5289967/info.json"
+letter_0430_006 = "https://www.e-manuscripta.ch/i3f/v20/5289968/info.json"
+letter_0430_007 = "https://www.e-manuscripta.ch/i3f/v20/5289969/info.json"
+letter_0430_008 = "https://www.e-manuscripta.ch/i3f/v20/5289970/info.json"

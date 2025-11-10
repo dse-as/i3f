@@ -1,0 +1,9 @@
+mf_id = "letter_0393.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Emmie Oprecht"
+
+[mf_data]
+letter_0393_001 = "https://www.e-manuscripta.ch/i3f/v20/5219134/info.json"
+letter_0393_002 = "https://www.e-manuscripta.ch/i3f/v20/5219135/info.json"
+letter_0393_003 = "https://www.e-manuscripta.ch/i3f/v20/5219137/info.json"
+letter_0393_004 = "https://www.e-manuscripta.ch/i3f/v20/5219136/info.json"

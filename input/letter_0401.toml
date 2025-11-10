@@ -1,0 +1,9 @@
+mf_id = "letter_0401.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Renée Schwarzenbach"
+
+[mf_data]
+letter_0401_001 = "https://www.e-manuscripta.ch/i3f/v20/5289772/info.json"
+letter_0401_002 = "https://www.e-manuscripta.ch/i3f/v20/5289773/info.json"
+letter_0401_003 = "https://www.e-manuscripta.ch/i3f/v20/5289774/info.json"
+letter_0401_004 = "https://www.e-manuscripta.ch/i3f/v20/5289775/info.json"

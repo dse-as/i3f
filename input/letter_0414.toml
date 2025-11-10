@@ -1,0 +1,9 @@
+mf_id = "letter_0414.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Suzanne Öhmann-Schwarzenbach"
+
+[mf_data]
+letter_0414_001 = "https://www.e-manuscripta.ch/i3f/v20/5289853/info.json"
+letter_0414_002 = "https://www.e-manuscripta.ch/i3f/v20/5289854/info.json"
+letter_0414_003 = "https://www.e-manuscripta.ch/i3f/v20/5289855/info.json"
+letter_0414_004 = "https://www.e-manuscripta.ch/i3f/v20/5289856/info.json"

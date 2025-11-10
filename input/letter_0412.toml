@@ -1,0 +1,9 @@
+mf_id = "letter_0412.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Mabel Zuppinger"
+
+[mf_data]
+letter_0412_001 = "https://www.e-manuscripta.ch/i3f/v20/5289841/info.json"
+letter_0412_002 = "https://www.e-manuscripta.ch/i3f/v20/5289842/info.json"
+letter_0412_003 = "https://www.e-manuscripta.ch/i3f/v20/5289843/info.json"
+letter_0412_004 = "https://www.e-manuscripta.ch/i3f/v20/5289844/info.json"

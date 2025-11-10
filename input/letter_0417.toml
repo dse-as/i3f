@@ -1,0 +1,9 @@
+mf_id = "letter_0417.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Clara Wille-von Bismarck"
+
+[mf_data]
+letter_0417_001 = "https://www.e-manuscripta.ch/i3f/v20/5289874/info.json"
+letter_0417_002 = "https://www.e-manuscripta.ch/i3f/v20/5289875/info.json"
+letter_0417_003 = "https://www.e-manuscripta.ch/i3f/v20/5289876/info.json"
+letter_0417_004 = "https://www.e-manuscripta.ch/i3f/v20/5289877/info.json"

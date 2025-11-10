@@ -1,0 +1,9 @@
+mf_id = "letter_0433.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach (Fritz) an Alfred Schwarzenbach"
+
+[mf_data]
+letter_0433_001 = "https://www.e-manuscripta.ch/i3f/v20/5294150/info.json"
+letter_0433_002 = "https://www.e-manuscripta.ch/i3f/v20/5294151/info.json"
+letter_0433_003 = "https://www.e-manuscripta.ch/i3f/v20/5294152/info.json"
+letter_0433_004 = "https://www.e-manuscripta.ch/i3f/v20/5294153/info.json"

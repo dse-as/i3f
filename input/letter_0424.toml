@@ -1,0 +1,15 @@
+mf_id = "letter_0424.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Renée Schwarzenbach"
+
+[mf_data]
+letter_0424_001 = "https://www.e-manuscripta.ch/i3f/v20/5289921/info.json"
+letter_0424_002 = "https://www.e-manuscripta.ch/i3f/v20/5289922/info.json"
+letter_0424_003 = "https://www.e-manuscripta.ch/i3f/v20/5289923/info.json"
+letter_0424_004 = "https://www.e-manuscripta.ch/i3f/v20/5289924/info.json"
+letter_0424_005 = "https://www.e-manuscripta.ch/i3f/v20/5289925/info.json"
+letter_0424_006 = "https://www.e-manuscripta.ch/i3f/v20/5289926/info.json"
+letter_0424_007 = "https://www.e-manuscripta.ch/i3f/v20/5289927/info.json"
+letter_0424_008 = "https://www.e-manuscripta.ch/i3f/v20/5289928/info.json"
+letter_0424_009 = "https://www.e-manuscripta.ch/i3f/v20/5289929/info.json"
+letter_0424_010 = "https://www.e-manuscripta.ch/i3f/v20/5289930/info.json"
