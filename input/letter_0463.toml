@@ -1,0 +1,11 @@
+mf_id = "letter_0463.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Max Rascher"
+
+[mf_data]
+letter_0463_001 = "https://www.e-manuscripta.ch/i3f/v20/5346228/info.json"
+letter_0463_002 = "https://www.e-manuscripta.ch/i3f/v20/5346229/info.json"
+letter_0463_003 = "https://www.e-manuscripta.ch/i3f/v20/5346230/info.json"
+letter_0463_004 = "https://www.e-manuscripta.ch/i3f/v20/5346231/info.json"
+letter_0463_005 = "https://www.e-manuscripta.ch/i3f/v20/5346232/info.json"
+letter_0463_006 = "https://www.e-manuscripta.ch/i3f/v20/5346233/info.json"
