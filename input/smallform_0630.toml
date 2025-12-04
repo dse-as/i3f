@@ -1,0 +1,8 @@
+mf_id = "smallform_0630.json"
+mf_lang = "en"
+mf_label = "10 Jahre türkische Republik"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0630_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zui!1933_009!zui-001_1933_009_1322.jpg/info.json"
