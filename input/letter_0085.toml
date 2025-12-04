@@ -1,0 +1,14 @@
+mf_id = "letter_0085.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Breslauer, Marianne"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"letter_0085_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_001.tif"
+"letter_0085_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_002.tif"
+"letter_0085_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_003.tif"
+"letter_0085_004" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_004.tif"
+"letter_0085_005" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_005.tif"
+"letter_0085_006" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0085_006.tif"
+

@@ -1,0 +1,17 @@
+mf_id = "letter_0029.json"
+mf_lang = "en"
+mf_label = "Lettre d'Annemarie Schwarzenbach à Claude Bourdet"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"letter_0029_001" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587704-BCUL-PREVIEW-426382_0001.jpg"
+"letter_0029_002" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587704-BCUL-PREVIEW-426382_0002.jpg"
+"letter_0029_003" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587704-BCUL-PREVIEW-426382_0003.jpg"
+"letter_0029_004" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587704-BCUL-PREVIEW-426382_0004.jpg"
+"letter_0029_005" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587704-BCUL-PREVIEW-426382_0005.jpg"
+
+
+
+
+

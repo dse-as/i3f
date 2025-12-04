@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "«Lob der Freiheit.»"
 
 [mf_data]
-"smallform_00027_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zus!1931_009!zus-001_1931_009_0013.jpg/info.json"
-"smallform_00027_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zus!1931_009!zus-001_1931_009_0014.jpg/info.json"
-"smallform_00027_003" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zus!1931_009!zus-001_1931_009_0015.jpg/info.json"
+"smallform_00027_001" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zus!1931_009!zus-001_1931_009_0013.jpg"
+"smallform_00027_002" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zus!1931_009!zus-001_1931_009_0014.jpg"
+"smallform_00027_003" = "https://iiif.library.ethz.ch/iiif/2/e-periodica!zus!1931_009!zus-001_1931_009_0015.jpg"
