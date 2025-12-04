@@ -19,8 +19,8 @@
           "letter_0058_001"
         ]
       },
-      "height": 3615,
-      "width": 2853,
+      "height": 99999,
+      "width": 99999,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0001.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0001.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 3615,
-                "width": 2853,
+                "height": 99999,
+                "width": 99999,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0001.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0001.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -58,8 +58,8 @@
           "letter_0058_002"
         ]
       },
-      "height": 3615,
-      "width": 2852,
+      "height": 99999,
+      "width": 99999,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0002.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0002.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 3615,
-                "width": 2852,
+                "height": 99999,
+                "width": 99999,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0002.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0002.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -97,8 +97,8 @@
           "letter_0058_003"
         ]
       },
-      "height": 3615,
-      "width": 2853,
+      "height": 99999,
+      "width": 99999,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p3/1",
@@ -109,14 +109,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0003.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0003.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 3615,
-                "width": 2853,
+                "height": 99999,
+                "width": 99999,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0003.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0003.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -136,8 +136,8 @@
           "letter_0058_004"
         ]
       },
-      "height": 3615,
-      "width": 2853,
+      "height": 99999,
+      "width": 99999,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p4/1",
@@ -148,14 +148,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0004.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0004.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 3615,
-                "width": 2853,
+                "height": 99999,
+                "width": 99999,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0004.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0004.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -175,8 +175,8 @@
           "letter_0058_005"
         ]
       },
-      "height": 3615,
-      "width": 2853,
+      "height": 99999,
+      "width": 99999,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p5/1",
@@ -187,14 +187,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0005.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0005.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 3615,
-                "width": 2853,
+                "height": 99999,
+                "width": 99999,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0005.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587733-BCUL-PREVIEW-426411_0005.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
