@@ -1,0 +1,10 @@
+mf_id = "letter_0202.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Erika Mann, Mittwoch"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+[mf_data]
+"letter_0202_001" = "https://www.monacensia-digital.de/i3f/v20/415593"
+"letter_0202_002" = "https://www.monacensia-digital.de/i3f/v20/415594"
+"letter_0202_003" = "https://www.monacensia-digital.de/i3f/v20/415595"
+"letter_0202_004" = "https://www.monacensia-digital.de/i3f/v20/415596"

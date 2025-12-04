@@ -1,0 +1,12 @@
+mf_id = "letter_0255.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Klaus Mann, 09.08.1935"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"letter_0255_001" = "https://www.monacensia-digital.de/i3f/v20/415322"
+"letter_0255_002" = "https://www.monacensia-digital.de/i3f/v20/415323"
+"letter_0255_003" = "https://www.monacensia-digital.de/i3f/v20/415324"
+"letter_0255_004" = "https://www.monacensia-digital.de/i3f/v20/415325"
+

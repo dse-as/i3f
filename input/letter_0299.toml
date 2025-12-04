@@ -1,0 +1,7 @@
+mf_id = "letter_0299.json"
+mf_lang = "en"
+mf_label = "Brief von Annemarie Schwarzenbach an Erich Maria Remarque, 1933-11-07"
+
+[mf_data]
+"letter_0299_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0299_001.tif"
+"letter_0299_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0299_002.tif"
