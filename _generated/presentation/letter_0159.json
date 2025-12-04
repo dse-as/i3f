@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415597/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415597",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6360,
                 "width": 4445,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415597/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415597",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415598/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415598",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6360,
                 "width": 4445,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415598/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415598",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -109,14 +109,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415599/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415599",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6324,
                 "width": 4508,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415599/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415599",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -148,14 +148,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415600/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415600",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6324,
                 "width": 4508,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415600/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415600",
                     "type": "ImageService3",
                     "profile": "level1"
                   }

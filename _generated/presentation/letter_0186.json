@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415673/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415673",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6542,
                 "width": 5222,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415673/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415673",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415674/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415674",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3388,
                 "width": 5222,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415674/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415674",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
