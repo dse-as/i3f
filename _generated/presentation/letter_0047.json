@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0001.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0001.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2385,
                 "width": 1932,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0001.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0001.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0002.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0002.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2384,
                 "width": 1932,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0002.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0002.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -109,14 +109,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0003.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0003.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2385,
                 "width": 1932,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0003.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0003.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -148,14 +148,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0004.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0004.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2385,
                 "width": 1932,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0004.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0004.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -187,14 +187,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0005.jpg/info.json",
+                "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0005.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2385,
                 "width": 1932,
                 "service": [
                   {
-                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0005.jpg/info.json",
+                    "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587722-BCUL-PREVIEW-426400_0005.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
