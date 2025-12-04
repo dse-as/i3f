@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415561/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415561",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6812,
                 "width": 5366,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415561/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415561",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415562/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415562",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6812,
                 "width": 5366,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415562/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415562",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -109,14 +109,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415563/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415563",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6812,
                 "width": 5366,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415563/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415563",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
