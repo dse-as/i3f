@@ -1,0 +1,8 @@
+mf_id = "letter_0125.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Kleiber, Otto"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"letter_0125_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0125_001.tif"

@@ -1,0 +1,7 @@
+mf_id = "letter_0151.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Frank, Elisabeth"
+
+[mf_data]
+letter_0151_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0151_001.tif"
+letter_0151_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0151_002.tif"

@@ -1,9 +1,0 @@
-mf_id = "letter_0199.json"
-mf_lang = "en"
-mf_label = "Brief von Annemarie Schwarzenbach an Erika Mann, 27. Juni"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
-[mf_data]
-"letter_0199_001" = "https://www.monacensia-digital.de/i3f/v20/415573/info.json"
-"letter_0199_002" = "https://www.monacensia-digital.de/i3f/v20/415574/info.json"
-"letter_0199_003" = "https://www.monacensia-digital.de/i3f/v20/415575/info.json"

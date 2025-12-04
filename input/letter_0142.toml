@@ -1,0 +1,9 @@
+mf_id = "letter_0142.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Thürer, Georg"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"letter_0142_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0142_001.tif"
+"letter_0142_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0142_002.tif"
