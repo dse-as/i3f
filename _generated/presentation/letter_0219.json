@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.monacensia-digital.de/i3f/v20/415678/info.json",
+                "id": "https://www.monacensia-digital.de/i3f/v20/415678",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 4463,
                 "width": 6830,
                 "service": [
                   {
-                    "id": "https://www.monacensia-digital.de/i3f/v20/415678/info.json",
+                    "id": "https://www.monacensia-digital.de/i3f/v20/415678",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
