@@ -28,6 +28,7 @@ jobs:
         params: "./generate-manifests-params.json"
         isReport: False
         poll: True
+    - run: find "${{ RUNNER.temp }}/nb-runner/_generated" -name "*.json" -type f -exec sed -i 's/\/info\.json//g' {} +
     - run: mkdir -p input-done && mv input/* input-done && touch input/.gitkeep
     - run: mkdir -p _generated && cp -r ${{ RUNNER.temp }}/nb-runner/_generated/** _generated
     - uses: stefanzweifel/git-auto-commit-action@v5
