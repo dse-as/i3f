@@ -5,6 +5,6 @@ mf_label = "Lettre d'Annemarie Schwarzenbach à Claude Bourdet"
 # IIIF image links as a sequence of key/value pairs under `[mf_data]`
 
 [mf_data]
-"letter_0016_001" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587690-BCUL-PREVIEW-426368_0001.jpg"
-"letter_0016_002" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587690-BCUL-PREVIEW-426368_0002.jpg"
-"letter_0016_003" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587690-BCUL-PREVIEW-426368_0003.jpg"
+"letter_0016_001" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587690-BCUL-PREVIEW-426368_0001.jpg/info.json"
+"letter_0016_002" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587690-BCUL-PREVIEW-426368_0002.jpg/info.json"
+"letter_0016_003" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587690-BCUL-PREVIEW-426368_0003.jpg/info.json"

@@ -5,7 +5,7 @@ mf_label = "Brief von Annemarie Schwarzenbach an Erika Mann"
 # IIIF image links as a sequence of key/value pairs under `[mf_data]`
 
 [mf_data]
-"letter_0238_001" = "https://www.monacensia-digital.de/i3f/v20/415740"
-"letter_0238_002" = "https://www.monacensia-digital.de/i3f/v20/415741"
+"letter_0238_001" = "https://www.monacensia-digital.de/i3f/v20/415740/info.json"
+"letter_0238_002" = "https://www.monacensia-digital.de/i3f/v20/415741/info.json"
 
 

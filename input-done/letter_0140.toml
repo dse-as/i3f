@@ -5,6 +5,6 @@ mf_label = "Schwarzenbach, Annemarie an McCullers, Carson"
 # IIIF image links as a sequence of key/value pairs under `[mf_data]`
 
 [mf_data]
-"letter_0140_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0140_001.tif"
-"letter_0140_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0140_002.tif"
-"letter_0140_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0140_003.tif"
+"letter_0140_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0140_001.tif/info.json"
+"letter_0140_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0140_002.tif/info.json"
+"letter_0140_003" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0140_003.tif/info.json"

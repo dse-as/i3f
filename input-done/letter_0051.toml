@@ -6,9 +6,9 @@ mf_label = "Lettre d'Annemarie Schwarzenbach à Claude Bourdet"
 
 
 [mf_data]
-"letter_0051_001" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0001.jpg"
-"letter_0051_002" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0002.jpg"
-"letter_0051_003" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0003.jpg"
-"letter_0051_004" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0004.jpg"
-"letter_0051_005" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0005.jpg"
+"letter_0051_001" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0001.jpg/info.json"
+"letter_0051_002" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0002.jpg/info.json"
+"letter_0051_003" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0003.jpg/info.json"
+"letter_0051_004" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0004.jpg/info.json"
+"letter_0051_005" = "https://patrinum.ch/nanna/api/multimedia/image/v2/recid:587726-BCUL-PREVIEW-426404_0005.jpg/info.json"
 

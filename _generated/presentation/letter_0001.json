@@ -19,8 +19,8 @@
           "letter_0001_001"
         ]
       },
-      "height": 99999,
-      "width": 99999,
+      "height": 1871,
+      "width": 1290,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p1/1",
@@ -34,8 +34,8 @@
                 "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587676-BCUL-PREVIEW-426354_0001.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 99999,
-                "width": 99999,
+                "height": 1871,
+                "width": 1290,
                 "service": [
                   {
                     "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587676-BCUL-PREVIEW-426354_0001.jpg",
@@ -58,8 +58,8 @@
           "letter_0001_002"
         ]
       },
-      "height": 99999,
-      "width": 99999,
+      "height": 1290,
+      "width": 1870,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p2/1",
@@ -73,8 +73,8 @@
                 "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587676-BCUL-PREVIEW-426354_0002.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 99999,
-                "width": 99999,
+                "height": 1290,
+                "width": 1870,
                 "service": [
                   {
                     "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587676-BCUL-PREVIEW-426354_0002.jpg",
@@ -97,8 +97,8 @@
           "letter_0001_003"
         ]
       },
-      "height": 99999,
-      "width": 99999,
+      "height": 1871,
+      "width": 1290,
       "items": [
         {
           "id": "https://iiif.annemarie-schwarzenbach.ch/presentation/page/p3/1",
@@ -112,8 +112,8 @@
                 "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587676-BCUL-PREVIEW-426354_0003.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 99999,
-                "width": 99999,
+                "height": 1871,
+                "width": 1290,
                 "service": [
                   {
                     "id": "https://patrinum.ch/nanna/api/multimedia/image/v2/recid%3A587676-BCUL-PREVIEW-426354_0003.jpg",

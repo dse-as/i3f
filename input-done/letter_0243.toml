@@ -5,5 +5,5 @@ mf_label = "Brief von Annemarie Schwarzenbach an Klaus Mann, 01.1934"
 # IIIF image links as a sequence of key/value pairs under `[mf_data]`
 
 [mf_data]
-"letter_0243_001" = "https://www.monacensia-digital.de/i3f/v20/415297"
+"letter_0243_001" = "https://www.monacensia-digital.de/i3f/v20/415297/info.json"
 
