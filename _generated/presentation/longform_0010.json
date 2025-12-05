@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0001.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0001.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2474,
                 "width": 1557,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0001.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0001.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0002.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0002.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2474,
                 "width": 1557,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0002.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0002.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -109,14 +109,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0003.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0003.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0003.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0003.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -148,14 +148,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0004.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0004.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0004.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0004.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -187,14 +187,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0005.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0005.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0005.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0005.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -226,14 +226,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0006.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0006.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0006.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0006.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -265,14 +265,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0007.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0007.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0007.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0007.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -304,14 +304,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0008.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0008.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0008.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0008.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -343,14 +343,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0009.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0009.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0009.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0009.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -382,14 +382,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0010.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0010.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0010.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0010.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -421,14 +421,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0011.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0011.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0011.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0011.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -460,14 +460,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0012.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0012.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0012.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0012.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -499,14 +499,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0013.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0013.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0013.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0013.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -538,14 +538,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0014.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0014.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0014.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0014.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -577,14 +577,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0015.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0015.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0015.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0015.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -616,14 +616,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0016.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0016.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0016.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0016.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -655,14 +655,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0017.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0017.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0017.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0017.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -694,14 +694,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0018.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0018.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0018.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0018.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -733,14 +733,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0019.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0019.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0019.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0019.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -772,14 +772,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0020.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0020.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0020.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0020.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -811,14 +811,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0021.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0021.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0021.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0021.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -850,14 +850,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0022.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0022.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0022.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0022.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -889,14 +889,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0023.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0023.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0023.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0023.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -928,14 +928,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0024.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0024.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0024.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0024.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -967,14 +967,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0025.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0025.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0025.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0025.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1006,14 +1006,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0026.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0026.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0026.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0026.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1045,14 +1045,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0027.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0027.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0027.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0027.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1084,14 +1084,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0028.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0028.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0028.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0028.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1123,14 +1123,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0029.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0029.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0029.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0029.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1162,14 +1162,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0030.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0030.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0030.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0030.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1201,14 +1201,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0031.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0031.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0031.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0031.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1240,14 +1240,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0032.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0032.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0032.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0032.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1279,14 +1279,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0033.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0033.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0033.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0033.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1318,14 +1318,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0034.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0034.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0034.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0034.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1357,14 +1357,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0035.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0035.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0035.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0035.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1396,14 +1396,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0036.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0036.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0036.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0036.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1435,14 +1435,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0037.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0037.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0037.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0037.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1474,14 +1474,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0038.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0038.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0038.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0038.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1513,14 +1513,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0039.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0039.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0039.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0039.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1552,14 +1552,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0040.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0040.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0040.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0040.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1591,14 +1591,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0041.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0041.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0041.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0041.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1630,14 +1630,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0042.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0042.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0042.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0042.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1669,14 +1669,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0043.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0043.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0043.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0043.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1708,14 +1708,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0044.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0044.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0044.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0044.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1747,14 +1747,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0045.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0045.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0045.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0045.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1786,14 +1786,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0046.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0046.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0046.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0046.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1825,14 +1825,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0047.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0047.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0047.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0047.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1864,14 +1864,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0048.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0048.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0048.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0048.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1903,14 +1903,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0049.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0049.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0049.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0049.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1942,14 +1942,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0050.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0050.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0050.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0050.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -1981,14 +1981,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0051.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0051.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0051.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0051.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2020,14 +2020,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0052.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0052.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0052.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0052.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2059,14 +2059,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0053.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0053.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0053.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0053.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2098,14 +2098,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0054.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0054.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0054.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0054.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2137,14 +2137,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0055.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0055.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0055.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0055.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2176,14 +2176,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0056.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0056.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0056.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0056.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2215,14 +2215,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0057.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0057.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0057.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0057.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2254,14 +2254,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0058.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0058.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0058.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0058.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2293,14 +2293,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0059.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0059.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0059.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0059.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2332,14 +2332,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0060.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0060.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0060.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0060.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2371,14 +2371,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0061.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0061.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0061.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0061.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2410,14 +2410,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0062.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0062.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0062.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0062.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2449,14 +2449,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0063.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0063.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0063.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0063.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2488,14 +2488,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0064.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0064.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0064.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0064.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2527,14 +2527,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0065.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0065.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0065.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0065.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2566,14 +2566,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0066.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0066.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0066.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0066.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2605,14 +2605,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0067.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0067.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0067.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0067.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2644,14 +2644,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0068.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0068.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0068.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0068.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2683,14 +2683,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0069.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0069.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0069.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0069.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2722,14 +2722,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0070.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0070.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0070.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0070.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2761,14 +2761,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0071.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0071.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0071.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0071.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2800,14 +2800,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0072.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0072.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0072.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0072.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2839,14 +2839,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0073.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0073.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0073.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0073.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2878,14 +2878,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0074.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0074.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0074.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0074.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2917,14 +2917,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0075.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0075.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0075.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0075.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2956,14 +2956,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0076.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0076.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0076.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0076.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2995,14 +2995,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0077.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0077.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0077.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0077.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3034,14 +3034,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0078.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0078.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0078.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0078.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3073,14 +3073,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0079.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0079.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0079.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0079.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3112,14 +3112,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0080.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0080.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0080.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0080.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3151,14 +3151,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0081.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0081.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0081.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0081.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3190,14 +3190,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0082.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0082.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0082.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0082.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3229,14 +3229,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0083.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0083.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0083.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0083.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3268,14 +3268,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0084.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0084.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0084.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0084.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3307,14 +3307,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0085.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0085.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0085.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0085.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3346,14 +3346,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0086.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0086.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0086.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0086.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3385,14 +3385,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0087.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0087.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0087.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0087.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3424,14 +3424,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0088.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0088.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0088.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0088.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3463,14 +3463,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0089.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0089.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0089.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0089.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3502,14 +3502,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0090.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0090.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0090.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0090.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3541,14 +3541,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0091.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0091.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0091.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0091.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3580,14 +3580,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0092.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0092.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0092.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0092.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3619,14 +3619,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0093.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0093.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0093.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0093.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3658,14 +3658,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0094.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0094.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0094.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0094.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3697,14 +3697,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0095.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0095.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0095.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0095.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3736,14 +3736,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0096.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0096.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0096.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0096.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3775,14 +3775,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0097.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0097.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0097.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0097.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3814,14 +3814,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0098.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0098.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0098.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0098.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3853,14 +3853,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0099.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0099.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0099.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0099.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3892,14 +3892,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0100.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0100.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0100.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0100.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3931,14 +3931,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0101.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0101.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0101.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0101.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -3970,14 +3970,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0102.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0102.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0102.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0102.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4009,14 +4009,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0103.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0103.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0103.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0103.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4048,14 +4048,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0104.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0104.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0104.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0104.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4087,14 +4087,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0105.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0105.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0105.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0105.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4126,14 +4126,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0106.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0106.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0106.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0106.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4165,14 +4165,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0107.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0107.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0107.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0107.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4204,14 +4204,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0108.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0108.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0108.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0108.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4243,14 +4243,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0109.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0109.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0109.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0109.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4282,14 +4282,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0110.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0110.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0110.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0110.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4321,14 +4321,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0111.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0111.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0111.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0111.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4360,14 +4360,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0112.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0112.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0112.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0112.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4399,14 +4399,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0113.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0113.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0113.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0113.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4438,14 +4438,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0114.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0114.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0114.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0114.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4477,14 +4477,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0115.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0115.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0115.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0115.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4516,14 +4516,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0116.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0116.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0116.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0116.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4555,14 +4555,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0117.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0117.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0117.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0117.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4594,14 +4594,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0118.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0118.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0118.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0118.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4633,14 +4633,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0119.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0119.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0119.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0119.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4672,14 +4672,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0120.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0120.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0120.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0120.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4711,14 +4711,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0121.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0121.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0121.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0121.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4750,14 +4750,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0122.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0122.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0122.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0122.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4789,14 +4789,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0123.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0123.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0123.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0123.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4828,14 +4828,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0124.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0124.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0124.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0124.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4867,14 +4867,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0125.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0125.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0125.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0125.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4906,14 +4906,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0126.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0126.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0126.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0126.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4945,14 +4945,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0127.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0127.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0127.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0127.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4984,14 +4984,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0128.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0128.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0128.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0128.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5023,14 +5023,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0129.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0129.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0129.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0129.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5062,14 +5062,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0130.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0130.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0130.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0130.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5101,14 +5101,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0131.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0131.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0131.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0131.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5140,14 +5140,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0132.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0132.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0132.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0132.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5179,14 +5179,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0133.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0133.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0133.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0133.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5218,14 +5218,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0134.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0134.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0134.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0134.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5257,14 +5257,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0135.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0135.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0135.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0135.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5296,14 +5296,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0136.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0136.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0136.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0136.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5335,14 +5335,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0137.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0137.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0137.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0137.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5374,14 +5374,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0138.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0138.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0138.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0138.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5413,14 +5413,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0139.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0139.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0139.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0139.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5452,14 +5452,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0140.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0140.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0140.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0140.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5491,14 +5491,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0141.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0141.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0141.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0141.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5530,14 +5530,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0142.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0142.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0142.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0142.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5569,14 +5569,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0143.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0143.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0143.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0143.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5608,14 +5608,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0144.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0144.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0144.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0144.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5647,14 +5647,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0145.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0145.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0145.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0145.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5686,14 +5686,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0146.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0146.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0146.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0146.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5725,14 +5725,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0147.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0147.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0147.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0147.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5764,14 +5764,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0148.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0148.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0148.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0148.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5803,14 +5803,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0149.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0149.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0149.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0149.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5842,14 +5842,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0150.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0150.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0150.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0150.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5881,14 +5881,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0151.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0151.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0151.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0151.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5920,14 +5920,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0152.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0152.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0152.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0152.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5959,14 +5959,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0153.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0153.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0153.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0153.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -5998,14 +5998,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0154.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0154.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0154.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0154.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6037,14 +6037,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0155.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0155.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0155.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0155.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6076,14 +6076,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0156.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0156.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0156.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0156.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6115,14 +6115,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0157.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0157.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0157.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0157.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6154,14 +6154,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0158.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0158.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0158.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0158.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6193,14 +6193,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0159.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0159.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0159.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0159.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6232,14 +6232,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0160.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0160.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0160.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0160.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6271,14 +6271,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0161.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0161.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0161.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0161.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6310,14 +6310,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0162.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0162.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0162.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0162.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6349,14 +6349,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0163.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0163.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0163.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0163.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6388,14 +6388,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0164.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0164.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0164.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0164.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6427,14 +6427,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0165.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0165.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0165.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0165.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6466,14 +6466,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0166.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0166.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0166.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0166.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6505,14 +6505,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0167.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0167.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0167.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0167.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6544,14 +6544,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0168.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0168.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0168.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0168.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6583,14 +6583,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0169.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0169.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0169.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0169.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6622,14 +6622,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0170.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0170.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0170.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0170.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6661,14 +6661,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0171.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0171.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0171.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0171.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6700,14 +6700,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0172.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0172.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0172.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0172.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6739,14 +6739,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0173.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0173.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0173.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0173.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6778,14 +6778,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0174.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0174.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0174.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0174.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6817,14 +6817,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0175.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0175.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0175.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0175.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6856,14 +6856,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0176.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0176.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0176.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0176.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6895,14 +6895,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0177.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0177.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0177.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0177.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6934,14 +6934,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0178.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0178.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0178.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0178.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6973,14 +6973,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0179.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0179.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0179.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0179.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7012,14 +7012,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0180.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0180.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0180.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0180.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7051,14 +7051,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0181.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0181.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0181.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0181.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7090,14 +7090,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0182.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0182.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0182.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0182.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7129,14 +7129,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0183.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0183.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0183.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0183.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7168,14 +7168,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0184.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0184.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0184.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0184.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7207,14 +7207,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0185.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0185.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0185.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0185.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7246,14 +7246,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0186.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0186.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0186.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0186.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7285,14 +7285,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0187.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0187.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0187.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0187.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7324,14 +7324,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0188.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0188.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0188.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0188.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7363,14 +7363,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0189.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0189.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0189.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0189.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7402,14 +7402,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0190.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0190.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0190.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0190.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7441,14 +7441,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0191.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0191.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0191.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0191.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7480,14 +7480,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0192.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0192.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0192.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0192.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7519,14 +7519,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0193.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0193.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0193.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0193.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7558,14 +7558,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0194.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0194.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0194.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0194.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7597,14 +7597,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0195.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0195.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0195.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0195.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7636,14 +7636,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0196.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0196.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0196.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0196.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7675,14 +7675,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0197.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0197.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0197.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0197.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7714,14 +7714,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0198.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0198.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0198.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0198.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7753,14 +7753,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0199.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0199.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0199.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0199.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7792,14 +7792,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0200.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0200.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0200.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0200.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7831,14 +7831,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0201.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0201.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0201.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0201.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7870,14 +7870,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0202.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0202.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0202.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0202.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7909,14 +7909,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0203.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0203.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0203.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0203.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7948,14 +7948,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0204.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0204.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0204.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0204.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7987,14 +7987,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0205.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0205.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0205.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0205.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -8026,14 +8026,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0206.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0206.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0206.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0206.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -8065,14 +8065,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0207.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0207.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0207.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0207.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -8104,14 +8104,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0208.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0208.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0208.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0208.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -8143,14 +8143,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0209.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0209.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0209.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0209.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -8182,14 +8182,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0210.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0210.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0210.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0210.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -8221,14 +8221,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0211.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0211.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2420,
                 "width": 1479,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0211.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0211.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -8260,14 +8260,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0212.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0212.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2474,
                 "width": 1557,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0212.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0212.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -8299,14 +8299,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0213.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0213.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2474,
                 "width": 1557,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0213.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0010_0213.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }

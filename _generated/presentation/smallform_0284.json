@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0634.jpg/info.json",
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0634.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6340,
                 "width": 4800,
                 "service": [
                   {
-                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0634.jpg/info.json",
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0634.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0635.jpg/info.json",
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0635.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6340,
                 "width": 9500,
                 "service": [
                   {
-                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0635.jpg/info.json",
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0635.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -109,14 +109,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0636.jpg/info.json",
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0636.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 6340,
                 "width": 9500,
                 "service": [
                   {
-                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0636.jpg/info.json",
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21zui%211938_014%21zui-001_1938_014_0636.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }

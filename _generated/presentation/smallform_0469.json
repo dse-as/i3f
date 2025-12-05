@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0033.jpg/info.json",
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0033.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5800,
                 "width": 3800,
                 "service": [
                   {
-                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0033.jpg/info.json",
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0033.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0034.jpg/info.json",
+                "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0034.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5831,
                 "width": 3800,
                 "service": [
                   {
-                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0034.jpg/info.json",
+                    "id": "https://iiif.library.ethz.ch/iiif/2/e-periodica%21sfb%211941_023%21sfb-001_1941_023_0034.jpg",
                     "type": "ImageService3",
                     "profile": "level1"
                   }

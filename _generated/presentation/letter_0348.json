@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_001.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_001.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3374,
                 "width": 2699,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_001.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_001.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_002.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_002.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3391,
                 "width": 2713,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_002.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_002.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -109,14 +109,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_003.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_003.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3366,
                 "width": 2693,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_003.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_003.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -148,14 +148,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_004.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_004.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3335,
                 "width": 2668,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_004.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_004.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -187,14 +187,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_005.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_005.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 3413,
                 "width": 2730,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_005.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0348_005.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }

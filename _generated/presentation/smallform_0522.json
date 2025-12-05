@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1242-24-10-1941_FR2.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1242-24-10-1941_FR2.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
                 "width": 4252,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1242-24-10-1941_FR2.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1242-24-10-1941_FR2.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1243-24-10-1941_FR1.tif/info.json",
+                "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1243-24-10-1941_FR1.tif",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 5669,
                 "width": 4252,
                 "service": [
                   {
-                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1243-24-10-1941_FR1.tif/info.json",
+                    "id": "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/R-3627-S1243-24-10-1941_FR1.tif",
                     "type": "ImageService3",
                     "profile": "level1"
                   }

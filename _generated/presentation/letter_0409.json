@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.e-manuscripta.ch/i3f/v20/5289824/info.json",
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5289824",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 4156,
                 "width": 3373,
                 "service": [
                   {
-                    "id": "https://www.e-manuscripta.ch/i3f/v20/5289824/info.json",
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5289824",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.e-manuscripta.ch/i3f/v20/5289825/info.json",
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5289825",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 4156,
                 "width": 3373,
                 "service": [
                   {
-                    "id": "https://www.e-manuscripta.ch/i3f/v20/5289825/info.json",
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5289825",
                     "type": "ImageService3",
                     "profile": "level1"
                   }

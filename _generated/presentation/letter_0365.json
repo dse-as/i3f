@@ -31,14 +31,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.e-manuscripta.ch/i3f/v20/5219251/info.json",
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5219251",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2869,
                 "width": 2569,
                 "service": [
                   {
-                    "id": "https://www.e-manuscripta.ch/i3f/v20/5219251/info.json",
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5219251",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -70,14 +70,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.e-manuscripta.ch/i3f/v20/5219252/info.json",
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5219252",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2858,
                 "width": 2559,
                 "service": [
                   {
-                    "id": "https://www.e-manuscripta.ch/i3f/v20/5219252/info.json",
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5219252",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -109,14 +109,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.e-manuscripta.ch/i3f/v20/5219253/info.json",
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5219253",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2860,
                 "width": 2569,
                 "service": [
                   {
-                    "id": "https://www.e-manuscripta.ch/i3f/v20/5219253/info.json",
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5219253",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -148,14 +148,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://www.e-manuscripta.ch/i3f/v20/5219254/info.json",
+                "id": "https://www.e-manuscripta.ch/i3f/v20/5219254",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2841,
                 "width": 2559,
                 "service": [
                   {
-                    "id": "https://www.e-manuscripta.ch/i3f/v20/5219254/info.json",
+                    "id": "https://www.e-manuscripta.ch/i3f/v20/5219254",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
