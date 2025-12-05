@@ -1,0 +1,7 @@
+mf_id = "letter_0148.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Seelig, Carl"
+
+[mf_data]
+"letter_0148_001" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0148_001.tif/info.json"
+"letter_0148_002" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0148_002.tif/info.json"
