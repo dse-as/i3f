@@ -1,6 +1,6 @@
 mf_id = "longform_0007.json"
 mf_lang = "en"
-mf_label = "Das glückliche Tal [Tod in Persien] [Textzeuge a]"
+mf_label = "Das glÃ¼ckliche Tal [Tod in Persien] [Textzeuge a]"
 
 [mf_data]
 "longform_0007_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0007_0001.jpg/info.json"
