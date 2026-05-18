@@ -1,0 +1,14 @@
+mf_id = "smallform_0139.json"
+mf_lang = "en"
+mf_label = "Auf der Heimreise ..."
+
+[mf_data]
+"smallform_0139_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0001.jpg/info.json"
+"smallform_0139_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0002.jpg/info.json"
+"smallform_0139_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0003.jpg/info.json"
+"smallform_0139_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0004.jpg/info.json"
+"smallform_0139_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0005.jpg/info.json"
+"smallform_0139_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0006.jpg/info.json"
+"smallform_0139_0007.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0007.jpg/info.json"
+"smallform_0139_0008.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0008.jpg/info.json"
+"smallform_0139_0009.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0139_0009.jpg/info.json"

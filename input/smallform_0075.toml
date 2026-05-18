@@ -1,0 +1,9 @@
+mf_id = "smallform_0075.json"
+mf_lang = "en"
+mf_label = "Syrische Weihnachtstage"
+
+[mf_data]
+"smallform_0075_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0075_0001.jpg/info.json"
+"smallform_0075_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0075_0002.jpg/info.json"
+"smallform_0075_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0075_0003.jpg/info.json"
+"smallform_0075_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0075_0004.jpg/info.json"

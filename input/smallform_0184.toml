@@ -1,0 +1,13 @@
+mf_id = "smallform_0184.json"
+mf_lang = "en"
+mf_label = "Was erwartet Amerika von Roosevelt?"
+
+[mf_data]
+"smallform_0184_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0184_0001.jpg/info.json"
+"smallform_0184_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0184_0002.jpg/info.json"
+"smallform_0184_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0184_0003.jpg/info.json"
+"smallform_0184_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0184_0004.jpg/info.json"
+"smallform_0184_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0184_0005.jpg/info.json"
+"smallform_0184_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0184_0006.jpg/info.json"
+"smallform_0184_0007.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0184_0007.jpg/info.json"
+"smallform_0184_0008.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0184_0008.jpg/info.json"

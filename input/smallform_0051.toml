@@ -1,0 +1,8 @@
+mf_id = "smallform_0051.json"
+mf_lang = "en"
+mf_label = "Die neue landwirtschaftliche Hochschule in Ankara"
+
+[mf_data]
+"smallform_0051_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0051_0001.jpg/info.json"
+"smallform_0051_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0051_0002.jpg/info.json"
+"smallform_0051_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0051_0003.jpg/info.json"

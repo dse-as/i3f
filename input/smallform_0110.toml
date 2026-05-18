@@ -1,0 +1,6 @@
+mf_id = "smallform_0110.json"
+mf_lang = "en"
+mf_label = "Eine Totenstadt in Ossetien"
+
+[mf_data]
+"smallform_0110_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0110_0001.jpg/info.json"

@@ -1,0 +1,14 @@
+mf_id = "smallform_0159.json"
+mf_lang = "en"
+mf_label = "Im Elbursgebirge (oder: Im persischen Hochgebirge)"
+
+[mf_data]
+"smallform_0159_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0159_0001.jpg/info.json"
+"smallform_0159_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0159_0002.jpg/info.json"
+"smallform_0159_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0159_0003.jpg/info.json"
+"smallform_0159_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0159_0004.jpg/info.json"
+"smallform_0159_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0159_0005.jpg/info.json"
+"smallform_0159_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0159_0006.jpg/info.json"
+"smallform_0159_0007.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0159_0007.jpg/info.json"
+"smallform_0159_0008.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0159_0008.jpg/info.json"
+"smallform_0159_0009.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0159_0009.jpg/info.json"

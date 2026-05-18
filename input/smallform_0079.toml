@@ -1,0 +1,11 @@
+mf_id = "smallform_0079.json"
+mf_lang = "en"
+mf_label = "Ein Volksfest der Mohammedaner [Textzeuge a]"
+
+[mf_data]
+"smallform_0079_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0079_0001.jpg/info.json"
+"smallform_0079_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0079_0002.jpg/info.json"
+"smallform_0079_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0079_0003.jpg/info.json"
+"smallform_0079_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0079_0004.jpg/info.json"
+"smallform_0079_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0079_0005.jpg/info.json"
+"smallform_0079_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0079_0006.jpg/info.json"

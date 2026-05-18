@@ -1,0 +1,11 @@
+mf_id = "smallform_0156.json"
+mf_lang = "en"
+mf_label = "Bis zur russisch-persischen Grenze"
+
+[mf_data]
+"smallform_0156_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0156_0001.jpg/info.json"
+"smallform_0156_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0156_0002.jpg/info.json"
+"smallform_0156_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0156_0003.jpg/info.json"
+"smallform_0156_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0156_0004.jpg/info.json"
+"smallform_0156_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0156_0005.jpg/info.json"
+"smallform_0156_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0156_0006.jpg/info.json"

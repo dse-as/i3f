@@ -1,0 +1,7 @@
+mf_id = "smallform_0061.json"
+mf_lang = "en"
+mf_label = "Anatolischer Winter"
+
+[mf_data]
+"smallform_0061_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0061_0001.jpg/info.json"
+"smallform_0061_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0061_0002.jpg/info.json"

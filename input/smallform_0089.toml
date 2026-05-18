@@ -1,0 +1,16 @@
+mf_id = "smallform_0089.json"
+mf_lang = "en"
+mf_label = "Ukheidir"
+
+[mf_data]
+"smallform_0089_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0001.jpg/info.json"
+"smallform_0089_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0002.jpg/info.json"
+"smallform_0089_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0003.jpg/info.json"
+"smallform_0089_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0004.jpg/info.json"
+"smallform_0089_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0005.jpg/info.json"
+"smallform_0089_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0006.jpg/info.json"
+"smallform_0089_0007.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0007.jpg/info.json"
+"smallform_0089_0008.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0008.jpg/info.json"
+"smallform_0089_0009.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0009.jpg/info.json"
+"smallform_0089_0010.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0010.jpg/info.json"
+"smallform_0089_0011.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0089_0011.jpg/info.json"

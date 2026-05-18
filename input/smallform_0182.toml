@@ -1,0 +1,11 @@
+mf_id = "smallform_0182.json"
+mf_lang = "en"
+mf_label = "Notes on T.V.A."
+
+[mf_data]
+"smallform_0182_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0001.jpg/info.json"
+"smallform_0182_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0002.jpg/info.json"
+"smallform_0182_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0003.jpg/info.json"
+"smallform_0182_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0004.jpg/info.json"
+"smallform_0182_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0005.jpg/info.json"
+"smallform_0182_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0182_0006.jpg/info.json"
