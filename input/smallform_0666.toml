@@ -1,0 +1,8 @@
+mf_id = "smallform_0666.json"
+mf_lang = "en"
+mf_label = "Petsori: Ein Kloster, wo die Zeit still stand [Textzeuge b = Durchschlag]"
+
+[mf_data]
+"smallform_0666_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0666_0001.jpg/info.json"
+"smallform_0666_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0666_0002.jpg/info.json"
+"smallform_0666_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0666_0003.jpg/info.json"

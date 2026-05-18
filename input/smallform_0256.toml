@@ -1,0 +1,8 @@
+mf_id = "smallform_0256.json"
+mf_lang = "en"
+mf_label = "Kinder ohne Uniform"
+
+[mf_data]
+"smallform_0256_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0256_0001.jpg/info.json"
+"smallform_0256_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0256_0002.jpg/info.json"
+"smallform_0256_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0256_0003.jpg/info.json"

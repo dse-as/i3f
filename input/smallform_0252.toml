@@ -1,0 +1,8 @@
+mf_id = "smallform_0252.json"
+mf_lang = "en"
+mf_label = "Lumberton (fr. Text)"
+
+[mf_data]
+"smallform_0252_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0252_0001.jpg/info.json"
+"smallform_0252_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0252_0002.jpg/info.json"
+"smallform_0252_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0252_0003.jpg/info.json"

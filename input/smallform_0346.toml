@@ -1,0 +1,8 @@
+mf_id = "smallform_0346.json"
+mf_lang = "en"
+mf_label = "3. Der Ararat [Textzeuge a]"
+
+[mf_data]
+"smallform_0346_0016.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0346_0016.jpg/info.json"
+"smallform_0346_0017.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0346_0017.jpg/info.json"
+"smallform_0346_0018.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0346_0018.jpg/info.json"

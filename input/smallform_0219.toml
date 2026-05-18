@@ -1,0 +1,10 @@
+mf_id = "smallform_0219.json"
+mf_lang = "en"
+mf_label = "Die Kooperative Bewegung in Schweden, - ein Ei des Kolumbus?"
+
+[mf_data]
+"smallform_0219_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0219_0001.jpg/info.json"
+"smallform_0219_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0219_0002.jpg/info.json"
+"smallform_0219_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0219_0003.jpg/info.json"
+"smallform_0219_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0219_0004.jpg/info.json"
+"smallform_0219_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0219_0005.jpg/info.json"

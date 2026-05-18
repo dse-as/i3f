@@ -1,0 +1,8 @@
+mf_id = "smallform_0408.json"
+mf_lang = "en"
+mf_label = "Das Antlitz des Großen Buddha"
+
+[mf_data]
+"smallform_0408_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0408_0001.jpg/info.json"
+"smallform_0408_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0408_0002.jpg/info.json"
+"smallform_0408_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0408_0003.jpg/info.json"

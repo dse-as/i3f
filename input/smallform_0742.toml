@@ -1,0 +1,12 @@
+mf_id = "smallform_0742.json"
+mf_lang = "en"
+mf_label = "Ruth [Textzeuge a]"
+
+[mf_data]
+"smallform_0742_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0742_0001.jpg/info.json"
+"smallform_0742_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0742_0002.jpg/info.json"
+"smallform_0742_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0742_0003.jpg/info.json"
+"smallform_0742_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0742_0004.jpg/info.json"
+"smallform_0742_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0742_0005.jpg/info.json"
+"smallform_0742_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0742_0006.jpg/info.json"
+"smallform_0742_0007.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0742_0007.jpg/info.json"

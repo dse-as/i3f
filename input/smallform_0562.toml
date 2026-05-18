@@ -1,0 +1,9 @@
+mf_id = "smallform_0562.json"
+mf_lang = "en"
+mf_label = "Portugiesischer Spaziergang"
+
+[mf_data]
+"smallform_0562_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0562_0001.jpg/info.json"
+"smallform_0562_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0562_0002.jpg/info.json"
+"smallform_0562_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0562_0003.jpg/info.json"
+"smallform_0562_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0562_0004.jpg/info.json"

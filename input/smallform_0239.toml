@@ -1,0 +1,11 @@
+mf_id = "smallform_0239.json"
+mf_lang = "en"
+mf_label = "The Ascension of the Khan Tengri : (the last expedition of the Swiss alpinist Lorenz Saladin, September 36) [Textzeuge a]"
+
+[mf_data]
+"smallform_0239_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0239_0001.jpg/info.json"
+"smallform_0239_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0239_0002.jpg/info.json"
+"smallform_0239_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0239_0003.jpg/info.json"
+"smallform_0239_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0239_0004.jpg/info.json"
+"smallform_0239_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0239_0005.jpg/info.json"
+"smallform_0239_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0239_0006.jpg/info.json"

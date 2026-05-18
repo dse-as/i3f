@@ -1,0 +1,10 @@
+mf_id = "smallform_0587.json"
+mf_lang = "en"
+mf_label = "Der Belgische Kongo und der Krieg"
+
+[mf_data]
+"smallform_0587_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0001.jpg/info.json"
+"smallform_0587_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0002.jpg/info.json"
+"smallform_0587_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0003.jpg/info.json"
+"smallform_0587_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0004.jpg/info.json"
+"smallform_0587_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0587_0005.jpg/info.json"

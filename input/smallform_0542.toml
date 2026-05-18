@@ -1,0 +1,9 @@
+mf_id = "smallform_0542.json"
+mf_lang = "en"
+mf_label = "Stürmischer Frühling in Portugal"
+
+[mf_data]
+"smallform_0542_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0542_0001.jpg/info.json"
+"smallform_0542_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0542_0002.jpg/info.json"
+"smallform_0542_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0542_0003.jpg/info.json"
+"smallform_0542_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0542_0004.jpg/info.json"

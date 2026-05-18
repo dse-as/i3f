@@ -1,0 +1,14 @@
+mf_id = "smallform_0743.json"
+mf_lang = "en"
+mf_label = "Römische Skizze [Textzeuge b]"
+
+[mf_data]
+"smallform_0743_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0743_0001.jpg/info.json"
+"smallform_0743_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0743_0002.jpg/info.json"
+"smallform_0743_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0743_0003.jpg/info.json"
+"smallform_0743_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0743_0004.jpg/info.json"
+"smallform_0743_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0743_0005.jpg/info.json"
+"smallform_0743_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0743_0006.jpg/info.json"
+"smallform_0743_0007.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0743_0007.jpg/info.json"
+"smallform_0743_0008.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0743_0008.jpg/info.json"
+"smallform_0743_0009.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0743_0009.jpg/info.json"

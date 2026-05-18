@@ -1,0 +1,7 @@
+mf_id = "smallform_0221.json"
+mf_lang = "en"
+mf_label = "Schwedische Kinder"
+
+[mf_data]
+"smallform_0221_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0221_0001.jpg/info.json"
+"smallform_0221_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0221_0002.jpg/info.json"

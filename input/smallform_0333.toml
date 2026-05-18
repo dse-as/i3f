@@ -1,0 +1,9 @@
+mf_id = "smallform_0333.json"
+mf_lang = "en"
+mf_label = "Afghanistan - ein Land ohne Frauen (Herbst 1939) [Textzeuge a]"
+
+[mf_data]
+"smallform_0333_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0333_0001.jpg/info.json"
+"smallform_0333_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0333_0002.jpg/info.json"
+"smallform_0333_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0333_0003.jpg/info.json"
+"smallform_0333_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0333_0004.jpg/info.json"

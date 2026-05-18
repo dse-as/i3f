@@ -1,0 +1,9 @@
+mf_id = "smallform_0685.json"
+mf_lang = "en"
+mf_label = "«Gastfreundliches Afghanistan» [Textzeuge b]\n\n\n"
+
+[mf_data]
+"smallform_0685_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0685_0001.jpg/info.json"
+"smallform_0685_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0685_0002.jpg/info.json"
+"smallform_0685_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0685_0003.jpg/info.json"
+"smallform_0685_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0685_0004.jpg/info.json"

@@ -1,0 +1,14 @@
+mf_id = "smallform_0593.json"
+mf_lang = "en"
+mf_label = "Aus Tetuan I-IV (1942) [Textzeuge a]"
+
+[mf_data]
+"smallform_0593_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0593_0001.jpg/info.json"
+"smallform_0593_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0593_0002.jpg/info.json"
+"smallform_0593_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0593_0003.jpg/info.json"
+"smallform_0593_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0593_0004.jpg/info.json"
+"smallform_0593_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0593_0005.jpg/info.json"
+"smallform_0593_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0593_0006.jpg/info.json"
+"smallform_0593_0007.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0593_0007.jpg/info.json"
+"smallform_0593_0008.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0593_0008.jpg/info.json"
+"smallform_0593_0009.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0593_0009.jpg/info.json"

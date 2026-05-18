@@ -1,0 +1,10 @@
+mf_id = "smallform_0275.json"
+mf_lang = "en"
+mf_label = "Fahrt durch das befreite Österreich"
+
+[mf_data]
+"smallform_0275_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0001.jpg/info.json"
+"smallform_0275_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0002.jpg/info.json"
+"smallform_0275_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0003.jpg/info.json"
+"smallform_0275_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0004.jpg/info.json"
+"smallform_0275_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0005.jpg/info.json"

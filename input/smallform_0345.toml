@@ -1,0 +1,10 @@
+mf_id = "smallform_0345.json"
+mf_lang = "en"
+mf_label = "2. Trabzon, der Abschied vom Meer [Textzeuge a]"
+
+[mf_data]
+"smallform_0345_0011.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0345_0011.jpg/info.json"
+"smallform_0345_0012.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0345_0012.jpg/info.json"
+"smallform_0345_0013.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0345_0013.jpg/info.json"
+"smallform_0345_0014.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0345_0014.jpg/info.json"
+"smallform_0345_0015.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0345_0015.jpg/info.json"

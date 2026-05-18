@@ -1,0 +1,10 @@
+mf_id = "smallform_0692.json"
+mf_lang = "en"
+mf_label = "Amerikanisches Tagebuch. II. Von New York nach Washington [Textzeuge b]"
+
+[mf_data]
+"smallform_0692_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0692_0001.jpg/info.json"
+"smallform_0692_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0692_0002.jpg/info.json"
+"smallform_0692_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0692_0003.jpg/info.json"
+"smallform_0692_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0692_0004.jpg/info.json"
+"smallform_0692_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0692_0005.jpg/info.json"

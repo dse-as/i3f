@@ -1,0 +1,10 @@
+mf_id = "smallform_0362.json"
+mf_lang = "en"
+mf_label = "Das Nachbardorf"
+
+[mf_data]
+"smallform_0362_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0362_0001.jpg/info.json"
+"smallform_0362_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0362_0002.jpg/info.json"
+"smallform_0362_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0362_0003.jpg/info.json"
+"smallform_0362_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0362_0004.jpg/info.json"
+"smallform_0362_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0362_0005.jpg/info.json"

@@ -1,0 +1,11 @@
+mf_id = "smallform_0296.json"
+mf_lang = "en"
+mf_label = "[Ignazio Silone \"Die Schule der Diktatoren\"]"
+
+[mf_data]
+"smallform_0296_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0296_0001.jpg/info.json"
+"smallform_0296_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0296_0002.jpg/info.json"
+"smallform_0296_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0296_0003.jpg/info.json"
+"smallform_0296_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0296_0004.jpg/info.json"
+"smallform_0296_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0296_0005.jpg/info.json"
+"smallform_0296_0006.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0296_0006.jpg/info.json"

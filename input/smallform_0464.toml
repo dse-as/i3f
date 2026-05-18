@@ -1,0 +1,8 @@
+mf_id = "smallform_0464.json"
+mf_lang = "en"
+mf_label = "Amerikanische Ereignisse: 1. Die Vereidigung des Präsidenten "
+
+[mf_data]
+"smallform_0464_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0464_0001.jpg/info.json"
+"smallform_0464_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0464_0002.jpg/info.json"
+"smallform_0464_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0464_0003.jpg/info.json"

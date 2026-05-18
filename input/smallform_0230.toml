@@ -1,0 +1,9 @@
+mf_id = "smallform_0230.json"
+mf_lang = "en"
+mf_label = "Kleine Begegnungen in Danzig (Aufsatz)"
+
+[mf_data]
+"smallform_0230_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0230_0001.jpg/info.json"
+"smallform_0230_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0230_0002.jpg/info.json"
+"smallform_0230_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0230_0003.jpg/info.json"
+"smallform_0230_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0230_0004.jpg/info.json"

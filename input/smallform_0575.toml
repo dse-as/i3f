@@ -1,0 +1,10 @@
+mf_id = "smallform_0575.json"
+mf_lang = "en"
+mf_label = "Der Blick auf die Berge"
+
+[mf_data]
+"smallform_0575_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0575_0001.jpg/info.json"
+"smallform_0575_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0575_0002.jpg/info.json"
+"smallform_0575_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0575_0003.jpg/info.json"
+"smallform_0575_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0575_0004.jpg/info.json"
+"smallform_0575_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0575_0005.jpg/info.json"
