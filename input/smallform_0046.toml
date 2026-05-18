@@ -1,0 +1,8 @@
+mf_id = "smallform_0046.json"
+mf_lang = "en"
+mf_label = "Istanbul (Aufzeichnungen)"
+
+[mf_data]
+"smallform_0046_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0046_0001.jpg/info.json"
+"smallform_0046_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0046_0002.jpg/info.json"
+"smallform_0046_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0046_0003.jpg/info.json"
