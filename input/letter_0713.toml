@@ -1,0 +1,7 @@
+mf_id = "letter_0713.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Haushofer, Karl u. dess. Frau (Eltern von A'H'); Korrespondenz"
+
+[mf_data]
+letter_0713_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0713_001.jpg/info.json"
+letter_0713_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0713_002.jpg/info.json"

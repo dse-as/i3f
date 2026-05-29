@@ -1,0 +1,13 @@
+mf_id = "letter_0575.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Forrer, Anita; Korrespondenz"
+
+[mf_data]
+letter_0575_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0575_001.jpg/info.json"
+letter_0575_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0575_002.jpg/info.json"
+letter_0575_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0575_003.jpg/info.json"
+letter_0575_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0575_004.jpg/info.json"
+letter_0575_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0575_005.jpg/info.json"
+letter_0575_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0575_006.jpg/info.json"
+letter_0575_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0575_007.jpg/info.json"
+letter_0575_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0575_008.jpg/info.json"

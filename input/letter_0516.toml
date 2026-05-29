@@ -1,0 +1,9 @@
+mf_id = "letter_0516.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Bodmer-Preiswerk, Marie-Louise; Korrespondenz"
+
+[mf_data]
+letter_0516_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0516_001.jpg/info.json"
+letter_0516_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0516_002.jpg/info.json"
+letter_0516_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0516_003.jpg/info.json"
+letter_0516_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0516_004.jpg/info.json"

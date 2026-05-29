@@ -1,0 +1,7 @@
+mf_id = "letter_0785.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Salis, Dr. von; Korrespondenz"
+
+[mf_data]
+letter_0785_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0785_001.jpg/info.json"
+letter_0785_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0785_002.jpg/info.json"

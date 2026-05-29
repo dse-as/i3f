@@ -1,0 +1,12 @@
+mf_id = "letter_0858.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Storrer-Madelung, Florianna; Korrespondenz"
+
+[mf_data]
+letter_0858_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0858_001.jpg/info.json"
+letter_0858_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0858_002.jpg/info.json"
+letter_0858_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0858_003.jpg/info.json"
+letter_0858_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0858_004.jpg/info.json"
+letter_0858_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0858_005.jpg/info.json"
+letter_0858_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0858_006.jpg/info.json"
+letter_0858_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0858_007.jpg/info.json"

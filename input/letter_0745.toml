@@ -1,0 +1,9 @@
+mf_id = "letter_0745.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Maillart, Dagmar; Korrespondenz"
+
+[mf_data]
+letter_0745_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0745_001.jpg/info.json"
+letter_0745_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0745_002.jpg/info.json"
+letter_0745_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0745_003.jpg/info.json"
+letter_0745_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0745_004.jpg/info.json"

@@ -1,0 +1,8 @@
+mf_id = "letter_0932.json"
+mf_lang = "en"
+mf_label = ""
+
+[mf_data]
+letter_0932_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0932_001.jpg/info.json"
+letter_0932_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0932_002.jpg/info.json"
+letter_0932_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0932_003.jpg/info.json"

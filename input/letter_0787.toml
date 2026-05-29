@@ -1,0 +1,7 @@
+mf_id = "letter_0787.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Schumacher, Karl von; Korrespondenz"
+
+[mf_data]
+letter_0787_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0787_001.jpg/info.json"
+letter_0787_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0787_002.jpg/info.json"

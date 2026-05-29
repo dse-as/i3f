@@ -1,0 +1,9 @@
+mf_id = "letter_0708.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Haushofer, Albrecht; Korrespondenz"
+
+[mf_data]
+letter_0708_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0708_001.jpg/info.json"
+letter_0708_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0708_002.jpg/info.json"
+letter_0708_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0708_003.jpg/info.json"
+letter_0708_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0708_004.jpg/info.json"

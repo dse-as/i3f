@@ -1,0 +1,6 @@
+mf_id = "letter_0928.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Nougarède, Jaqueline"
+
+[mf_data]
+letter_0928_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0928_001.jpg/info.json"

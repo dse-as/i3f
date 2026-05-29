@@ -1,0 +1,7 @@
+mf_id = "letter_0769.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Merz, Ernst; Korrespondenz"
+
+[mf_data]
+letter_0769_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0769_001.jpg/info.json"
+letter_0769_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0769_002.jpg/info.json"

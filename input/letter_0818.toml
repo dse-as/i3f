@@ -1,0 +1,7 @@
+mf_id = "letter_0818.json"
+mf_lang = "en"
+mf_label = "Kopie: Schwarzenbach, Annemarie an Schlumberger, Dominique; Korrespondenz"
+
+[mf_data]
+letter_0818_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0818_001.jpg/info.json"
+letter_0818_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0818_002.jpg/info.json"

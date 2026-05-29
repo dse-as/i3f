@@ -1,0 +1,11 @@
+mf_id = "letter_0718.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Heer, H.; Korrespondenz"
+
+[mf_data]
+letter_0718_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0718_001.jpg/info.json"
+letter_0718_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0718_002.jpg/info.json"
+letter_0718_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0718_003.jpg/info.json"
+letter_0718_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0718_004.jpg/info.json"
+letter_0718_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0718_005.jpg/info.json"
+letter_0718_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0718_006.jpg/info.json"

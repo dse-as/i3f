@@ -1,0 +1,10 @@
+mf_id = "letter_0737.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Maillart, Ella; Korrespondenz"
+
+[mf_data]
+letter_0737_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0737_001.jpg/info.json"
+letter_0737_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0737_002.jpg/info.json"
+letter_0737_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0737_003.jpg/info.json"
+letter_0737_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0737_004.jpg/info.json"
+letter_0737_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0737_005.jpg/info.json"

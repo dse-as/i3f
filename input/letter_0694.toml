@@ -1,0 +1,11 @@
+mf_id = "letter_0694.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Haushofer, Albrecht; Korrespondenz"
+
+[mf_data]
+letter_0694_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0694_001.jpg/info.json"
+letter_0694_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0694_002.jpg/info.json"
+letter_0694_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0694_003.jpg/info.json"
+letter_0694_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0694_004.jpg/info.json"
+letter_0694_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0694_005.jpg/info.json"
+letter_0694_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0694_006.jpg/info.json"

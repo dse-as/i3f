@@ -1,0 +1,8 @@
+mf_id = "letter_0800.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Wolkenberg, Alfred; Korrespondenz"
+
+[mf_data]
+letter_0800_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0800_001.jpg/info.json"
+letter_0800_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0800_002.jpg/info.json"
+letter_0800_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0800_003.jpg/info.json"

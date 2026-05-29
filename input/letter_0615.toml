@@ -1,0 +1,8 @@
+mf_id = "letter_0615.json"
+mf_lang = "en"
+mf_label = "Schwarzenbach, Annemarie an Forrer, Anita; Korrespondenz"
+
+[mf_data]
+letter_0615_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0615_001.jpg/info.json"
+letter_0615_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0615_002.jpg/info.json"
+letter_0615_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0615_003.jpg/info.json"

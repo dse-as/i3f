@@ -1,0 +1,14 @@
+mf_id = "letter_0835.json"
+mf_lang = "en"
+mf_label = "Kopie: Schwarzenbach, Annemarie an Schlumberger, Dominique; Korrespondenz"
+
+[mf_data]
+letter_0835_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_001.jpg/info.json"
+letter_0835_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_002.jpg/info.json"
+letter_0835_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_003.jpg/info.json"
+letter_0835_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_004.jpg/info.json"
+letter_0835_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_005.jpg/info.json"
+letter_0835_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_006.jpg/info.json"
+letter_0835_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_007.jpg/info.json"
+letter_0835_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_008.jpg/info.json"
+letter_0835_009 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0835_009.jpg/info.json"
