@@ -3,4 +3,4 @@ mf_lang = "en"
 mf_label = "Dargawskaja: ein Kaukasus-Dorf"
 
 [mf_data]
-"smallform_0738_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0738_0001.jpg/info.json"
+smallform_0738_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0738_0001.jpg/info.json"

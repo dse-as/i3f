@@ -1,9 +1,0 @@
-mf_id = "smallform_0739.json"
-mf_lang = "en"
-mf_label = "Die Tempel von Baalbek"
-
-[mf_data]
-smallform_0739_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0739_0001.jpg/info.json"
-smallform_0739_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0739_0002.jpg/info.json"
-smallform_0739_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0739_0003.jpg/info.json"
-smallform_0739_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0739_0004.jpg/info.json"

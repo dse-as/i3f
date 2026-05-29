@@ -1,8 +1,0 @@
-mf_id = "smallform_0073.json"
-mf_lang = "en"
-mf_label = "Gewitter im Libanon"
-
-[mf_data]
-smallform_0073_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0073_0001.jpg/info.json"
-smallform_0073_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0073_0002.jpg/info.json"
-smallform_0073_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0073_0003.jpg/info.json"

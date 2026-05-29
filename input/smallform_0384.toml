@@ -1,8 +1,0 @@
-mf_id = "smallform_0384.json"
-mf_lang = "en"
-mf_label = "Russische Gefahr im Nahen und Mittleren Osten"
-
-[mf_data]
-smallform_0384_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0384_0001.jpg/info.json"
-smallform_0384_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0384_0002.jpg/info.json"
-smallform_0384_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0384_0003.jpg/info.json"

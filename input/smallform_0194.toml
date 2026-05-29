@@ -1,9 +1,0 @@
-mf_id = "smallform_0194.json"
-mf_lang = "en"
-mf_label = "Der Radiopriester"
-
-[mf_data]
-smallform_0194_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0194_0001.jpg/info.json"
-smallform_0194_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0194_0002.jpg/info.json"
-smallform_0194_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0194_0003.jpg/info.json"
-smallform_0194_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0194_0004.jpg/info.json"

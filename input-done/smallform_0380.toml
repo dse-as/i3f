@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "Afghanistan und England - Rückblick, Ausblick"
 
 [mf_data]
-"smallform_0380_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0380_0001.jpg/info.json"
-"smallform_0380_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0380_0002.jpg/info.json"
-"smallform_0380_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0380_0003.jpg/info.json"
-"smallform_0380_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0380_0004.jpg/info.json"
+smallform_0380_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0380_0001.jpg/info.json"
+smallform_0380_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0380_0002.jpg/info.json"
+smallform_0380_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0380_0003.jpg/info.json"
+smallform_0380_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0380_0004.jpg/info.json"

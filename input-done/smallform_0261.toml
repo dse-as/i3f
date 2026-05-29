@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Darf man heute \"historische\" und \"abseitige\" Bücher schreiben? : zu Klaus Mann: Vergittertes Fenster"
 
 [mf_data]
-"smallform_0261_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0261_0001.jpg/info.json"
-"smallform_0261_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0261_0002.jpg/info.json"
-"smallform_0261_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0261_0003.jpg/info.json"
+smallform_0261_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0261_0001.jpg/info.json"
+smallform_0261_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0261_0002.jpg/info.json"
+smallform_0261_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0261_0003.jpg/info.json"

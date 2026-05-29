@@ -1,8 +1,0 @@
-mf_id = "smallform_0214.json"
-mf_lang = "en"
-mf_label = "Das alte Reval - das neue Tallinn : Estlands Hauptstadt"
-
-[mf_data]
-smallform_0214_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0214_0001.jpg/info.json"
-smallform_0214_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0214_0002.jpg/info.json"
-smallform_0214_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0214_0003.jpg/info.json"

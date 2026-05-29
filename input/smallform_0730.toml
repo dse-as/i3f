@@ -1,7 +1,0 @@
-mf_id = "smallform_0730.json"
-mf_lang = "en"
-mf_label = "Von einem Neger geschrieben"
-
-[mf_data]
-smallform_0730_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0730_0001.jpg/info.json"
-smallform_0730_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0730_0002.jpg/info.json"

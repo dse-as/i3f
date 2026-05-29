@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "[Liste der abgeschickten Publikationen an Schweizer Zeitschriften und Zeitungen]"
 
 [mf_data]
-"smallform_0202_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0202_0001.jpg/info.json"
-"smallform_0202_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0202_0002.jpg/info.json"
-"smallform_0202_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0202_0003.jpg/info.json"
+smallform_0202_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0202_0001.jpg/info.json"
+smallform_0202_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0202_0002.jpg/info.json"
+smallform_0202_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0202_0003.jpg/info.json"

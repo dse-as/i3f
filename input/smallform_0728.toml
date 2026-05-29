@@ -1,8 +1,0 @@
-mf_id = "smallform_0728.json"
-mf_lang = "en"
-mf_label = "Nantucket Island, am ersten August [Textzeuge a]"
-
-[mf_data]
-smallform_0728_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0728_0001.jpg/info.json"
-smallform_0728_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0728_0002.jpg/info.json"
-smallform_0728_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0728_0003.jpg/info.json"

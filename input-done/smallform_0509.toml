@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "Die Niederlagen"
 
 [mf_data]
-"smallform_0509_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0001.jpg/info.json"
-"smallform_0509_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0002.jpg/info.json"
-"smallform_0509_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0003.jpg/info.json"
-"smallform_0509_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0004.jpg/info.json"
+smallform_0509_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0001.jpg/info.json"
+smallform_0509_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0002.jpg/info.json"
+smallform_0509_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0003.jpg/info.json"
+smallform_0509_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0509_0004.jpg/info.json"

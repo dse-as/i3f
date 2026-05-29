@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "8. Der Aufbruch, die nie bereute Stunde [Textzeuge c - Fotokopie]"
 
 [mf_data]
-"smallform_0769_0022.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0769_0022.jpg/info.json"
-"smallform_0769_0023.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0769_0023.jpg/info.json"
-"smallform_0769_0024.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0769_0024.jpg/info.json"
-"smallform_0769_0025.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0769_0025.jpg/info.json"
+smallform_0769_022 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0769_0022.jpg/info.json"
+smallform_0769_023 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0769_0023.jpg/info.json"
+smallform_0769_024 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0769_0024.jpg/info.json"
+smallform_0769_025 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0769_0025.jpg/info.json"

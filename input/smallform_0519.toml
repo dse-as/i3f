@@ -1,9 +1,0 @@
-mf_id = "smallform_0519.json"
-mf_lang = "en"
-mf_label = "Photos Afrika, 1. Serie: Belgischer Kongo"
-
-[mf_data]
-smallform_0519_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0519_0001.jpg/info.json"
-smallform_0519_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0519_0002.jpg/info.json"
-smallform_0519_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0519_0003.jpg/info.json"
-smallform_0519_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0519_0004.jpg/info.json"

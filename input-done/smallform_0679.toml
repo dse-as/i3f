@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Die Töpfer von Istalif [Textzeuge c]"
 
 [mf_data]
-"smallform_0679_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0679_0001.jpg/info.json"
-"smallform_0679_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0679_0002.jpg/info.json"
-"smallform_0679_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0679_0003.jpg/info.json"
+smallform_0679_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0679_0001.jpg/info.json"
+smallform_0679_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0679_0002.jpg/info.json"
+smallform_0679_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0679_0003.jpg/info.json"

@@ -1,8 +1,0 @@
-mf_id = "smallform_0714.json"
-mf_lang = "en"
-mf_label = "[Tagebuch] Thema: Chattanooga, Birmingham, Montgomery, Tuskogee"
-
-[mf_data]
-smallform_0714_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0714_0001.jpg/info.json"
-smallform_0714_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0714_0002.jpg/info.json"
-smallform_0714_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0714_0003.jpg/info.json"

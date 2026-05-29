@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "1 200 000 Karakuli [Textzeuge b]"
 
 [mf_data]
-"smallform_0676_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0676_0001.jpg/info.json"
-"smallform_0676_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0676_0002.jpg/info.json"
-"smallform_0676_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0676_0003.jpg/info.json"
+smallform_0676_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0676_0001.jpg/info.json"
+smallform_0676_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0676_0002.jpg/info.json"
+smallform_0676_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0676_0003.jpg/info.json"

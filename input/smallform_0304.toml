@@ -1,8 +1,0 @@
-mf_id = "smallform_0304.json"
-mf_lang = "en"
-mf_label = "Gespräch mit einem jungen Türken"
-
-[mf_data]
-smallform_0304_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0304_0001.jpg/info.json"
-smallform_0304_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0304_0002.jpg/info.json"
-smallform_0304_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0304_0003.jpg/info.json"

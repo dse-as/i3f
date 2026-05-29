@@ -1,8 +1,0 @@
-mf_id = "smallform_0455.json"
-mf_lang = "en"
-mf_label = "Auch Einer ..."
-
-[mf_data]
-smallform_0455_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0455_0001.jpg/info.json"
-smallform_0455_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0455_0002.jpg/info.json"
-smallform_0455_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0455_0003.jpg/info.json"

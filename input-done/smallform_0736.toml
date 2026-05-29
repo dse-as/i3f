@@ -3,8 +3,8 @@ mf_lang = "en"
 mf_label = "Eine Atempause in Estoril"
 
 [mf_data]
-"smallform_0736_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0001.jpg/info.json"
-"smallform_0736_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0002.jpg/info.json"
-"smallform_0736_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0003.jpg/info.json"
-"smallform_0736_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0004.jpg/info.json"
-"smallform_0736_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0005.jpg/info.json"
+smallform_0736_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0001.jpg/info.json"
+smallform_0736_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0002.jpg/info.json"
+smallform_0736_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0003.jpg/info.json"
+smallform_0736_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0004.jpg/info.json"
+smallform_0736_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0736_0005.jpg/info.json"

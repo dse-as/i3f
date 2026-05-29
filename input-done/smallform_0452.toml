@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "An einen Freund in Frankreich ..."
 
 [mf_data]
-"smallform_0452_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0452_0001.jpg/info.json"
-"smallform_0452_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0452_0002.jpg/info.json"
+smallform_0452_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0452_0001.jpg/info.json"
+smallform_0452_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0452_0002.jpg/info.json"

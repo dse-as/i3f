@@ -1,8 +1,0 @@
-mf_id = "smallform_0216.json"
-mf_lang = "en"
-mf_label = "Helsinki, Suomi"
-
-[mf_data]
-smallform_0216_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0216_0001.jpg/info.json"
-smallform_0216_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0216_0002.jpg/info.json"
-smallform_0216_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0216_0003.jpg/info.json"

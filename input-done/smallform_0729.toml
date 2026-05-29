@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Die Vereinigten Staaten und die deutschen Siege"
 
 [mf_data]
-"smallform_0729_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0729_0001.jpg/info.json"
-"smallform_0729_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0729_0002.jpg/info.json"
-"smallform_0729_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0729_0003.jpg/info.json"
+smallform_0729_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0729_0001.jpg/info.json"
+smallform_0729_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0729_0002.jpg/info.json"
+smallform_0729_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0729_0003.jpg/info.json"

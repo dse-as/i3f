@@ -1,7 +1,0 @@
-mf_id = "smallform_0597.json"
-mf_lang = "en"
-mf_label = "[Familiengeschichte eines Emigranten]"
-
-[mf_data]
-smallform_0597_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0597_0001.jpg/info.json"
-smallform_0597_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0597_0002.jpg/info.json"

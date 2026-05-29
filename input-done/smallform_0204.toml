@@ -3,4 +3,4 @@ mf_lang = "en"
 mf_label = "Aufnahmen von Annemarie Clarac-Schwarzenbach"
 
 [mf_data]
-"smallform_0204_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0204_0001.jpg/info.json"
+smallform_0204_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0204_0001.jpg/info.json"

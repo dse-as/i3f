@@ -1,8 +1,0 @@
-mf_id = "smallform_0447.json"
-mf_lang = "en"
-mf_label = "Ein Artikel über die Schweiz"
-
-[mf_data]
-smallform_0447_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0447_0001.jpg/info.json"
-smallform_0447_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0447_0002.jpg/info.json"
-smallform_0447_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0447_0003.jpg/info.json"

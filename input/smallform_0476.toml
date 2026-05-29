@@ -1,9 +1,0 @@
-mf_id = "smallform_0476.json"
-mf_lang = "en"
-mf_label = "Die Tätigkeit des Roten Kreuzes in Lissabon"
-
-[mf_data]
-smallform_0476_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0476_0001.jpg/info.json"
-smallform_0476_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0476_0002.jpg/info.json"
-smallform_0476_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0476_0003.jpg/info.json"
-smallform_0476_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0476_0004.jpg/info.json"

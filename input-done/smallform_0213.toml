@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Die \"Drakooni\" kommen nach Petschur!"
 
 [mf_data]
-"smallform_0213_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0213_0001.jpg/info.json"
-"smallform_0213_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0213_0002.jpg/info.json"
-"smallform_0213_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0213_0003.jpg/info.json"
+smallform_0213_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0213_0001.jpg/info.json"
+smallform_0213_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0213_0002.jpg/info.json"
+smallform_0213_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0213_0003.jpg/info.json"

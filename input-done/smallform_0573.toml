@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "Die Stadt der Quellen und Winde"
 
 [mf_data]
-"smallform_0573_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0573_0001.jpg/info.json"
-"smallform_0573_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0573_0002.jpg/info.json"
-"smallform_0573_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0573_0003.jpg/info.json"
-"smallform_0573_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0573_0004.jpg/info.json"
+smallform_0573_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0573_0001.jpg/info.json"
+smallform_0573_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0573_0002.jpg/info.json"
+smallform_0573_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0573_0003.jpg/info.json"
+smallform_0573_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0573_0004.jpg/info.json"

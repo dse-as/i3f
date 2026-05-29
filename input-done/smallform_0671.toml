@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Quer durch Klein-Asien : eine Strasse im Bau (2) [Textzeuge b]"
 
 [mf_data]
-"smallform_0671_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0671_0001.jpg/info.json"
-"smallform_0671_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0671_0002.jpg/info.json"
-"smallform_0671_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0671_0003.jpg/info.json"
+smallform_0671_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0671_0001.jpg/info.json"
+smallform_0671_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0671_0002.jpg/info.json"
+smallform_0671_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0671_0003.jpg/info.json"

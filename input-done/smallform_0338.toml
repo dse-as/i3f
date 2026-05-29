@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "Blick auf Afghanistan"
 
 [mf_data]
-"smallform_0338_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0338_0001.jpg/info.json"
-"smallform_0338_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0338_0002.jpg/info.json"
+smallform_0338_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0338_0001.jpg/info.json"
+smallform_0338_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0338_0002.jpg/info.json"

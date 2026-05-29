@@ -3,8 +3,8 @@ mf_lang = "en"
 mf_label = "Die Jugend Portugals'"
 
 [mf_data]
-"smallform_0590_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0001.jpg/info.json"
-"smallform_0590_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0002.jpg/info.json"
-"smallform_0590_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0003.jpg/info.json"
-"smallform_0590_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0004.jpg/info.json"
-"smallform_0590_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0005.jpg/info.json"
+smallform_0590_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0001.jpg/info.json"
+smallform_0590_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0002.jpg/info.json"
+smallform_0590_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0003.jpg/info.json"
+smallform_0590_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0004.jpg/info.json"
+smallform_0590_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0590_0005.jpg/info.json"

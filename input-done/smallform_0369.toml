@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Aden, eine Morgenvision"
 
 [mf_data]
-"smallform_0369_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0369_0001.jpg/info.json"
-"smallform_0369_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0369_0002.jpg/info.json"
-"smallform_0369_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0369_0003.jpg/info.json"
+smallform_0369_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0369_0001.jpg/info.json"
+smallform_0369_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0369_0002.jpg/info.json"
+smallform_0369_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0369_0003.jpg/info.json"

@@ -3,4 +3,4 @@ mf_lang = "en"
 mf_label = "Modernes Iran und altes Persien"
 
 [mf_data]
-"smallform_0515_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0515_0001.jpg/info.json"
+smallform_0515_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0515_0001.jpg/info.json"

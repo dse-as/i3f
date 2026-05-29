@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "[Thema: Die Zeitschrift \"Life\" ]"
 
 [mf_data]
-"smallform_0254_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0254_0001.jpg/info.json"
-"smallform_0254_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0254_0002.jpg/info.json"
+smallform_0254_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0254_0001.jpg/info.json"
+smallform_0254_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0254_0002.jpg/info.json"

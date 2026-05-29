@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "Amerikanische Ereignisse: 4. Umstellung auf Rüstungsindustrie"
 
 [mf_data]
-"smallform_0473_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0473_0001.jpg/info.json"
-"smallform_0473_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0473_0002.jpg/info.json"
-"smallform_0473_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0473_0003.jpg/info.json"
-"smallform_0473_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0473_0004.jpg/info.json"
+smallform_0473_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0473_0001.jpg/info.json"
+smallform_0473_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0473_0002.jpg/info.json"
+smallform_0473_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0473_0003.jpg/info.json"
+smallform_0473_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0473_0004.jpg/info.json"

@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Pol-i-Khomri, ein Kraftwerk im Hindukusch : ein Bildbericht"
 
 [mf_data]
-"smallform_0340_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0340_0001.jpg/info.json"
-"smallform_0340_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0340_0002.jpg/info.json"
-"smallform_0340_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0340_0003.jpg/info.json"
+smallform_0340_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0340_0001.jpg/info.json"
+smallform_0340_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0340_0002.jpg/info.json"
+smallform_0340_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0340_0003.jpg/info.json"

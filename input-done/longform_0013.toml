@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "Das glückliche Tal [Tod in Persien] [Textzeuge b]"
 
 [mf_data]
-"longform_0013_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0013_0001.jpg/info.json"
-"longform_0013_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0013_0002.jpg/info.json"
+longform_0013_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0013_0001.jpg/info.json"
+longform_0013_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0013_0002.jpg/info.json"

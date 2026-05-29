@@ -1,8 +1,0 @@
-mf_id = "smallform_0493.json"
-mf_lang = "en"
-mf_label = "Nach der Ausstellung Edmond Bille in Portugal"
-
-[mf_data]
-smallform_0493_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0493_0001.jpg/info.json"
-smallform_0493_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0493_0002.jpg/info.json"
-smallform_0493_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0493_0003.jpg/info.json"

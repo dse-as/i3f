@@ -1,9 +1,0 @@
-mf_id = "smallform_0549.json"
-mf_lang = "en"
-mf_label = "Junge Portugiesinnen in Uniform [Textzeuge a]"
-
-[mf_data]
-smallform_0549_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0549_0001.jpg/info.json"
-smallform_0549_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0549_0002.jpg/info.json"
-smallform_0549_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0549_0003.jpg/info.json"
-smallform_0549_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0549_0004.jpg/info.json"

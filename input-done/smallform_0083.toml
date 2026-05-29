@@ -3,8 +3,8 @@ mf_lang = "en"
 mf_label = "Nachtflug über die Wüste"
 
 [mf_data]
-"smallform_0083_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0001.jpg/info.json"
-"smallform_0083_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0002.jpg/info.json"
-"smallform_0083_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0003.jpg/info.json"
-"smallform_0083_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0004.jpg/info.json"
-"smallform_0083_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0005.jpg/info.json"
+smallform_0083_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0001.jpg/info.json"
+smallform_0083_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0002.jpg/info.json"
+smallform_0083_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0003.jpg/info.json"
+smallform_0083_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0004.jpg/info.json"
+smallform_0083_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0083_0005.jpg/info.json"

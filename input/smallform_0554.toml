@@ -1,9 +1,0 @@
-mf_id = "smallform_0554.json"
-mf_lang = "en"
-mf_label = "Ein Schiff aus Afrika"
-
-[mf_data]
-smallform_0554_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0554_0001.jpg/info.json"
-smallform_0554_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0554_0002.jpg/info.json"
-smallform_0554_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0554_0003.jpg/info.json"
-smallform_0554_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0554_0004.jpg/info.json"

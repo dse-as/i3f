@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "Jahreswechsel in U.S.A.: 4. Die weissen Ebenen"
 
 [mf_data]
-"smallform_0721_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0721_0001.jpg/info.json"
-"smallform_0721_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0721_0002.jpg/info.json"
-"smallform_0721_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0721_0003.jpg/info.json"
-"smallform_0721_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0721_0004.jpg/info.json"
+smallform_0721_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0721_0001.jpg/info.json"
+smallform_0721_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0721_0002.jpg/info.json"
+smallform_0721_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0721_0003.jpg/info.json"
+smallform_0721_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0721_0004.jpg/info.json"

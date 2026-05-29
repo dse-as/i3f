@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "Afghan neutrality?"
 
 [mf_data]
-"smallform_0461_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0461_0001.jpg/info.json"
-"smallform_0461_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0461_0002.jpg/info.json"
-"smallform_0461_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0461_0003.jpg/info.json"
-"smallform_0461_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0461_0004.jpg/info.json"
+smallform_0461_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0461_0001.jpg/info.json"
+smallform_0461_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0461_0002.jpg/info.json"
+smallform_0461_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0461_0003.jpg/info.json"
+smallform_0461_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0461_0004.jpg/info.json"

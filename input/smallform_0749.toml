@@ -1,7 +1,0 @@
-mf_id = "smallform_0749.json"
-mf_lang = "en"
-mf_label = "Der Ararat [Textzeuge b - Abschrift]"
-
-[mf_data]
-smallform_0749_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0749_0007.jpg/info.json"
-smallform_0749_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0749_0008.jpg/info.json"

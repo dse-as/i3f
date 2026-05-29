@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "Bayazid : türkisch-iranische Grenze (3) [Textzeuge a]"
 
 [mf_data]
-"smallform_0318_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0318_0001.jpg/info.json"
-"smallform_0318_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0318_0002.jpg/info.json"
+smallform_0318_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0318_0001.jpg/info.json"
+smallform_0318_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0318_0002.jpg/info.json"

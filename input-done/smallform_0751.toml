@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "5. Die Steppe [Textzeuge b - Abschrift]"
 
 [mf_data]
-"smallform_0751_0010.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0751_0010.jpg/info.json"
-"smallform_0751_0011.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0751_0011.jpg/info.json"
+smallform_0751_010 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0751_0010.jpg/info.json"
+smallform_0751_011 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0751_0011.jpg/info.json"

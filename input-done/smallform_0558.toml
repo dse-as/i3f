@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "Maroc, Notizen zu den Photos"
 
 [mf_data]
-"smallform_0558_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0558_0001.jpg/info.json"
-"smallform_0558_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0558_0002.jpg/info.json"
+smallform_0558_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0558_0001.jpg/info.json"
+smallform_0558_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0558_0002.jpg/info.json"

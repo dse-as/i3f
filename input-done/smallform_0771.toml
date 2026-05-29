@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "[Die Bucht von Bandra] [Textzeuge c - Fotokopie]"
 
 [mf_data]
-"smallform_0771_0031.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0771_0031.jpg/info.json"
-"smallform_0771_0032.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0771_0032.jpg/info.json"
-"smallform_0771_0033.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0771_0033.jpg/info.json"
+smallform_0771_031 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0771_0031.jpg/info.json"
+smallform_0771_032 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0771_0032.jpg/info.json"
+smallform_0771_033 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0771_0033.jpg/info.json"

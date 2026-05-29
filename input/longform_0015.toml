@@ -1,8 +1,0 @@
-mf_id = "longform_0015.json"
-mf_lang = "en"
-mf_label = "Das glückliche Tal [Tod in Persien] [Textzeuge d]"
-
-[mf_data]
-longform_0015_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0015_0001.jpg/info.json"
-longform_0015_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0015_0002.jpg/info.json"
-longform_0015_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/longform_0015_0003.jpg/info.json"

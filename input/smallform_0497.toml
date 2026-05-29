@@ -1,8 +1,0 @@
-mf_id = "smallform_0497.json"
-mf_lang = "en"
-mf_label = "Das Tor Indiens"
-
-[mf_data]
-smallform_0497_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0497_0001.jpg/info.json"
-smallform_0497_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0497_0002.jpg/info.json"
-smallform_0497_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0497_0003.jpg/info.json"

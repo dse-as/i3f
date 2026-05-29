@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Cihil Sutun = Die vierzig Säulen der Erinnerung [Textzeuge c - Fotokopie]"
 
 [mf_data]
-"smallform_0762_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0762_0002.jpg/info.json"
-"smallform_0762_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0762_0003.jpg/info.json"
-"smallform_0762_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0762_0004.jpg/info.json"
+smallform_0762_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0762_0002.jpg/info.json"
+smallform_0762_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0762_0003.jpg/info.json"
+smallform_0762_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0762_0004.jpg/info.json"

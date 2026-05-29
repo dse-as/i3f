@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "NO LABEL GIVEN"
 
 [mf_data]
-"smallform_0336_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0336_0001.jpg/info.json"
-"smallform_0336_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0336_0002.jpg/info.json"
-"smallform_0336_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0336_0003.jpg/info.json"
-"smallform_0336_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0336_0004.jpg/info.json"
+smallform_0336_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0336_0001.jpg/info.json"
+smallform_0336_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0336_0002.jpg/info.json"
+smallform_0336_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0336_0003.jpg/info.json"
+smallform_0336_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0336_0004.jpg/info.json"

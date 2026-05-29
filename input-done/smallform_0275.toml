@@ -3,8 +3,8 @@ mf_lang = "en"
 mf_label = "Fahrt durch das befreite Österreich"
 
 [mf_data]
-"smallform_0275_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0001.jpg/info.json"
-"smallform_0275_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0002.jpg/info.json"
-"smallform_0275_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0003.jpg/info.json"
-"smallform_0275_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0004.jpg/info.json"
-"smallform_0275_0005.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0005.jpg/info.json"
+smallform_0275_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0001.jpg/info.json"
+smallform_0275_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0002.jpg/info.json"
+smallform_0275_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0003.jpg/info.json"
+smallform_0275_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0004.jpg/info.json"
+smallform_0275_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0275_0005.jpg/info.json"

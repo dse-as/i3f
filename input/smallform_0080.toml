@@ -1,8 +1,0 @@
-mf_id = "smallform_0080.json"
-mf_lang = "en"
-mf_label = "Auf der Zitadelle von Aleppo"
-
-[mf_data]
-smallform_0080_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0080_0001.jpg/info.json"
-smallform_0080_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0080_0002.jpg/info.json"
-smallform_0080_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0080_0003.jpg/info.json"

@@ -1,7 +1,0 @@
-mf_id = "smallform_0392.json"
-mf_lang = "en"
-mf_label = "Indien"
-
-[mf_data]
-smallform_0392_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0392_0001.jpg/info.json"
-smallform_0392_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0392_0002.jpg/info.json"

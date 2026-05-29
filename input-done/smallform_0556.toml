@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "Notizen zum Thema: Marokkanische Jugend"
 
 [mf_data]
-"smallform_0556_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0556_0001.jpg/info.json"
-"smallform_0556_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0556_0002.jpg/info.json"
+smallform_0556_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0556_0001.jpg/info.json"
+smallform_0556_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0556_0002.jpg/info.json"

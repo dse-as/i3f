@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Strategische Strassen im Nahen Osten"
 
 [mf_data]
-"smallform_0342_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0342_0001.jpg/info.json"
-"smallform_0342_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0342_0002.jpg/info.json"
-"smallform_0342_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0342_0003.jpg/info.json"
+smallform_0342_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0342_0001.jpg/info.json"
+smallform_0342_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0342_0002.jpg/info.json"
+smallform_0342_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0342_0003.jpg/info.json"

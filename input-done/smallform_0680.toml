@@ -3,4 +3,4 @@ mf_lang = "en"
 mf_label = "[Inhaltsverzeichnis: Die vierzig Säulen der Erinnerung]"
 
 [mf_data]
-"smallform_0680_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0680_0001.jpg/info.json"
+smallform_0680_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0680_0001.jpg/info.json"

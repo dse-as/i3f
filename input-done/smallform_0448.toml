@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Ein Brief aus Indochina"
 
 [mf_data]
-"smallform_0448_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0448_0001.jpg/info.json"
-"smallform_0448_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0448_0002.jpg/info.json"
-"smallform_0448_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0448_0003.jpg/info.json"
+smallform_0448_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0448_0001.jpg/info.json"
+smallform_0448_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0448_0002.jpg/info.json"
+smallform_0448_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0448_0003.jpg/info.json"

@@ -1,9 +1,0 @@
-mf_id = "smallform_0390.json"
-mf_lang = "en"
-mf_label = "Turkestan"
-
-[mf_data]
-smallform_0390_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0390_0001.jpg/info.json"
-smallform_0390_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0390_0002.jpg/info.json"
-smallform_0390_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0390_0003.jpg/info.json"
-smallform_0390_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0390_0004.jpg/info.json"

@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "Das Rote Kreuz in Lissabon (II)"
 
 [mf_data]
-"smallform_0733_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0733_0001.jpg/info.json"
-"smallform_0733_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0733_0002.jpg/info.json"
-"smallform_0733_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0733_0003.jpg/info.json"
-"smallform_0733_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0733_0004.jpg/info.json"
+smallform_0733_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0733_0001.jpg/info.json"
+smallform_0733_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0733_0002.jpg/info.json"
+smallform_0733_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0733_0003.jpg/info.json"
+smallform_0733_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0733_0004.jpg/info.json"

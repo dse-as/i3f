@@ -3,8 +3,8 @@ mf_lang = "en"
 mf_label = "5. Die Steppe [Textzeuge a]"
 
 [mf_data]
-"smallform_0348_0020.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0020.jpg/info.json"
-"smallform_0348_0021.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0021.jpg/info.json"
-"smallform_0348_0022.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0022.jpg/info.json"
-"smallform_0348_0023.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0023.jpg/info.json"
-"smallform_0348_0024.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0024.jpg/info.json"
+smallform_0348_020 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0020.jpg/info.json"
+smallform_0348_021 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0021.jpg/info.json"
+smallform_0348_022 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0022.jpg/info.json"
+smallform_0348_023 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0023.jpg/info.json"
+smallform_0348_024 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0348_0024.jpg/info.json"

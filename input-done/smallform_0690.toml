@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "Ein Ford auf den Strassen Afghanistans [Textzeuge b]"
 
 [mf_data]
-"smallform_0690_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0690_0001.jpg/info.json"
-"smallform_0690_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0690_0002.jpg/info.json"
-"smallform_0690_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0690_0003.jpg/info.json"
-"smallform_0690_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0690_0004.jpg/info.json"
+smallform_0690_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0690_0001.jpg/info.json"
+smallform_0690_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0690_0002.jpg/info.json"
+smallform_0690_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0690_0003.jpg/info.json"
+smallform_0690_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0690_0004.jpg/info.json"

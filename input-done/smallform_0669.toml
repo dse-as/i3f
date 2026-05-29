@@ -3,7 +3,7 @@ mf_lang = "en"
 mf_label = "Neben dem Orient-Express (über Balkangrenzen) [Textzeuge b]"
 
 [mf_data]
-"smallform_0669_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0669_0001.jpg/info.json"
-"smallform_0669_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0669_0002.jpg/info.json"
-"smallform_0669_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0669_0003.jpg/info.json"
-"smallform_0669_0004.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0669_0004.jpg/info.json"
+smallform_0669_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0669_0001.jpg/info.json"
+smallform_0669_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0669_0002.jpg/info.json"
+smallform_0669_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0669_0003.jpg/info.json"
+smallform_0669_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0669_0004.jpg/info.json"

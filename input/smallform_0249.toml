@@ -1,8 +1,0 @@
-mf_id = "smallform_0249.json"
-mf_lang = "en"
-mf_label = "Petsori: Ein Kloster, wo die Zeit still stand [Textzeuge a]"
-
-[mf_data]
-smallform_0249_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0249_0001.jpg/info.json"
-smallform_0249_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0249_0002.jpg/info.json"
-smallform_0249_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0249_0003.jpg/info.json"

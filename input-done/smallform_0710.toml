@@ -3,5 +3,5 @@ mf_lang = "en"
 mf_label = "Persisches Hochgebirge "
 
 [mf_data]
-"smallform_0710_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0710_0001.jpg/info.json"
-"smallform_0710_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0710_0002.jpg/info.json"
+smallform_0710_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0710_0001.jpg/info.json"
+smallform_0710_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0710_0002.jpg/info.json"

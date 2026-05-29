@@ -3,6 +3,6 @@ mf_lang = "en"
 mf_label = "Jahreswechsel in U.S.A.: 1. Der Maginot-Ozean [Textzeuge b]"
 
 [mf_data]
-"smallform_0717_0001.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0717_0001.jpg/info.json"
-"smallform_0717_0002.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0717_0002.jpg/info.json"
-"smallform_0717_0003.jpg" = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0717_0003.jpg/info.json"
+smallform_0717_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0717_0001.jpg/info.json"
+smallform_0717_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0717_0002.jpg/info.json"
+smallform_0717_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0717_0003.jpg/info.json"
