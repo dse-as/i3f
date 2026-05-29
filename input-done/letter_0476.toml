@@ -1,11 +1,8 @@
 mf_id = "letter_0476.json"
 mf_lang = "en"
-mf_label = "Brief von Annemarie Schwarzenbach an Klaus Mann, [1938-08-03]"
-
-# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+mf_label = "Alexanders Eroberung von Persien / Beilgae an Herr Dr. Hürlimann"
 
 [mf_data]
-"letter_0476_001" = "https://www.monacensia-digital.de/i3f/v20/415320/info.json"
-"letter_0476_002" = "https://www.monacensia-digital.de/i3f/v20/415321/info.json"
-
-
+letter_0476_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0476_001.jpg/info.json"
+letter_0476_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0476_002.jpg/info.json"
+letter_0476_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0476_003.jpg/info.json"

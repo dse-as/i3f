@@ -1,8 +1,0 @@
-mf_id = "letter_0476.json"
-mf_lang = "en"
-mf_label = "Alexanders Eroberung von Persien / Beilgae an Herr Dr. Hürlimann"
-
-[mf_data]
-letter_0476_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0476_001.jpg/info.json"
-letter_0476_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0476_002.jpg/info.json"
-letter_0476_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/letter_0476_003.jpg/info.json"
