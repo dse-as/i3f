@@ -1,0 +1,17 @@
+mf_id = "smallform_0711.json"
+mf_lang = "en"
+mf_label = "Holzfäller, Bergarbeiter, Bauern, - und ein Farmhaus in den Bergen von Tennessee (Ein Farmhaus und die Arbeiter und Farmer der Tennessee Berge)"
+
+[mf_data]
+smallform_0711_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0001.jpg/info.json"
+smallform_0711_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0002.jpg/info.json"
+smallform_0711_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0003.jpg/info.json"
+smallform_0711_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0004.jpg/info.json"
+smallform_0711_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0005.jpg/info.json"
+smallform_0711_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0006.jpg/info.json"
+smallform_0711_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0007.jpg/info.json"
+smallform_0711_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0008.jpg/info.json"
+smallform_0711_009 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0009.jpg/info.json"
+smallform_0711_010 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0010.jpg/info.json"
+smallform_0711_011 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0011.jpg/info.json"
+smallform_0711_012 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0711_0012.jpg/info.json"

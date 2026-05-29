@@ -1,0 +1,15 @@
+mf_id = "smallform_0402.json"
+mf_lang = "en"
+mf_label = "Afghanistan, die Schweiz Asiens [Textzeuge a]"
+
+[mf_data]
+smallform_0402_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0001.jpg/info.json"
+smallform_0402_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0002.jpg/info.json"
+smallform_0402_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0003.jpg/info.json"
+smallform_0402_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0004.jpg/info.json"
+smallform_0402_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0005.jpg/info.json"
+smallform_0402_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0006.jpg/info.json"
+smallform_0402_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0007.jpg/info.json"
+smallform_0402_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0008.jpg/info.json"
+smallform_0402_009 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0009.jpg/info.json"
+smallform_0402_010 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0402_0010.jpg/info.json"

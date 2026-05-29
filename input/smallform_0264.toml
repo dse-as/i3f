@@ -1,0 +1,14 @@
+mf_id = "smallform_0264.json"
+mf_lang = "en"
+mf_label = "Die Stadt des unaufhörlichen Versprechens"
+
+[mf_data]
+smallform_0264_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0264_0001.jpg/info.json"
+smallform_0264_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0264_0002.jpg/info.json"
+smallform_0264_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0264_0003.jpg/info.json"
+smallform_0264_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0264_0004.jpg/info.json"
+smallform_0264_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0264_0005.jpg/info.json"
+smallform_0264_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0264_0006.jpg/info.json"
+smallform_0264_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0264_0007.jpg/info.json"
+smallform_0264_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0264_0008.jpg/info.json"
+smallform_0264_009 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0264_0009.jpg/info.json"

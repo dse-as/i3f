@@ -1,0 +1,8 @@
+mf_id = "smallform_0385.json"
+mf_lang = "en"
+mf_label = "Die Gefangenen"
+
+[mf_data]
+smallform_0385_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0385_0001.jpg/info.json"
+smallform_0385_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0385_0002.jpg/info.json"
+smallform_0385_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0385_0003.jpg/info.json"

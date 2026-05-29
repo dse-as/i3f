@@ -1,0 +1,8 @@
+mf_id = "smallform_0508.json"
+mf_lang = "en"
+mf_label = "Wie bei uns ein Oktobertag"
+
+[mf_data]
+smallform_0508_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0508_0001.jpg/info.json"
+smallform_0508_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0508_0002.jpg/info.json"
+smallform_0508_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0508_0003.jpg/info.json"

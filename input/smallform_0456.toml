@@ -1,0 +1,10 @@
+mf_id = "smallform_0456.json"
+mf_lang = "en"
+mf_label = "Welt - Landschaft. Thema: Erinnerung an die Vergangenheit"
+
+[mf_data]
+smallform_0456_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0456_0001.jpg/info.json"
+smallform_0456_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0456_0002.jpg/info.json"
+smallform_0456_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0456_0003.jpg/info.json"
+smallform_0456_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0456_0004.jpg/info.json"
+smallform_0456_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0456_0005.jpg/info.json"

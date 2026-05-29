@@ -1,0 +1,13 @@
+mf_id = "smallform_0141.json"
+mf_lang = "en"
+mf_label = "Drei Tage Morgendämmerung "
+
+[mf_data]
+smallform_0141_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0141_0001.jpg/info.json"
+smallform_0141_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0141_0002.jpg/info.json"
+smallform_0141_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0141_0003.jpg/info.json"
+smallform_0141_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0141_0004.jpg/info.json"
+smallform_0141_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0141_0005.jpg/info.json"
+smallform_0141_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0141_0006.jpg/info.json"
+smallform_0141_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0141_0007.jpg/info.json"
+smallform_0141_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0141_0008.jpg/info.json"

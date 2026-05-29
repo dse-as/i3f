@@ -1,0 +1,7 @@
+mf_id = "smallform_0753.json"
+mf_lang = "en"
+mf_label = "7. Der Winterabend [Textzeuge b - Abschrift]"
+
+[mf_data]
+smallform_0753_014 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0753_0014.jpg/info.json"
+smallform_0753_015 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0753_0015.jpg/info.json"

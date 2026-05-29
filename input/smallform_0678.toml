@@ -1,0 +1,7 @@
+mf_id = "smallform_0678.json"
+mf_lang = "en"
+mf_label = "Die Töpfer von Istalif [Textzeuge b]"
+
+[mf_data]
+smallform_0678_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0678_0001.jpg/info.json"
+smallform_0678_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0678_0002.jpg/info.json"

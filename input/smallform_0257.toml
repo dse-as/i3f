@@ -1,0 +1,12 @@
+mf_id = "smallform_0257.json"
+mf_lang = "en"
+mf_label = "\"Plantagen-Gürtel\" - ein amerikanisches Drama"
+
+[mf_data]
+smallform_0257_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0257_0001.jpg/info.json"
+smallform_0257_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0257_0002.jpg/info.json"
+smallform_0257_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0257_0003.jpg/info.json"
+smallform_0257_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0257_0004.jpg/info.json"
+smallform_0257_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0257_0005.jpg/info.json"
+smallform_0257_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0257_0006.jpg/info.json"
+smallform_0257_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0257_0007.jpg/info.json"

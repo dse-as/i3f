@@ -1,0 +1,6 @@
+mf_id = "smallform_0358.json"
+mf_lang = "en"
+mf_label = "Die Küste"
+
+[mf_data]
+smallform_0358_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0358_0001.jpg/info.json"

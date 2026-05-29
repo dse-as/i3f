@@ -1,0 +1,7 @@
+mf_id = "smallform_0774.json"
+mf_lang = "en"
+mf_label = "Der Geist der türkischen Revolution [Textzeuge a - Durchschlag ohne hs. Anmerkung]"
+
+[mf_data]
+smallform_0774_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0774_0001.jpg/info.json"
+smallform_0774_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0774_0002.jpg/info.json"

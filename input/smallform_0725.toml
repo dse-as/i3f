@@ -1,0 +1,8 @@
+mf_id = "smallform_0725.json"
+mf_lang = "en"
+mf_label = "Ein Artikel über die Schweiz"
+
+[mf_data]
+smallform_0725_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0725_0001.jpg/info.json"
+smallform_0725_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0725_0002.jpg/info.json"
+smallform_0725_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0725_0003.jpg/info.json"

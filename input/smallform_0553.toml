@@ -1,0 +1,10 @@
+mf_id = "smallform_0553.json"
+mf_lang = "en"
+mf_label = "Flug nach Marokko"
+
+[mf_data]
+smallform_0553_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0553_0001.jpg/info.json"
+smallform_0553_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0553_0002.jpg/info.json"
+smallform_0553_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0553_0003.jpg/info.json"
+smallform_0553_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0553_0004.jpg/info.json"
+smallform_0553_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0553_0005.jpg/info.json"

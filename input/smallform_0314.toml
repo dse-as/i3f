@@ -1,0 +1,8 @@
+mf_id = "smallform_0314.json"
+mf_lang = "en"
+mf_label = "Trapezunt : Abschied vom Meer (1) [Textzeuge a]"
+
+[mf_data]
+smallform_0314_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0314_0001.jpg/info.json"
+smallform_0314_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0314_0002.jpg/info.json"
+smallform_0314_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0314_0003.jpg/info.json"

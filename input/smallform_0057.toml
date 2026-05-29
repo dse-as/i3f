@@ -1,0 +1,18 @@
+mf_id = "smallform_0057.json"
+mf_lang = "en"
+mf_label = "The Syrian Expedition, Oriental Institute, University of Chicago (3. Exemplar aus dem Tagebuch)"
+
+[mf_data]
+smallform_0057_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0001.jpg/info.json"
+smallform_0057_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0002.jpg/info.json"
+smallform_0057_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0003.jpg/info.json"
+smallform_0057_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0004.jpg/info.json"
+smallform_0057_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0005.jpg/info.json"
+smallform_0057_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0006.jpg/info.json"
+smallform_0057_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0007.jpg/info.json"
+smallform_0057_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0008.jpg/info.json"
+smallform_0057_009 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0009.jpg/info.json"
+smallform_0057_010 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0010.jpg/info.json"
+smallform_0057_011 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0011.jpg/info.json"
+smallform_0057_012 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0012.jpg/info.json"
+smallform_0057_013 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0057_0013.jpg/info.json"

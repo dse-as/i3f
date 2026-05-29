@@ -1,0 +1,9 @@
+mf_id = "smallform_0584.json"
+mf_lang = "en"
+mf_label = "Spanische Zone"
+
+[mf_data]
+smallform_0584_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0584_0001.jpg/info.json"
+smallform_0584_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0584_0002.jpg/info.json"
+smallform_0584_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0584_0003.jpg/info.json"
+smallform_0584_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0584_0004.jpg/info.json"

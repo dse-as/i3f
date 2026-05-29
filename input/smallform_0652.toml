@@ -1,0 +1,8 @@
+mf_id = "smallform_0652.json"
+mf_lang = "en"
+mf_label = "Zwei Hauptstädte: Ankara und Istanbul [Textzeuge b]"
+
+[mf_data]
+smallform_0652_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0652_0001.jpg/info.json"
+smallform_0652_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0652_0002.jpg/info.json"
+smallform_0652_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0652_0003.jpg/info.json"

@@ -1,0 +1,8 @@
+mf_id = "smallform_0295.json"
+mf_lang = "en"
+mf_label = "Zur Abtretung der sudetendeutschen Gebiete an Deutschland"
+
+[mf_data]
+smallform_0295_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0295_0001.jpg/info.json"
+smallform_0295_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0295_0002.jpg/info.json"
+smallform_0295_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0295_0003.jpg/info.json"

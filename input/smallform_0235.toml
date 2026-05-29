@@ -1,0 +1,9 @@
+mf_id = "smallform_0235.json"
+mf_lang = "en"
+mf_label = "\"A life for the mountains\""
+
+[mf_data]
+smallform_0235_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0235_0001.jpg/info.json"
+smallform_0235_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0235_0002.jpg/info.json"
+smallform_0235_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0235_0003.jpg/info.json"
+smallform_0235_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0235_0004.jpg/info.json"

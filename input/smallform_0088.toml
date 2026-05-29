@@ -1,0 +1,13 @@
+mf_id = "smallform_0088.json"
+mf_lang = "en"
+mf_label = "Heilige Städte in Irak"
+
+[mf_data]
+smallform_0088_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0088_0001.jpg/info.json"
+smallform_0088_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0088_0002.jpg/info.json"
+smallform_0088_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0088_0003.jpg/info.json"
+smallform_0088_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0088_0004.jpg/info.json"
+smallform_0088_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0088_0005.jpg/info.json"
+smallform_0088_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0088_0006.jpg/info.json"
+smallform_0088_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0088_0007.jpg/info.json"
+smallform_0088_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0088_0008.jpg/info.json"

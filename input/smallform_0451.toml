@@ -1,0 +1,8 @@
+mf_id = "smallform_0451.json"
+mf_lang = "en"
+mf_label = "Der Hass"
+
+[mf_data]
+smallform_0451_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0451_0001.jpg/info.json"
+smallform_0451_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0451_0002.jpg/info.json"
+smallform_0451_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0451_0003.jpg/info.json"

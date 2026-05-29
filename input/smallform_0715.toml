@@ -1,0 +1,13 @@
+mf_id = "smallform_0715.json"
+mf_lang = "en"
+mf_label = "[Tagebuch] Thema: Holzindustrie"
+
+[mf_data]
+smallform_0715_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0715_0001.jpg/info.json"
+smallform_0715_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0715_0002.jpg/info.json"
+smallform_0715_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0715_0003.jpg/info.json"
+smallform_0715_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0715_0004.jpg/info.json"
+smallform_0715_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0715_0005.jpg/info.json"
+smallform_0715_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0715_0006.jpg/info.json"
+smallform_0715_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0715_0007.jpg/info.json"
+smallform_0715_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0715_0008.jpg/info.json"

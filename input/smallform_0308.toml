@@ -1,0 +1,9 @@
+mf_id = "smallform_0308.json"
+mf_lang = "en"
+mf_label = "Vom Okzident zum Orient"
+
+[mf_data]
+smallform_0308_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0308_0001.jpg/info.json"
+smallform_0308_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0308_0002.jpg/info.json"
+smallform_0308_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0308_0003.jpg/info.json"
+smallform_0308_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0308_0004.jpg/info.json"

@@ -1,0 +1,7 @@
+mf_id = "smallform_0752.json"
+mf_lang = "en"
+mf_label = "6. Lob des Gesangs im Freien [Textzeuge b - Abschrift]"
+
+[mf_data]
+smallform_0752_012 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0752_0012.jpg/info.json"
+smallform_0752_013 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0752_0013.jpg/info.json"

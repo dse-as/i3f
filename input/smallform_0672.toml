@@ -1,0 +1,7 @@
+mf_id = "smallform_0672.json"
+mf_lang = "en"
+mf_label = "Bayazid : türkisch-iranische Grenze (3) [Textzeuge b]"
+
+[mf_data]
+smallform_0672_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0672_0001.jpg/info.json"
+smallform_0672_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0672_0002.jpg/info.json"

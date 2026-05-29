@@ -1,0 +1,11 @@
+mf_id = "smallform_0653.json"
+mf_lang = "en"
+mf_label = "Städte in Syrien [Textzeuge b]"
+
+[mf_data]
+smallform_0653_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0653_0001.jpg/info.json"
+smallform_0653_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0653_0002.jpg/info.json"
+smallform_0653_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0653_0003.jpg/info.json"
+smallform_0653_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0653_0004.jpg/info.json"
+smallform_0653_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0653_0005.jpg/info.json"
+smallform_0653_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0653_0006.jpg/info.json"

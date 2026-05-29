@@ -1,0 +1,11 @@
+mf_id = "smallform_0183.json"
+mf_lang = "en"
+mf_label = "Wahlnacht in New York"
+
+[mf_data]
+smallform_0183_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0183_0001.jpg/info.json"
+smallform_0183_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0183_0002.jpg/info.json"
+smallform_0183_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0183_0003.jpg/info.json"
+smallform_0183_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0183_0004.jpg/info.json"
+smallform_0183_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0183_0005.jpg/info.json"
+smallform_0183_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0183_0006.jpg/info.json"

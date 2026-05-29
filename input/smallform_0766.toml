@@ -1,0 +1,8 @@
+mf_id = "smallform_0766.json"
+mf_lang = "en"
+mf_label = "5. Die Steppe   [Textzeuge c - Fotokopie]"
+
+[mf_data]
+smallform_0766_013 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0766_0013.jpg/info.json"
+smallform_0766_014 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0766_0014.jpg/info.json"
+smallform_0766_015 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0766_0015.jpg/info.json"

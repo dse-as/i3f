@@ -1,0 +1,8 @@
+mf_id = "smallform_0433.json"
+mf_lang = "en"
+mf_label = " Die Reise durch den Suez-Kanal"
+
+[mf_data]
+smallform_0433_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0433_0001.jpg/info.json"
+smallform_0433_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0433_0002.jpg/info.json"
+smallform_0433_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0433_0003.jpg/info.json"

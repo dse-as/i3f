@@ -1,0 +1,13 @@
+mf_id = "smallform_0700.json"
+mf_lang = "en"
+mf_label = "Herr! Das Namenlose (März/ April 1941) [Textzeuge b]"
+
+[mf_data]
+smallform_0700_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0700_0001.jpg/info.json"
+smallform_0700_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0700_0002.jpg/info.json"
+smallform_0700_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0700_0003.jpg/info.json"
+smallform_0700_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0700_0004.jpg/info.json"
+smallform_0700_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0700_0005.jpg/info.json"
+smallform_0700_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0700_0006.jpg/info.json"
+smallform_0700_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0700_0007.jpg/info.json"
+smallform_0700_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0700_0008.jpg/info.json"

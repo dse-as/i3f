@@ -1,0 +1,9 @@
+mf_id = "smallform_0356.json"
+mf_lang = "en"
+mf_label = "Aktuelles Afghanistan [Textzeuge a]"
+
+[mf_data]
+smallform_0356_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0356_0001.jpg/info.json"
+smallform_0356_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0356_0002.jpg/info.json"
+smallform_0356_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0356_0003.jpg/info.json"
+smallform_0356_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0356_0004.jpg/info.json"

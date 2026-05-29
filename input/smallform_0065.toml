@@ -1,0 +1,8 @@
+mf_id = "smallform_0065.json"
+mf_lang = "en"
+mf_label = "Arabischer Film "
+
+[mf_data]
+smallform_0065_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0065_0001.jpg/info.json"
+smallform_0065_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0065_0002.jpg/info.json"
+smallform_0065_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0065_0003.jpg/info.json"

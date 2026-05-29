@@ -1,0 +1,9 @@
+mf_id = "smallform_0059.json"
+mf_lang = "en"
+mf_label = "Kavalkade in Aleppo"
+
+[mf_data]
+smallform_0059_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0059_0001.jpg/info.json"
+smallform_0059_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0059_0002.jpg/info.json"
+smallform_0059_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0059_0003.jpg/info.json"
+smallform_0059_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0059_0004.jpg/info.json"

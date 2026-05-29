@@ -1,0 +1,7 @@
+mf_id = "smallform_0220.json"
+mf_lang = "en"
+mf_label = "Jugend in Skandinavien - segelt!"
+
+[mf_data]
+smallform_0220_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0220_0001.jpg/info.json"
+smallform_0220_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0220_0002.jpg/info.json"

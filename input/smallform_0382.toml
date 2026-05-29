@@ -1,0 +1,10 @@
+mf_id = "smallform_0382.json"
+mf_lang = "en"
+mf_label = "Englands Wacht am Khyber"
+
+[mf_data]
+smallform_0382_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0382_0001.jpg/info.json"
+smallform_0382_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0382_0002.jpg/info.json"
+smallform_0382_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0382_0003.jpg/info.json"
+smallform_0382_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0382_0004.jpg/info.json"
+smallform_0382_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0382_0005.jpg/info.json"

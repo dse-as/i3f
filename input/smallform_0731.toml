@@ -1,0 +1,8 @@
+mf_id = "smallform_0731.json"
+mf_lang = "en"
+mf_label = "Welt-Landschaft"
+
+[mf_data]
+smallform_0731_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0731_0001.jpg/info.json"
+smallform_0731_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0731_0002.jpg/info.json"
+smallform_0731_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0731_0003.jpg/info.json"

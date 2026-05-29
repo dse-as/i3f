@@ -1,0 +1,9 @@
+mf_id = "smallform_0550.json"
+mf_lang = "en"
+mf_label = "Wiedersehen mit Portugal"
+
+[mf_data]
+smallform_0550_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0550_0001.jpg/info.json"
+smallform_0550_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0550_0002.jpg/info.json"
+smallform_0550_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0550_0003.jpg/info.json"
+smallform_0550_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0550_0004.jpg/info.json"

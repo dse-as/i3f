@@ -1,0 +1,6 @@
+mf_id = "smallform_0538.json"
+mf_lang = "en"
+mf_label = "Pour publication journaux Suisses. (Liste der abgeschickten Publikationen an Schweizer Zeitschriften)"
+
+[mf_data]
+smallform_0538_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0538_0001.jpg/info.json"

@@ -1,0 +1,12 @@
+mf_id = "smallform_0135.json"
+mf_lang = "en"
+mf_label = "Bei diesem Regen "
+
+[mf_data]
+smallform_0135_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0135_0001.jpg/info.json"
+smallform_0135_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0135_0002.jpg/info.json"
+smallform_0135_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0135_0003.jpg/info.json"
+smallform_0135_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0135_0004.jpg/info.json"
+smallform_0135_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0135_0005.jpg/info.json"
+smallform_0135_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0135_0006.jpg/info.json"
+smallform_0135_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0135_0007.jpg/info.json"

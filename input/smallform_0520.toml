@@ -1,0 +1,6 @@
+mf_id = "smallform_0520.json"
+mf_lang = "en"
+mf_label = "5 Afrika-Photos"
+
+[mf_data]
+smallform_0520_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0520_0001.jpg/info.json"

@@ -1,0 +1,7 @@
+mf_id = "smallform_0394.json"
+mf_lang = "en"
+mf_label = "Auto-Abenteuer : ein Ford fährt von Zürich über Afghanistan nach Bombay"
+
+[mf_data]
+smallform_0394_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0394_0001.jpg/info.json"
+smallform_0394_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0394_0002.jpg/info.json"

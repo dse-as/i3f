@@ -1,0 +1,10 @@
+mf_id = "smallform_0326.json"
+mf_lang = "en"
+mf_label = ".... in einem anderen Land [Textzeuge a - Original]"
+
+[mf_data]
+smallform_0326_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0326_0001.jpg/info.json"
+smallform_0326_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0326_0002.jpg/info.json"
+smallform_0326_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0326_0003.jpg/info.json"
+smallform_0326_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0326_0004.jpg/info.json"
+smallform_0326_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0326_0005.jpg/info.json"

@@ -1,0 +1,8 @@
+mf_id = "smallform_0198.json"
+mf_lang = "en"
+mf_label = "Notizen nach dem Bericht v. Dr. Stolper, 1, Wall Street, vom 18. Februar"
+
+[mf_data]
+smallform_0198_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0198_0001.jpg/info.json"
+smallform_0198_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0198_0002.jpg/info.json"
+smallform_0198_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0198_0003.jpg/info.json"

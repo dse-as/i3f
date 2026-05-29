@@ -1,0 +1,8 @@
+mf_id = "smallform_0755.json"
+mf_lang = "en"
+mf_label = "9. Die menschliche Landschaft [Textzeuge b - Abschrift]"
+
+[mf_data]
+smallform_0755_018 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0755_0018.jpg/info.json"
+smallform_0755_019 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0755_0019.jpg/info.json"
+smallform_0755_020 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0755_0020.jpg/info.json"

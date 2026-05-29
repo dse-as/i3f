@@ -1,0 +1,13 @@
+mf_id = "smallform_0200.json"
+mf_lang = "en"
+mf_label = " Die eiserne Stadt"
+
+[mf_data]
+smallform_0200_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0200_0001.jpg/info.json"
+smallform_0200_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0200_0002.jpg/info.json"
+smallform_0200_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0200_0003.jpg/info.json"
+smallform_0200_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0200_0004.jpg/info.json"
+smallform_0200_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0200_0005.jpg/info.json"
+smallform_0200_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0200_0006.jpg/info.json"
+smallform_0200_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0200_0007.jpg/info.json"
+smallform_0200_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0200_0008.jpg/info.json"

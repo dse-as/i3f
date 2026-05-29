@@ -1,0 +1,8 @@
+mf_id = "smallform_0487.json"
+mf_lang = "en"
+mf_label = "Die Armee der U.S.A. braucht Krankenschwestern "
+
+[mf_data]
+smallform_0487_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0487_0001.jpg/info.json"
+smallform_0487_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0487_0002.jpg/info.json"
+smallform_0487_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0487_0003.jpg/info.json"

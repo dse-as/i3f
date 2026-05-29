@@ -1,0 +1,10 @@
+mf_id = "smallform_0707.json"
+mf_lang = "en"
+mf_label = "Das Marokkanische Versailles [Textzeuge b]"
+
+[mf_data]
+smallform_0707_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0707_0001.jpg/info.json"
+smallform_0707_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0707_0002.jpg/info.json"
+smallform_0707_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0707_0003.jpg/info.json"
+smallform_0707_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0707_0004.jpg/info.json"
+smallform_0707_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0707_0005.jpg/info.json"

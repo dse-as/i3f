@@ -1,0 +1,10 @@
+mf_id = "smallform_0273.json"
+mf_lang = "en"
+mf_label = " \"... um die Ehre der amerikanischen Südstaaten\""
+
+[mf_data]
+smallform_0273_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0273_0001.jpg/info.json"
+smallform_0273_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0273_0002.jpg/info.json"
+smallform_0273_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0273_0003.jpg/info.json"
+smallform_0273_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0273_0004.jpg/info.json"
+smallform_0273_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0273_0005.jpg/info.json"

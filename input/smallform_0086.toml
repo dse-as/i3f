@@ -1,0 +1,11 @@
+mf_id = "smallform_0086.json"
+mf_lang = "en"
+mf_label = "Baghdad"
+
+[mf_data]
+smallform_0086_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0086_0001.jpg/info.json"
+smallform_0086_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0086_0002.jpg/info.json"
+smallform_0086_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0086_0003.jpg/info.json"
+smallform_0086_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0086_0004.jpg/info.json"
+smallform_0086_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0086_0005.jpg/info.json"
+smallform_0086_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0086_0006.jpg/info.json"

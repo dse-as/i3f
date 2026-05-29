@@ -1,0 +1,13 @@
+mf_id = "smallform_0759.json"
+mf_lang = "en"
+mf_label = "Das Namenlose"
+
+[mf_data]
+smallform_0759_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0759_0001.jpg/info.json"
+smallform_0759_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0759_0002.jpg/info.json"
+smallform_0759_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0759_0003.jpg/info.json"
+smallform_0759_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0759_0004.jpg/info.json"
+smallform_0759_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0759_0005.jpg/info.json"
+smallform_0759_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0759_0006.jpg/info.json"
+smallform_0759_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0759_0007.jpg/info.json"
+smallform_0759_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0759_0008.jpg/info.json"

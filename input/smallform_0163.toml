@@ -1,0 +1,12 @@
+mf_id = "smallform_0163.json"
+mf_lang = "en"
+mf_label = "Die Mission"
+
+[mf_data]
+smallform_0163_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0163_0001.jpg/info.json"
+smallform_0163_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0163_0002.jpg/info.json"
+smallform_0163_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0163_0003.jpg/info.json"
+smallform_0163_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0163_0004.jpg/info.json"
+smallform_0163_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0163_0005.jpg/info.json"
+smallform_0163_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0163_0006.jpg/info.json"
+smallform_0163_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0163_0007.jpg/info.json"

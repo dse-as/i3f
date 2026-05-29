@@ -1,0 +1,8 @@
+mf_id = "smallform_0732.json"
+mf_lang = "en"
+mf_label = "Randbemerkungen zur amerikanischen Wahl"
+
+[mf_data]
+smallform_0732_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0732_0001.jpg/info.json"
+smallform_0732_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0732_0002.jpg/info.json"
+smallform_0732_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0732_0003.jpg/info.json"

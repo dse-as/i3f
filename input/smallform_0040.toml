@@ -1,0 +1,6 @@
+mf_id = "smallform_0040.json"
+mf_lang = "en"
+mf_label = "Krankenhaus-Nacht [Textzeuge a]"
+
+[mf_data]
+smallform_0040_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0040_0001.jpg/info.json"

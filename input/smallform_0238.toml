@@ -1,0 +1,7 @@
+mf_id = "smallform_0238.json"
+mf_lang = "en"
+mf_label = "\"Der Tod am Khan Tengri\" - letzter Bericht über die Expedition Lorenz Saladins im russischen Tien-schan"
+
+[mf_data]
+smallform_0238_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0238_0001.jpg/info.json"
+smallform_0238_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0238_0002.jpg/info.json"

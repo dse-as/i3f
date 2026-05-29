@@ -1,0 +1,7 @@
+mf_id = "smallform_0453.json"
+mf_lang = "en"
+mf_label = "Die Schiffe streiken"
+
+[mf_data]
+smallform_0453_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0453_0001.jpg/info.json"
+smallform_0453_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0453_0002.jpg/info.json"

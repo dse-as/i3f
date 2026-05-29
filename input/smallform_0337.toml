@@ -1,0 +1,6 @@
+mf_id = "smallform_0337.json"
+mf_lang = "en"
+mf_label = "Die persischen Gärten [Textzeuge a]"
+
+[mf_data]
+smallform_0337_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0337_0001.jpg/info.json"

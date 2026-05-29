@@ -1,0 +1,7 @@
+mf_id = "smallform_0446.json"
+mf_lang = "en"
+mf_label = "Forts. Amerikanisches Tagebuch. [III.] \"U.S.Landstrasse Nr.1\" [Textzeuge a]"
+
+[mf_data]
+smallform_0446_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0446_0001.jpg/info.json"
+smallform_0446_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0446_0002.jpg/info.json"

@@ -1,0 +1,13 @@
+mf_id = "smallform_0533.json"
+mf_lang = "en"
+mf_label = "San Thomé, die Insel am Äquator"
+
+[mf_data]
+smallform_0533_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0001.jpg/info.json"
+smallform_0533_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0002.jpg/info.json"
+smallform_0533_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0003.jpg/info.json"
+smallform_0533_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0004.jpg/info.json"
+smallform_0533_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0005.jpg/info.json"
+smallform_0533_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0006.jpg/info.json"
+smallform_0533_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0007.jpg/info.json"
+smallform_0533_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0533_0008.jpg/info.json"

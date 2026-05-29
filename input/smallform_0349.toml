@@ -1,0 +1,10 @@
+mf_id = "smallform_0349.json"
+mf_lang = "en"
+mf_label = "6. Lob des Gesangs im Freien [Textzeuge a]"
+
+[mf_data]
+smallform_0349_025 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0349_0025.jpg/info.json"
+smallform_0349_026 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0349_0026.jpg/info.json"
+smallform_0349_027 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0349_0027.jpg/info.json"
+smallform_0349_028 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0349_0028.jpg/info.json"
+smallform_0349_029 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0349_0029.jpg/info.json"

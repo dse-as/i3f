@@ -1,0 +1,7 @@
+mf_id = "smallform_0258.json"
+mf_lang = "en"
+mf_label = "Literatur zu Old South"
+
+[mf_data]
+smallform_0258_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0258_0001.jpg/info.json"
+smallform_0258_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0258_0002.jpg/info.json"
