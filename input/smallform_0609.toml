@@ -1,0 +1,15 @@
+mf_id = "smallform_0609.json"
+mf_lang = "en"
+mf_label = "Herr! wie sich mich nähren, deine Himmelsvögel, fast sanfte, ... ["Das Namenlose", hs. ergänzt]"
+
+# IIIF image links as a sequence of key/value pairs under `[mf_data]`
+
+[mf_data]
+"smallform_0609_001" = "https://www.monacensia-digital.de/i3f/v20/415523/info.json"
+"smallform_0609_002" = "https://www.monacensia-digital.de/i3f/v20/415524/info.json"
+"smallform_0609_003" = "https://www.monacensia-digital.de/i3f/v20/415525/info.json"
+"smallform_0609_004" = "https://www.monacensia-digital.de/i3f/v20/415526/info.json"
+"smallform_0609_005" = "https://www.monacensia-digital.de/i3f/v20/415527/info.json"
+"smallform_0609_006" = "https://www.monacensia-digital.de/i3f/v20/415528/info.json"
+"smallform_0609_007" = "https://www.monacensia-digital.de/i3f/v20/415529/info.json"
+"smallform_0609_008" = "https://www.monacensia-digital.de/i3f/v20/415530/info.json"
