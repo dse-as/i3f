@@ -1,0 +1,13 @@
+mf_id = "smallform_0602.json"
+mf_lang = "en"
+mf_label = "Herr! wie sich mich nähren"
+
+[mf_data]
+smallform_0602_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0602_001.jpg/info.json"
+smallform_0602_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0602_002.jpg/info.json"
+smallform_0602_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0602_003.jpg/info.json"
+smallform_0602_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0602_004.jpg/info.json"
+smallform_0602_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0602_005.jpg/info.json"
+smallform_0602_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0602_006.jpg/info.json"
+smallform_0602_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0602_007.jpg/info.json"
+smallform_0602_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0602_008.jpg/info.json"

@@ -1,0 +1,8 @@
+mf_id = "smallform_0603.json"
+mf_lang = "en"
+mf_label = "Eine Stunde vor Funchal"
+
+[mf_data]
+smallform_0603_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0603_001.jpg/info.json"
+smallform_0603_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0603_002.jpg/info.json"
+smallform_0603_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0603_003.jpg/info.json"

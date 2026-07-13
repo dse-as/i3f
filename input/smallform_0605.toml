@@ -1,0 +1,17 @@
+mf_id = "smallform_0605.json"
+mf_lang = "en"
+mf_label = "Die Universität Tartu,- ein baltisches Heidelberg"
+
+[mf_data]
+smallform_0605_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_001.jpg/info.json"
+smallform_0605_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_002.jpg/info.json"
+smallform_0605_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_003.jpg/info.json"
+smallform_0605_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_004.jpg/info.json"
+smallform_0605_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_005.jpg/info.json"
+smallform_0605_006 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_006.jpg/info.json"
+smallform_0605_007 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_007.jpg/info.json"
+smallform_0605_008 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_008.jpg/info.json"
+smallform_0605_009 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_009.jpg/info.json"
+smallform_0605_010 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_010.jpg/info.json"
+smallform_0605_011 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_011.jpg/info.json"
+smallform_0605_012 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0605_012.jpg/info.json"

@@ -1,0 +1,10 @@
+mf_id = "smallform_0604.json"
+mf_lang = "en"
+mf_label = "Das Ende von Etwas"
+
+[mf_data]
+smallform_0604_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0604_001.jpg/info.json"
+smallform_0604_002 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0604_002.jpg/info.json"
+smallform_0604_003 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0604_003.jpg/info.json"
+smallform_0604_004 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0604_004.jpg/info.json"
+smallform_0604_005 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0604_005.jpg/info.json"

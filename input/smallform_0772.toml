@@ -1,0 +1,6 @@
+mf_id = "smallform_0772.json"
+mf_lang = "en"
+mf_label = "Lebenslauf"
+
+[mf_data]
+smallform_0772_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0772_001.jpg/info.json"
