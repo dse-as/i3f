@@ -1,0 +1,6 @@
+mf_id = "smallform_0570.json"
+mf_lang = "en"
+mf_label = "Marokkanische Erntezeit"
+
+[mf_data]
+smallform_0570_001 = "https://iiif.ub.unibe.ch/image/v3/schwarzenbach/smallform_0570_001.tif/info.json"
